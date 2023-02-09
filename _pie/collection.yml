@@ -1,4 +1,5 @@
 collections:
   pie:
     output: true
-    order: []
+    order:
+      - Sign up for PiE.md

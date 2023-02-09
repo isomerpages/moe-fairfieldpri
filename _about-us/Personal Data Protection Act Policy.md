@@ -59,3 +59,4 @@ description: ""
 <p style="padding-left: 40px;">7.2.2 Email: fmsp@moe.edu.sg. Attention it to the &lsquo;Data Protection Officer&rsquo;</p>
 <p style="padding-left: 40px;">7.2.3 School Address: 100 Dover Road, 139648</p>
 <p>7.3 We will certainly aim to deal with any complaint, grievance or feedback that you may have efficiently and fairly.</p>
+<p style="text-align: right;">Last Updated on 25 April 2019</p>

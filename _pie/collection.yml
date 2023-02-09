@@ -2,4 +2,5 @@ collections:
   pie:
     output: true
     order:
+      - Family@Fairfield.md
       - Sign up for PiE.md

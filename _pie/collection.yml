@@ -2,5 +2,6 @@ collections:
   pie:
     output: true
     order:
+      - Ongoing Programmes.md
       - Family@Fairfield.md
       - Sign up for PiE.md

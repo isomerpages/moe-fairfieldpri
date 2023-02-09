@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff Directory/Heads of Department.md
       - Staff Directory/Teaching Staff.md
       - Staff Directory/Learning Support Staff.md
       - Staff Directory/Executive & Administrative Staff.md

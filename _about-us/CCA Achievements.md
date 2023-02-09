@@ -61,3 +61,4 @@ description: ""
 </tr>
 </tbody>
 </table>
+<p>In view of the disruptions to in-person CCA in Semester 2, 2021 as well as Term 1, 2022, MOE has decided that participating schools in the SYF AP for Primary level will not be benchmarked for AP certification in 2022 (i.e. participating groups will not be accredited the Certificate of Distinction, Accomplishment or Commendation). As such, there are no achievements for the Performing Arts CCA in 2022.</p>

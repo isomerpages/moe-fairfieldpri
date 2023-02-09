@@ -2,5 +2,6 @@ collections:
   about-us:
     output: true
     order:
+      - Fairfield Performing Arts Studio.md
       - Contact Us.md
       - Personal Data Protection Act Policy.md

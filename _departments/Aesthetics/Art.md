@@ -127,3 +127,49 @@ third_nav_title: Aesthetics
 <img style="width: 65%;" src="/images/art20.jpg" />
 <p>Students from FMS(P) and Grace Orchard School with MOE Director General of Education (DGE), Mr Wong Siew Hoong.</p>
 <img style="width: 65%;" src="/images/art21.jpg" />
+<p>Mr Wong Yek Yue (Teacher-in-charge) sharing with Director-General of Education,<br />Mr Wong Siew Hoong on how the art works were created and assembled together.</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 25%;"><img style="width: 100%;" src="/images/art22.jpg" /></td>
+<td style="width: 75%;">
+<p>Melanie Tan from Primary 5B was interviewed by Channel News Asia and was featured in the broadcast news on 5 July 2019.</p></td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 35%;"><img style="width: 100%;" src="/images/art23.jpg" /></td>
+<td style="width: 65%;">
+<p>Featuring FMS(P) students with their group mate Atharrudin from Grace Orchard School with their artwork!</p></td>
+</tr>
+	<tr>
+<td style="width: 35%;"><img style="width: 100%;" src="/images/art24.jpg" /></td>
+<td style="width: 65%;">
+<p>Our students are proud to be a Singaporean! Good job, Fairsians!</p></td>
+</tr>
+</tbody>
+</table>
+<img style="width: 65%;" src="/images/art25.jpg" />
+<p>Principals, teachers and students of all who were involved in the SYF 2019 Art Exhibition project &ldquo;Our Inclusive Art Classroom&rdquo;.</p>
+<p><strong>FMS(P) Art Club students featured in SYF official website:</strong><br />Read more here:&nbsp;<a href="https://www.singaporeyouthfestival.sg/art-exhibition/about-the-2019-exhibition" target="_blank" rel="noopener">https://www.singaporeyouthfestival.sg/art-exhibition/about-the-2019-exhibition</a></p>
+<p><strong>2) SYF 2019 Art Exhibition &ndash; Category B &ldquo;The SG Burger&rdquo; was awarded Certificate of Recognition (Special Mention)</strong></p>
+<img style="width: 75%;" src="/images/art26.jpg" /><br>
+<img style="width: 75%;" src="/images/art27.jpg" />
+<p><strong>Documentation of Student Artist SYF Journey&nbsp;</strong><br />Brainstorming</p>
+<img style="width: 100%;" src="/images/art28.jpg" />
+<p>What does the Singapore identity means to us?<br />What does it mean to be a Singapore citizen?<br />Why am I proud to be a Singapore?</p>
+<p>Artmaking Process</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 30%;"><img style="width: 100%;" src="/images/art29.jpg" /></td>
+<td style="width: 70%;"><p>We are all excited to start work. Cut the right amount of clay that we need.<p></td>
+</tr>
+<tr>
+<td style="width: 30%;"><img style="width: 100%;" src="/images/art29.jpg" /></td>
+<td style="width: 70%;"><p>We are all excited to start work. Cut the right amount of clay that we need.<p></td>
+</tr>
+</tbody>
+</table>

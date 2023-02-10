@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Guide to STEPS registrations.md
       - International Student Admissions.md
       - Student Care Centre at FMS(P).md
       - Parents Info.md

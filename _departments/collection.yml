@@ -2,10 +2,10 @@ collections:
   departments:
     output: true
     order:
+      - CCA (NEW)/.keep
+      - CCA (NEW)/CCA (NEW).md
       - CCA (NEW)/School Teams.md
       - CCA (NEW)/Aesthetics.md
       - CCA (NEW)/Sports.md
       - CCA (NEW)/Uniformed Groups.md
       - CCA (NEW)/CCA Modules.md
-      - CCA (NEW)/CCA (NEW).md
-      - CCA (NEW)/.keep

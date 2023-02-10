@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Updates on COVID–19.md
       - Download Forms.md
       - Primary One Registration.md
       - Information on STEPS.md

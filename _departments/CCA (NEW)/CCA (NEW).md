@@ -20,37 +20,37 @@ third_nav_title: CCA (NEW)
 <td>Modules created under</td>
 </tr>
 <tr>
-<td><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca-new/school-teams/aesthetics" target="">Chinese Dance</a></td>
+<td><a href="/about-us/departments/cca-new/school-teams/aesthetics" target="">Chinese Dance</a></td>
 <td>Badminton</td>
 <td>Girls' Brigade</td>
 <td>the domains of:</td>
 </tr>
 <tr>
-<td><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca-new/school-teams/aesthetics" target="">Choir&nbsp;</a></td>
+<td><a href="/about-us/departments/cca-new/school-teams/aesthetics" target="">Choir&nbsp;</a></td>
 <td>Basketball&nbsp;</td>
 <td>Red Cross</td>
 <td><strong>L</strong>eadership</td>
 </tr>
 <tr>
-<td><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca-new/school-teams/aesthetics" target="">Concert Band</a>&nbsp;</td>
+<td><a href="/about-us/departments/cca-new/school-teams/aesthetics" target="">Concert Band</a>&nbsp;</td>
 <td>Football&nbsp;</td>
 <td>Christian Fellowship</td>
 <td><strong>E</strong>nrichment</td>
 </tr>
 <tr>
-<td><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca-new/school-teams/aesthetics" target="">Handbells</a></td>
+<td><a href="/about-us/departments/cca-new/school-teams/aesthetics" target="">Handbells</a></td>
 <td>Volleyball</td>
 <td>&nbsp;</td>
 <td><strong>A</strong>esthetics</td>
 </tr>
 <tr>
-<td><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca-new/school-teams/aesthetics" target="">Visual Art Club</a></td>
+<td><a href="/about-us/departments/cca-new/school-teams/aesthetics" target="">Visual Art Club</a></td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td><strong>P</strong>hysical</td>
 </tr>
 <tr>
-<td><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca-new/school-teams/aesthetics" target="">Media &amp; Infocomm Club</a></td>
+<td><a href="/about-us/departments/cca-new/school-teams/aesthetics" target="">Media &amp; Infocomm Club</a></td>
 <td>&nbsp;</td>
 <td>&nbsp;</td>
 <td><strong>S</strong>ervice Learning</td>

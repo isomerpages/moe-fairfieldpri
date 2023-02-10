@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Student Leadership.md
       - CCE/Growing Years Series.md
       - CCE/CCE.md
       - CCE/.keep

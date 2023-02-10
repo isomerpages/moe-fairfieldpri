@@ -4,30 +4,20 @@ title: Fairfield Methodist Primary School
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: "Verse of the Week: “For I know the plans I have for you, declares
+  the LORD, plans to prosper you and not to harm you, plans to give you hope and
+  a future.” Jeremiah 29:11."
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
+      background: /images/banner.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+        - title: Announcements
+          description: P1 Orientation Session Slides
+          url: /files/P1%20Orientation_11%20Nov.pdf
+        - title: Parents Gateway
+          description: ""
+          url: /files/Onboarding%20Parents%20Gateway.pdf
+        - title: SLS
+          description: ""
+          url: https://www.learning.moe.edu.sg/sls/index.html
 ---
-
-

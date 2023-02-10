@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
+      - CCE/.keep
+      - CCE/CCE.md
       - CCE/LS & Cyberwellness.md
       - CCE/Student Curriculum.md
       - CCE/Student Engagement.md
       - CCE/Student Leadership.md
       - CCE/Growing Years Series.md
-      - CCE/CCE.md
-      - CCE/.keep
       - PE & PAL & CCA.md
       - CCA (NEW)/.keep
       - CCA (NEW)/CCA (NEW).md

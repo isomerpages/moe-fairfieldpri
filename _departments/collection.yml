@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCA (NEW)/Sports.md
       - CCA (NEW)/Uniformed Groups.md
       - CCA (NEW)/CCA Modules.md
       - CCA (NEW)/CCA (NEW).md

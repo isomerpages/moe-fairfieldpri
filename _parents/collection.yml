@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Parents Info.md
       - Vendors & Services.md
       - English Reading List.md
       - MOE Guidelines for School–Home Partnership.md

@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - International Student Admissions.md
       - Student Care Centre at FMS(P).md
       - Parents Info.md
       - Vendors & Services.md

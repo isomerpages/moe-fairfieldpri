@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principal's Message.md
       - Board of Management.md
       - Staff Directory/School Information.md
       - Staff Directory/.keep

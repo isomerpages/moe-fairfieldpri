@@ -25,6 +25,25 @@ links:
         url: https://idp.mims.moe.gov.sg/nidp/saml2/sso
       - title: HRP
         url: https://www.hrp.gov.sg/hrp/#/
+  - title: PiE
+    url: /pie
+    sublinks:
+      - title: About Us
+        url: /pie/about-us
+      - title: Events in 2021
+        url: /pie/events-in-2021
+      - title: Events in 2020
+        url: /pie/events-in-2020
+      - title: Events in 2019
+        url: /pie/events-in-2019
+      - title: Ongoing programmes
+        url: /pie/ongoing-programmes
+      - title: PiE Connect
+        url: /pie/pie-connect
+      - title: Family@Fairfield
+        url: /pie/family-at-fairfield
+      - title: Sign up for PiE
+        url: https://docs.google.com/forms/d/e/1FAIpQLSetWgMsYuLE2KEGjdb-cb4UYGO2Xe_Ng4DDMm99j1u_Y2UaiA/viewform
   - title: Alumni
     url: https://fairfieldalumni.org.sg/
     sublinks:

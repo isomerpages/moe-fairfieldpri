@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/Growing Years Series.md
       - CCE/CCE.md
       - CCE/.keep
       - PE & PAL & CCA.md

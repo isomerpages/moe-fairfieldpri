@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - CCA (NEW)/CCA Modules.md
       - CCA (NEW)/CCA (NEW).md
       - CCA (NEW)/.keep

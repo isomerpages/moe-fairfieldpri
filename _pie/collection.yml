@@ -2,6 +2,7 @@ collections:
   pie:
     output: true
     order:
+      - PiE.md
       - About Us.md
       - Events in 2021.md
       - Events in 2020.md

@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - CCE/.keep
       - PE & PAL & CCA.md
       - CCA (NEW)/.keep
       - CCA (NEW)/CCA (NEW).md

@@ -17,4 +17,9 @@ contacts:
       - email: fmsp@moe.edu.sg
       - other: If you have any feedback, you can write in to fmsp@moe.edu.sg
     title: General Office
+  - content:
+      - phone: +65 6776 2948
+      - email: ""
+      - other: ""
+    title: Fax
 ---

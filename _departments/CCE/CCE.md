@@ -50,4 +50,4 @@ third_nav_title: CCE
 </tbody>
 </table>
 <p style="text-align: right;">Updated as at Term 3, 2020</p>
-<p style="text-align: center;"><a href="/about-us/departments/cce/ls-n-cyberwellness" target="">LS&amp;Cyberwellness&nbsp;</a>|&nbsp;<a href="/about-us/departments/cce/student-curriculum" target="">CIP&nbsp;</a>|&nbsp;<a href="/about-us/departments/cce/student-engagement" target="">Reward &amp; Recognition&nbsp;</a>|&nbsp;<a href="/about-us/departments/cce/student-leadership" target="">Student Leadership&nbsp;</a>|&nbsp;<a href="/about-us/departments/cce/growing-years-series" target="">Growing Years Series</a></p>
+<p style="text-align: center;"><a href="/about-us/departments/cce/ls-n-cyberwellness" target="">LS&amp;Cyberwellness&nbsp;</a>|&nbsp;<a href="/about-us/departments/cce/student-curriculum" target="">CIP&nbsp;</a>|&nbsp;<a href="/about-us/departments/cce/student-engagement" target="">Student Engagement&nbsp;</a>|&nbsp;<a href="/about-us/departments/cce/student-leadership" target="">Student Leadership&nbsp;</a>|&nbsp;<a href="/about-us/departments/cce/growing-years-series" target="">Growing Years Series</a></p>

@@ -25,6 +25,8 @@ links:
         url: https://idp.mims.moe.gov.sg/nidp/saml2/sso
       - title: HRP
         url: https://www.hrp.gov.sg/hrp/#/
+  - title: Students
+    collection: students
   - title: PiE
     url: /pie
     sublinks:

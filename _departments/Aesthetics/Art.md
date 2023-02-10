@@ -277,3 +277,4 @@ third_nav_title: Aesthetics
 </tbody>
 </table>
 <img style="width: 100%;" src="/images/art42.jpg" />
+<p style="text-align: right;">Updated as at Term 3, 2019</p>

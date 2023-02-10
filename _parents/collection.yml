@@ -2,4 +2,5 @@ collections:
   parents:
     output: true
     order:
+      - English Reading List.md
       - MOE Guidelines for School–Home Partnership.md

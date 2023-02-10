@@ -168,8 +168,112 @@ third_nav_title: Aesthetics
 <td style="width: 70%;"><p>We are all excited to start work. Cut the right amount of clay that we need.<p></td>
 </tr>
 <tr>
-<td style="width: 30%;"><img style="width: 100%;" src="/images/art29.jpg" /></td>
-<td style="width: 70%;"><p>We are all excited to start work. Cut the right amount of clay that we need.<p></td>
+<td style="width: 30%;"><img style="width: 100%;" src="/images/art30.jpg" /></td>
+<td style="width: 70%;"><p>Use the rolling pin to flatten the clay to make the buns, tomato slices and meat patty in the burger.  
+<p></td>
 </tr>
 </tbody>
 </table>
+<table style="border-collapse: collapse; width: 75%;" border="1">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/art31.jpg" /></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/art32.jpg" /></td>
+<td style="width: 33.3333%;"><img style="width: 100%;" src="/images/art33.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<p>Making the greens for the burger.</p>
+<table style="border-collapse: collapse; width: 70%;" border="1">
+<tbody>
+<tr>
+<td style="width: 63%;"><img style="width: 100%;" src="/images/art34.jpg" /></td>
+<td style="width: 37%;"><img style="width: 100%;" src="/images/art35.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<p>Engraving the words on the Singapore passport.</p>
+<table style="border-collapse: collapse; width: 70%;" border="1">
+<tbody>
+<tr>
+<td style="width: 55%;"><img style="width: 100%;" src="/images/art36.jpg" /></td>
+<td style="width: 45%;"><img style="width: 100%;" src="/images/art37.jpg" /></td>
+</tr>
+</tbody>
+</table>
+<p>Our buns cracked during bisque firing. Luckily, we managed to use styrofoam to make new buns.</p>
+<p>We proudly present...</p>
+<img style="width: 75%;" src="/images/art38.jpg" /><br>
+<img style="width: 75%;" src="/images/art39.jpg" />
+<p>The SG Burger</p>
+<img style="width: 100%;" src="/images/art40.jpg" />
+<p>The SYF 2019 Art Exhibition will be ongoing till 21 July 2019. Do catch our artworks at the &ldquo;Inclusive Art Classroom&rdquo; and our &ldquo;SG burger&rdquo; at the National Museum of Singapore! Afterwhich, the artworks will be featured at FMS(P) Visual Art Trail (level 3). Look out for them!</p>
+<h4><strong>CARNIVAL@FAIRFIELD 2018</strong></h4>
+<p>During our 130th Founder&rsquo;s Day carnival , the art department and our Primary 4 students contributed to the event by making artworks that were put up for sale. They were also helming the carnival booths. This event provided an opportunity for our students to appreciate the functional role of art-making in society and see for themselves how art can benefit the community.</p>
+<h4><strong>Art Exhibition@FMS(P) 2018</strong></h4>
+<p>Every year, the art department organizes an art exhibition to showcase students&rsquo; artworks as well as for students to appreciate artworks of their peers.</p>
+<h4><strong>Singapore Youth Festival Logo Design Contest 2018</strong></h4>
+<p>This contest was designed to celebrate and bring awareness to the diverse arts talents and achievements of our youth.</p>
+<img style="width: 100%;" src="/images/art41.jpg" />
+<h4><strong>130th Founder&rsquo;s Day Art Competition</strong></h4>
+<p>This year, we saw a total of 85 entries. The selection criteria were: originality, aesthetics qualities/visual appeal and relevance to the theme. 8 artworks were shortlisted, of which 3 were awarded Distinction and 5 were awarded Merit. All winners received a crystal plaque and a certificate of commendation. These winners got to attend an art mentoring programme designed to hone their artistic skills.</p>
+<p>Congratulations to all winners!</p>
+<table>
+<tbody>
+<tr>
+<th><span style="background-color: #ffff00;">No.</span></th>
+<th><span style="background-color: #ffff00;">Name</span></th>
+<th><span style="background-color: #ffff00;">Class</span></th>
+<th><span style="background-color: #ffff00;">Award</span></th>
+</tr>
+<tr>
+<td>1.</td>
+<td>Shannon Tay JiaShyen</td>
+<td>2B</td>
+<td>Distinction</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Natalie Wong Shuwen</td>
+<td>4B</td>
+<td>Distinction</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Sarah Yap Yee Leng&nbsp;</td>
+<td>5G</td>
+<td>Distinction</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Ariel Tan Xinyu&nbsp;</td>
+<td>2E</td>
+<td>Merit</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Tan Hui En, Charlotte&nbsp;</td>
+<td>3B</td>
+<td>Merit</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Delphina Tong She Hong</td>
+<td>3F</td>
+<td>Merit</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Tan En Qian, Melanie</td>
+<td>4D</td>
+<td>Merit</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Cheryl Chua Yingxin</td>
+<td>5G</td>
+<td>Merit</td>
+</tr>
+</tbody>
+</table>
+<img style="width: 100%;" src="/images/art42.jpg" />

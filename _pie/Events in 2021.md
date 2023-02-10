@@ -46,3 +46,27 @@ description: ""
 </tr>
 </tbody>
 </table>
+<h4><strong>SSC Photo Taking (08th February 2021)</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 63%;"><img src="/images/2021l.jpg"></td>
+<td style="width: 37%;"><img src="/images/2021m.jpg"></td>
+</tr>
+<tr>
+<td colspan = "2" ><img src="/images/2021n.jpg"></td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Total Defence Day (10th February 2021)</strong></h4>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 37%;"><img src="/images/2021o.jpg"></td>
+<td style="width: 63%;"><img src="/images/2021p.jpg"></td>
+</tr>
+<tr>
+<td colspan = "2" ><img src="/images/2021q.jpg"></td>
+</tr>
+</tbody>
+</table>

@@ -53,7 +53,48 @@ third_nav_title: Staff Directory
 </li>
 <li><input id="accordion2" type="checkbox" /> <label for="accordion2">Primary 2</label>
 <div>
-<p>This is a simple one line item</p>
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 50%;">
+<p><strong>Mdm Tan Yee Won</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_yee_won@moe.edu.sg" target="">Email</a><br /></strong><strong>Mdm Cheah Yoke Yin</strong><strong>&nbsp;</strong><strong><a href="mailto:cheah_yoke_yin@moe.edu.sg" target="">Email</a><br /></strong>Class 2A</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Mrs Janet Heng</strong><strong>&nbsp;</strong><strong><a href="mailto:goh_chen_chen_janet@moe.edu.sg" target="">Email</a><br /></strong><strong>Mdm Liew Yi Shing</strong>&nbsp;<strong><a href="mailto:liew_yi_shing@moe.edu.sg" target="">Email</a><br /></strong>Class 2B</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Mr Daniel Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:Chan_Weng_Kin_Daniel@moe.edu.sg" target="">Email</a><br /></strong><strong>Ms Kwan Yoke Cheng</strong><strong>&nbsp;</strong><strong><a href="mailto:kwan_yoke_cheng@moe.edu.sg" target="">Email</a><br /></strong>Class 2C</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Mdm Chiu Kit Ying</strong><strong>&nbsp;</strong><strong><a href="mailto:chiu_kit_ying@moe.edu.sg" target="">Email</a><br /></strong><strong>Mrs Ong Geok Cheng</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_geok_cheng@moe.edu.sg" target="">Email</a><br /></strong>Class 2D</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Mrs Iris Tan</strong><strong>&nbsp;<a href="mailto:tay_wan_peng_iris@moe.edu.sg" target="">Email</a><br /></strong><strong>Ms Chan Sew Yoon</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a><br /></strong>Class 2E</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Mdm Kamariah Abdul Rahim</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br /></strong><strong>Mrs Yaw Siok Ching</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_siok_ching@moe.edu.sg" target="">Email</a><br /></strong>Class&nbsp;2F</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Ms Chua Huiman</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br /></strong><strong>Mrs Ann Tham</strong><strong>&nbsp;</strong><strong><a href="mailto:ann_tan_geok_lin@moe.edu.sg" target="">Email</a><br /></strong>Class 2G</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Mr Fu Siqiang</strong><strong>&nbsp;</strong><strong><a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a><br /></strong><strong>Ms Melody Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:melody_tan_chiu_ling@moe.edu.sg" target="">Email</a><br /></strong>Class&nbsp;2H</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Mr Kenneth Ong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_kai_min_kenneth@moe.edu.sg" target="">Email</a><br /></strong><strong>Mrs Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br /></strong>Class&nbsp;2J</p>
+</td>
+<td style="width: 50%;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
 </div>
 </li>
 <li><input id="accordion3" type="checkbox" /> <label for="accordion3">Primary 3</label>

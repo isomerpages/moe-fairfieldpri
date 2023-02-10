@@ -2,6 +2,7 @@ collections:
   pie:
     output: true
     order:
+      - Events in 2020.md
       - Events in 2019.md
       - Ongoing Programmes.md
       - PiE Connect.md

@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Primary One Registration.md
       - Information on STEPS.md
       - Guide to STEPS registrations.md
       - International Student Admissions.md

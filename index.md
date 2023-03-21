@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Fairfield Methodist Primary School
+title: Fairfield Methodist School (Primary)
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
@@ -21,3 +21,4 @@ sections:
           description: ""
           url: https://www.learning.moe.edu.sg/sls/index.html
 ---
+

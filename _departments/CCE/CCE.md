@@ -4,13 +4,13 @@ permalink: /about-us/departments/cce/
 description: ""
 third_nav_title: CCE
 ---
-Character and Citizenship Education (CCE)
------------------------------------------
+<h4><strong>Character and Citizenship Education (CCE)
+</strong></h4>
 
 CCE is an integral element as part of our school’s holistic development of our students. The goal of CCE is to develop our students to become self-directed learners, confident people, active contributors and concerned citizens.
 
-CCE Curriculum Content Areas
-----------------------------
+<h4><strong>CCE Curriculum Content Areas
+</strong></h4>
 
 **1\. Form Teacher Guidance Periods (FTGP) and CCE Lessons (Mother Tongue)**
 

@@ -46,3 +46,5 @@ With the purpose of engaging students in physical activities, the PE department 
 
   
 Students are grouped into sports or non-sports team players and they represent their houses to compete against each other in the assigned games to gain points for their houses. This friendly competitive environment helps to promote teamwork, camaraderie and foster a sense of belonging.
+
+![](/images/PE%20Dept.jpeg)

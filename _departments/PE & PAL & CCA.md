@@ -39,8 +39,8 @@ Pri 5 Level camp
 
 Pri 6 Orienteering
 
-P4 to P6 Sports Carnival
-------------------------
+<h4><strong>P4 to P6 Sports Carnival
+</strong></h4>
 
 With the purpose of engaging students in physical activities, the PE department organised a Sports Carnival annually for every student from Primary 4 to 6 to participate. This provides an opportunity for students to make use of the skills learnt during PE lessons and strengthen the values acquired in a fun-filled friendly competition. 
 

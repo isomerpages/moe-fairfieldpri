@@ -11,8 +11,7 @@ In Fairfield, we believe in providing students with a holistic and experiential 
 
 Through the different Outdoor Experiential activities, students are taught to communicate skilfully as they relate well to others.
 
-PE Events
----------
+<h4><strong>PE Events</strong></h4>
 
 Pri 1 Games Day
 
@@ -26,8 +25,7 @@ Pri 5 Sports Carnival 
 
 Pri 6 Sports Carnival
 
-Outdoor Experiential Learning
------------------------------
+<h4><strong>Outdoor Experiential Learning</strong></h4>
 
 Pri 1 PAL 
 

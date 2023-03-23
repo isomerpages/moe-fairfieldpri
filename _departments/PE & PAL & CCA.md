@@ -3,8 +3,7 @@ title: PE & PAL & CCA
 permalink: /about-us/departments/pe-pal-cca/
 description: ""
 ---
-PE
-==
+<h4><strong>PE</strong></h4>
 
 In Fairfield, we believe in providing students with a holistic and experiential learning through our 6 years PE and Outdoor Experential Program. These experiences to “Master Self” inculcates in students a spirit of excellence and the ability to think critically and creatively.
 

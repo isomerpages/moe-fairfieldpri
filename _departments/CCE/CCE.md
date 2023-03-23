@@ -57,3 +57,5 @@ SEd enables students to understand the physiological, social and emotional chang
 **8\. Rewards and Recognition (R & R)**
 
 Students who demonstrate consistent, exemplary behaviour are affirmed and recognised through various platforms such as Conduct Grade, Praise Cards, Model Student Award and Edusave Character Award.
+
+![](/images/CCE%20Dept.jpeg)

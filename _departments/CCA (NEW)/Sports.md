@@ -147,47 +147,55 @@ third_nav_title: CCA (NEW)
 <h4><strong>Volleyball</strong></h4>
 <p>The volleyball training programme aims to provide a vibrant and enriching experience for our students. With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience and communication through this competitive sport. Students develop their hand-eye coordination, footwork, and agility skills through physical training.</p>
 <p>During our training and competitions, the students worked together which fostered camaraderie in the team. It was heartening to see our young players display sportsmanship during the game.</p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-wogo{background-color:#FFF;color:#0563C1;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
+    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Mrs Ng Wui Joo (OIC)</td>
-<td width="327"><a href="mailto:chua_wui_joo@moe.edu.sg">chua_wui_joo@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Miss Jenny Ang (OIC)</td>
-<td width="327"><a href="mailto:jenny_ang@moe.edu.sg">jenny_ang@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Miss Amanda Choo</td>
-<td width="327"><a href="mailto:amanda_choo_xuan_yi@moe.edu.sg">amanda_choo_xuan_yi@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Natasha</td>
-<td width="327"><a href="mailto:natasha_shamine_pannirsilvam@moe.edu.sg">natasha_shamine_pannirsilvam@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Jacquelin Wong</td>
-<td width="327"><a href="mailto:ong_su_hwee_jacquelin@moe.edu.sg">ong_su_hwee_jacquelin@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Miss Mandy Wong</td>
-<td width="327"><a href="mailto:wong_jia_wen_mandy@moe.edu.sg">wong_jia_wen_mandy@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Goh Wan Peng</td>
-<td width="327"><a href="mailto:ng_wan_peng@moe.edu.sg">ng_wan_peng@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Sing-Ling Ping</td>
-<td width="327"><a href="mailto:ling_ping@moe.edu.sg">ling_ping@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mdm Sandra Hou</td>
-<td width="327"><a href="mailto:hou_may_wah_sandra@moe.edu.sg">hou_may_wah_sandra@moe.edu.sg</a></td>
-</tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Miss Jenny Ang (OIC)</span></td>
+    <td class="tg-wogo"><a href="mailto:jenny_ang@moe.edu.sg"><span style="color:#0563C1">jenny_ang@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Natasha (OIC)</span></td>
+    <td class="tg-wogo"><a href="mailto:natasha_shamine_pannirsilvam@moe.edu.sg"><span style="color:#0563C1">natasha_shamine_pannirsilvam@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Miss Amanda Choo</span></td>
+    <td class="tg-wogo"><a href="mailto:amanda_choo_xuan_yi@moe.edu.sg"><span style="color:#0563C1">amanda_choo_xuan_yi@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Ng Wui Joo</span></td>
+    <td class="tg-wogo"><a href="mailto:chua_wui_joo@moe.edu.sg"><span style="color:#0563C1">chua_wui_joo@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Goh Wan Peng</span></td>
+    <td class="tg-wogo"><a href="mailto:ng_wan_peng@moe.edu.sg"><span style="color:#0563C1">ng_wan_peng@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mdm Shanie Wu</span></td>
+    <td class="tg-wogo"><a href="mailto:wu_lin_ying@moe.edu.sg"><span style="color:#0563C1">wu_lin_ying@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Sing-Ling Ping</span></td>
+    <td class="tg-wogo"><a href="mailto:ling_ping@moe.edu.sg"><span style="color:#0563C1">ling_ping@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mdm Sandra Hou</span></td>
+    <td class="tg-wogo"><a href="mailto:hou_may_wah_sandra@moe.edu.sg"><span style="color:#0563C1">hou_may_wah_sandra@moe.edu.sg</span></a></td>
+  </tr>
 </tbody>
 </table>

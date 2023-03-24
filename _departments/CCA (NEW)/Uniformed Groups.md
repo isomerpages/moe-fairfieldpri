@@ -129,18 +129,3 @@ We give thanks for God's continued blessings!
 </tr>
 </tbody>
 </table>
-<h4><strong>Christian Fellowship</strong></h4>
-<p>Christian Fellowship aims to provide a nurturing and inspiring environment, where God&rsquo;s Word is taught in creative, stimulating and relevant ways. We do this through stories from the Bible, testimonies of missionaries and illustrations from everyday life. Through stories we hope to reflect and learn important truths from God&rsquo;s Word and through application grow in godly character. There will also be a time of praise and worship, interactive games, discussion, and creative activities to do.</p>
-<p>Through our learning together, our students will grow in knowing the love and goodness of God, grow in confidence as children of God, learn to serve and care for one another.</p>
-<table>
-<tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Mrs Joyce Seet</td>
-<td width="327">joyceseet@hotmail.com</td>
-</tr>
-</tbody>
-</table>

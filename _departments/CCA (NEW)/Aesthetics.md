@@ -72,56 +72,72 @@ third_nav_title: CCA (NEW)
 <h4><strong>Concert Band</strong></h4>
 <p>The Band CCA aims to arouse and sustain students&rsquo; interest in music and cultivate the joy and excitement of playing together as a group. Students are given access to a variety of woodwind, brass and percussion instruments. They will also build up their knowledge in music theory by playing in an orchestral environment.&nbsp;</p>
 <p>The Band is helmed by professionally trained musicians and approved instructors who also have a deep passion for teaching and sharing their love for Music. We hope students will build a lifelong love for performing and become great instrumentalists. It is also our wish that being in the band would impart in them leadership skills and important values like teamwork, respect, responsibility and resilience.</p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-wogo{background-color:#FFF;color:#0563C1;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
+    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Mrs Serena Chan (OIC)</td>
-<td width="327"><a href="mailto:chew_mei_jun_serena@moe.edu.sg">chew_mei_jun_serena@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mr Sooraj (OIC)</td>
-<td width="327"><a href="mailto:sooraj_prabhodachandran@moe.edu.sg">sooraj_prabhodachandran@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Miss Melody Tan</td>
-<td width="327"><a href="mailto:melody_tan_chiu_ling@moe.edu.sg">melody_tan_chiu_ling@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Miss Erin Tan</td>
-<td width="327"><a href="mailto:tan_erin@moe.edu.sg">tan_erin@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mr Kenneth Ong</td>
-<td width="327"><a href="mailto:ong_kai_min_kenneth@moe.edu.sg">ong_kai_min_kenneth@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Tan Yee Won</td>
-<td width="327"><a href="mailto:tan_yee_won@moe.edu.sg">tan_yee_won@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mdm Png Bee Hiong</td>
-<td width="327"><a href="mailto:png_bee_hiong@moe.edu.sg">png_bee_hiong@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Miss Suria</td>
-<td width="327"><a href="mailto:suria_mohamed_shafiee@moe.edu.sg">suria_mohamed_shafiee@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mr Kenneth Kueh</td>
-<td width="327"><a href="mailto:kenneth_kueh@moe.edu.sg">kenneth_kueh@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Lee Siu Marn</td>
-<td width="327"><a href="mailto:leong_siu_marn@moe.edu.sg">leong_siu_marn@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Lee Li Tang</td>
-<td width="327"><a href="mailto:tang_li_tang@moe.edu.sg">tang_li_tang@moe.edu.sg</a></td>
-</tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Serena Chan (OIC)</span></td>
+    <td class="tg-wogo"><a href="mailto:chew_mei_jun_serena@moe.edu.sg"><span style="color:#0563C1">chew_mei_jun_serena@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Kenneth Ong (OIC)</span></td>
+    <td class="tg-wogo"><a href="mailto:ong_kai_min_kenneth@moe.edu.sg"><span style="color:#0563C1">ong_kai_min_kenneth@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Geetha</span></td>
+    <td class="tg-wogo"><a href="mailto:geetha_rajendran@moe.edu.sg"><span style="color:#0563C1">geetha_rajendran@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Miss Melody Tan</span></td>
+    <td class="tg-wogo"><a href="mailto:melody_tan_chiu_ling@moe.edu.sg"><span style="color:#0563C1">melody_tan_chiu_ling@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mdm Png Bee Hiong</span></td>
+    <td class="tg-wogo"><a href="mailto:png_bee_hiong@moe.edu.sg"><span style="color:#0563C1">png_bee_hiong@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Sooraj</span></td>
+    <td class="tg-wogo"><a href="mailto:sooraj_prabhodachandran@moe.edu.sg"><span style="color:#0563C1">sooraj_prabhodachandran@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Tan Yee Won</span></td>
+    <td class="tg-wogo"><a href="mailto:tan_yee_won@moe.edu.sg"><span style="color:#0563C1">tan_yee_won@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Sun Ling</span></td>
+    <td class="tg-wogo"><a href="mailto:sun_ling@moe.edu.sg"><span style="color:#0563C1">sun_ling@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Kenneth Kueh</span></td>
+    <td class="tg-wogo"><a href="mailto:kenneth_kueh@moe.edu.sg"><span style="color:#0563C1">kenneth_kueh@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Lee Siu Marn</span></td>
+    <td class="tg-wogo"><a href="mailto:leong_siu_marn@moe.edu.sg"><span style="color:#0563C1">leong_siu_marn@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Lee Li Tang</span></td>
+    <td class="tg-wogo"><a href="mailto:tang_li_tang@moe.edu.sg"><span style="color:#0563C1">tang_li_tang@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Miss Suria</span></td>
+    <td class="tg-wogo"><a href="mailto:suria_mohamed_shafiee@moe.edu.sg"><span style="color:#0563C1">suria_mohamed_shafiee@moe.edu.sg</span></a></td>
+  </tr>
 </tbody>
 </table>
 <h4><strong>Handbells</strong></h4>

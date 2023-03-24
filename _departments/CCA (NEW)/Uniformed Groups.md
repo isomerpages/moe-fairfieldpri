@@ -105,27 +105,31 @@ We give thanks for God's continued blessings!
 <h4><strong>Red Cross</strong></h4>
 <p>Red Cross&nbsp;integrates character-building, leadership, essential lifesaving skills and blood donation knowledge, local community service and overseas humanitarian projects in its curriculum, with the Red Cross ethos and service to humanity as a core focus. The Links are exposed to the essential knowledge of First Aid and Red Cross knowledge. The Links also aim to earn a series of progress badges which represent their marked achievements in areas such as First Aid, Outdoor Activities, Health Education and Disaster Management. The programmes bring out the best of our Links and prepare them for leadership in their families and communities.</p>
 <p>Besides the essential programmes, it also has other fun games and activities to develop other skills, such as teamwork, sports and arts.</p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ls4t{background-color:#FFF;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
+    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Ms Pang Xin (OIC)</td>
-<td width="327"><a href="mailto:pang_xin@moe.edu.sg">pang_xin@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Sun Xue (OIC)</td>
-<td width="327"><a href="mailto:sun_xue@moe.edu.sg">sun_xue@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Sun Ling</td>
-<td width="327"><a href="mailto:sun_ling@moe.edu.sg">sun_ling@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Geetha</td>
-<td width="327"><a href="mailto:geetha_rajendran@moe.edu.sg">geetha_rajendran@moe.edu.sg</a></td>
-</tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Pang Xin (OIC)</span></td>
+    <td class="tg-ls4t"><a href="mailto:pang_xin@moe.edu.sg">pang_xin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Sun Xue (OIC)</span></td>
+    <td class="tg-ls4t"><a href="mailto:sun_xue@moe.edu.sg">sun_xue@moe.edu.sg</a></td>
+  </tr>
 </tbody>
 </table>

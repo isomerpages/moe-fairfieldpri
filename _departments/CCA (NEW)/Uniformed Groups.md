@@ -5,6 +5,16 @@ description: ""
 third_nav_title: CCA (NEW)
 ---
 <h4><strong>Boys' Brigade</strong></h4>
+Formerly part of the 33rd Singapore Company which was founded in 1983 by Mr Jimmy Png, The 33J Boys' Brigade Singapore Company became independent in 2000. Under Mr David Chan, our founding Captain, we started a modular programme system, exposing our Boys in the areas of aesthetics, sport and character development among many others.
+
+  
+
+In the recent years, the Boys have learnt soft skills through interactive sessions of comic-drawing, knots-tying and orienteering while also building character via highly-engaging activities like laser tag, combat archery, and fencing.
+
+  
+
+Our calling for this season is to partner with parents to mould Boys to be Leaders with Character, Servants with Compassion. We believe in empowering our Boys to think of themselves as HEROES who dare to stand up for what they believe in. <br>
+We give thanks for God's continued blessings!
 <table>
 <tbody>
 <tr>

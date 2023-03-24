@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA (NEW)
 ---
 <p>FMS(P) CCA programme provides students with a platform to discover their interests and talents, as well as learn core values, social and emotional competencies and emerging 21st Century Competencies. CCA also aims to emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds.&nbsp;</p>
-<p>FMS(P) offers 3 broad categories to cater to the needs and interests of our students:</p>
+<p>FMS(P) offers 4 broad categories to cater to the needs and interests of our students:</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

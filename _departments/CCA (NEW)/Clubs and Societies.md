@@ -41,8 +41,8 @@ Besides technical skills, STEM education builds and encourages problem solving s
 </tbody>
 </table>
 
-CHRISTIAN FELLOWSHIP
---------------------
+<h4><strong>CHRISTIAN FELLOWSHIP
+</strong></h4>
 
 Christian Fellowship aims to provide a nurturing and inspiring environment, where God’s Word is taught in creative, stimulating and relevant ways. We do this through stories from the Bible, testimonies of missionaries and illustrations from everyday life. Through stories we hope to reflect and learn important truths from God’s Word and through application grow in godly character. There will also be a time of praise and worship, interactive games, discussion, and creative activities to do.
 

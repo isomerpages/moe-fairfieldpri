@@ -15,40 +15,48 @@ In the recent years, the Boys have learnt soft skills through interactive sessio
 
 Our calling for this season is to partner with parents to mould Boys to be Leaders with Character, Servants with Compassion. We believe in empowering our Boys to think of themselves as HEROES who dare to stand up for what they believe in. <br>
 We give thanks for God's continued blessings!
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-wogo{background-color:#FFF;color:#0563C1;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
+    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Ms Arvie (OIC)</td>
-<td width="327"><a href="mailto:guaring_arvie_jean_balon@moe.edu.sg">guaring_arvie_jean_balon@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Dorcas Chan (OIC)</td>
-<td width="327"><a href="mailto:koh_kah_fong_dorcas@moe.edu.sg">koh_kah_fong_dorcas@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mr Raymond Chan</td>
-<td width="327"><a href="mailto:chan_kangshun_raymond@moe.edu.sg">chan_kangshun_raymond@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Mavis Yeo</td>
-<td width="327"><a href="mailto:yeo_bee_koon_mavis@moe.edu.sg">yeo_bee_koon_mavis@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mdm Cindy Wong</td>
-<td width="327"><a href="mailto:wong_wai_foon_cindy@moe.edu.sg">wong_wai_foon_cindy@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mr Daniel Chan</td>
-<td width="327"><a href="mailto:Chan_Weng_Kin_Daniel@moe.edu.sg">Chan_Weng_Kin_Daniel@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Miss Chua Huiman</td>
-<td width="327"><a href="mailto:chua_huiman@moe.edu.sg">chua_huiman@moe.edu.sg</a></td>
-</tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Arvie (OIC)</span></td>
+    <td class="tg-wogo"><a href="mailto:guaring_arvie_jean_balon@moe.edu.sg"><span style="color:#0563C1">guaring_arvie_jean_balon@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Raymond Chan (OIC)</span></td>
+    <td class="tg-wogo"><a href="mailto:chan_kangshun_raymond@moe.edu.sg"><span style="color:#0563C1">chan_kangshun_raymond@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Miss Chua Huiman</span></td>
+    <td class="tg-wogo"><a href="mailto:chua_huiman@moe.edu.sg"><span style="color:#0563C1">chua_huiman@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Mavis Yeo</span></td>
+    <td class="tg-wogo"><a href="mailto:yeo_bee_koon_mavis@moe.edu.sg"><span style="color:#0563C1">yeo_bee_koon_mavis@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mdm Cindy Wong</span></td>
+    <td class="tg-wogo"><a href="mailto:wong_wai_foon_cindy@moe.edu.sg"><span style="color:#0563C1">wong_wai_foon_cindy@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Teh Jing Hurng</span></td>
+    <td class="tg-wogo"><a href="mailto:teh_jing_hurng@moe.edu.sg"><span style="color:#0563C1">teh_jing_hurng@moe.edu.sg</span></a></td>
+  </tr>
 </tbody>
 </table>
 <h4><strong>Girls' Brigade</strong></h4>

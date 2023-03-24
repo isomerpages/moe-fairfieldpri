@@ -143,24 +143,32 @@ third_nav_title: CCA (NEW)
 <h4><strong>Handbells</strong></h4>
 <p>The FMS(P) Handbell Ensemble was established in 2009 and comprises a team of passionate Primary Three to Six ringers. During practice sessions, ringers appreciate music from diverse cultures, enhance their musical aptitude and acquire technical skills of handling and ringing of bells.</p>
 <p>They also cultivate values such as empathy and respect in their interactions with one another. Performing in school and public venues gives ringers the opportunity to build their confidence in public performances.</p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9v25{background-color:#FFF;color:#414CA0;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
+    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td width="198"><strong>Teachers-in-Charge</strong></td>
-<td width="315"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="198">Ms Ang Bee Chin (OIC)</td>
-<td width="315"><a href="mailto:ang_bee_chin@moe.edu.sg">ang_bee_chin@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="198">Mdm Chan Man Pui (OIC)</td>
-<td width="315"><a href="mailto:chan_man_pui@moe.edu.sg">chan_man_pui@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="198">Mdm Lim Sok Hui</td>
-<td width="315"><a href="mailto:lim_sok_hui@moe.edu.sg">lim_sok_hui@moe.edu.sg</a></td>
-</tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Ang Bee Chin (OIC)</span></td>
+    <td class="tg-9v25"><a href="mailto:ang_bee_chin@moe.edu.sg">ang_bee_chin@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mdm Chan Man Pui (OIC)</span></td>
+    <td class="tg-9v25"><a href="mailto:chan_man_pui@moe.edu.sg">chan_man_pui@moe.edu.sg</a></td>
+  </tr>
 </tbody>
 </table>
 <h4><strong>Visual Art Club</strong></h4>

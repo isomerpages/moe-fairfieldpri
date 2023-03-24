@@ -62,36 +62,44 @@ We give thanks for God's continued blessings!
 <h4><strong>Girls' Brigade</strong></h4>
 <p>At Girls&rsquo; Brigade in the 3<sup>rd</sup>&nbsp;Primary Company, girls aged 9-12 years old will spend time having much fun and learning new skills, attitudes and knowledge through activity-based programmes. A GB girl will go through the S.T.A. R. (<strong>S</strong>ervice,&nbsp;<strong>T</strong>reasure,&nbsp;<strong>A</strong>dventure and&nbsp;<strong>R</strong>esponsibility) badgework programme and learn about her own strengths and weaknesses yet be empowered to help others through words and actions and will also be given opportunities to take on new and unknown challenges. For example, a GB Girl can attain the Creator, Artiste, Professional and Handy Girl Adventure badges over her 4 years in GB.</p>
 <p>Our teachers and officers create platforms where our well-crafted syllabus encourages the girls to explore the world around them and have a sense of discipline while cultivating a heart of service through practical workshops, learning journeys, camps, drill sessions and a variety of activities. GB girls will be given many opportunities in their leadership journey as GB Singapore is committed to developing every Girl into a leader. We hope each girl will leave GB having learnt the values of Reverence, Respect and Responsibility.</p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9v25{background-color:#FFF;color:#414CA0;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
+    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Mrs Angeline Lim (OIC)</td>
-<td width="327"><a href="mailto:chow_lye_ngor@moe.edu.sg">chow_lye_ngor@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Miss Cheryl Wong (OIC)</td>
-<td width="327"><a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg">wong_cheng_yi_cheryl@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Gwendolene Phua</td>
-<td width="327"><a href="mailto:gwendolene_phua_noi_kheng@moe.edu.sg">gwendolene_phua_noi_kheng@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Claire Ling</td>
-<td width="327"><a href="mailto:claire_ling_peck_yan@moe.edu.sg">claire_ling_peck_yan@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Wang Shuai</td>
-<td width="327"><a href="mailto:wang_shuai@moe.edu.sg">wang_shuai@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Martha John</td>
-<td width="327"><a href="mailto:martha_ramdas@moe.edu.sg">martha_ramdas@moe.edu.sg</a></td>
-</tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Angeline Lim (OIC)</span></td>
+    <td class="tg-9v25"><a href="mailto:chow_lye_ngor@moe.edu.sg">chow_lye_ngor@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Miss Cheryl Wong (OIC)</span></td>
+    <td class="tg-9v25"><a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg">wong_cheng_yi_cheryl@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Gwendolene Phua</span></td>
+    <td class="tg-9v25"><a href="mailto:gwendolene_phua_noi_kheng@moe.edu.sg">gwendolene_phua_noi_kheng@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Claire Ling</span></td>
+    <td class="tg-9v25"><a href="mailto:claire_ling_peck_yan@moe.edu.sg">claire_ling_peck_yan@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Wang Shuai</span></td>
+    <td class="tg-9v25"><a href="mailto:wang_shuai@moe.edu.sg">wang_shuai@moe.edu.sg</a></td>
+  </tr>
 </tbody>
 </table>
 <h4><strong>Red Cross</strong></h4>

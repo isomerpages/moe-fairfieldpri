@@ -141,3 +141,6 @@ third_nav_title: CCA (NEW)
   </tr>
 </tbody>
 </table>
+
+ \*Visual & Performing Arts <br>
+#Applicable to School Team (Sports)

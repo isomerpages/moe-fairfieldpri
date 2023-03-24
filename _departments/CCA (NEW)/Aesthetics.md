@@ -9,28 +9,36 @@ third_nav_title: CCA (NEW)
 <p>During our weekly training sessions, dancers will be coached to develop flexibility and techniques as part of the dance curriculum.&nbsp;</p>
 <p>These dance training sessions also help to build good rapport between seniors and juniors as they train and learn alongside each other.&nbsp;</p>
 <p>Our teachers and instructors provide opportunities of performances at various platforms. By exposing them to performing, we aim to develop in them leadership skills and important values like teamwork, care, responsibility and resilience.</p>
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9v25{background-color:#FFF;color:#414CA0;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
+.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
+    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
+  </tr>
+</thead>
 <tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Ms Chiu Kit Ying (OIC)</td>
-<td width="327"><a href="mailto:chiu_kit_ying@moe.edu.sg">chiu_kit_ying@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mdm Shanie Wu (OIC)</td>
-<td width="327"><a href="mailto:wu_lin_ying@moe.edu.sg">wu_lin_ying@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Liew Yi Shing</td>
-<td width="327"><a href="mailto:liew_yi_shing@moe.edu.sg">liew_yi_shing@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Chen Li Chuan</td>
-<td width="327"><a href="mailto:chen_li_chuan@moe.edu.sg">chen_li_chuan@moe.edu.sg</a></td>
-</tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Chiu Kit Ying (OIC)</span></td>
+    <td class="tg-9v25"><a href="mailto:chiu_kit_ying@moe.edu.sg">chiu_kit_ying@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Liew Yi Shing</span></td>
+    <td class="tg-9v25"><a href="mailto:liew_yi_shing@moe.edu.sg">liew_yi_shing@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Chen Li Chuan</span></td>
+    <td class="tg-9v25"><a href="mailto:chen_li_chuan@moe.edu.sg">chen_li_chuan@moe.edu.sg</a></td>
+  </tr>
 </tbody>
 </table>
 <h4><strong>Choir</strong></h4>

@@ -34,8 +34,8 @@ third_nav_title: CCA (NEW)
 <td width="327"><a href="mailto:ng_kah_mun@moe.edu.sg">ng_kah_mun@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td width="198">Mr Teh Jing Hurng</td>
-<td width="327"><a href="mailto:teh_jing_hurng@moe.edu.sg">teh_jing_hurng@moe.edu.sg</a></td>
+<td width="198">Miss Wang Yaling</td>
+<td width="327"><a href="mailto:wang_yaling@moe.edu.sg">wang_yaling@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td width="198">Ms Chan Sew Yoon</td>

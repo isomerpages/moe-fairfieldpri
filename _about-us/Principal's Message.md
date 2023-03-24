@@ -14,8 +14,6 @@ Indeed, our staff and parents are dedicated to the cause of promoting excellence
 
 To God be the Glory!
 
-In partnership with you,  
-
-**Mdm Law Li Mei**
-
+In partnership with you,  <br>
+**Mdm Law Li Mei**<br>
 _Principal_

@@ -3,17 +3,19 @@ title: Principal's Message
 permalink: /about-us/principals-message/
 description: ""
 ---
-
 <p>Dear Parents / Guardians,</p>
-<p>We welcome your child back to school in 2023.</p>
-<p>The school theme for this year is<strong>&nbsp;&lsquo;Flourishing as One Fairfield&rsquo;</strong>&nbsp;and the theme verse is Jeremiah 29:11.</p>
-<p>&ldquo;For I know the plans I have for you,&rdquo; declares the LORD, &ldquo;plans to prosper you and not to harm you, plans to give you hope and a future.&rdquo; We continue to pray for God&rsquo;s abundant blessings, provisions and protection for all Fairfield students and staff, trusting that our children will grow in stature and favour with God and men!</p>
-<p>We are very thankful to God that&nbsp;<strong>Fairfield will be turning 135 in 2023!</strong></p>
-<p>In commemoration of the school&rsquo;s significant milestone, I would like to share with you the line-up of activities throughout the year and all the fundraising activities that the school will undertake in 2023.</p>
-<p>Starting in January, in the period of the Chinese New Year festivities, our students will take part in the&nbsp;<strong>Methodist Welfare Services Hong Bao Donation Drive</strong>. The money raised in this annual donation drive by the Methodist Welfare Services will help to enrich the quality of life for the disadvantaged and the distressed, through integrated and holistic services in partnership with the Methodist churches and the community. This is a meaningful activity<br />to impress upon our students to bless others just as they celebrate their abundance.</p>
-<p>Following next is the&nbsp;<strong>MethodistWalk</strong>, a biennial fundraiser organised by the Methodist Schools&rsquo; Foundation to support Methodist schools and students to meet their educational and financial needs. Funds collected through the Walk will be used for the school&rsquo;s development of an eco-sensory garden for student&rsquo;s learning and appreciation of nature and environment. The actual MethodistWalk will be held on&nbsp;<strong>25 Mar 2023 (Sat)</strong>, represented by our Primary 4 students, at ACS(I). Details will be shared at a date nearer to the event.</p>
-<p>In Term 2, the school will be bustling with activities in preparation for the&nbsp;<strong>Fairfield Carnival.</strong>&nbsp;Students, teachers, Alumni and parents will set up stalls to raise funds for improvement works in school, such as the installation of the auto-irrigation system in all gardens, renovation of the IT Hubs and replacement of classroom intercom systems. The Fairfield Carnival will be held on&nbsp;<strong>29 Apr 2023</strong>&nbsp;(Sat). For many of our students, planning, organizing and helming a stall with their teachers and friends will be one of their fondest memories in life. We hope parents will support actively by buying tickets and providing sponsorship in<br />kind. A separate Parents Gateway (PG) message on how you can do so will be sent out at a closer date.</p>
-<p>After the School Carnival, the school will get busy again with showcasing the&nbsp;<strong>Fairfield Musical on 28 &amp; 29 Jul 2023 (Fri &amp; Sat)</strong>&nbsp;at the Victoria Theatre. We hope that through the involvement of students from FMS(P) and FMS(S), stakeholders and Alumni, as participants or audience, all Fairsians will appreciate God&rsquo;s goodness and be inspired to &lsquo;Flourish as One Fairfield&rsquo;. Original music and songs, along with vibrant Aesthetic groups' performances, will connect the audience with fun and nostalgic moments unique to Fairfield. Woven throughout the plot are important themes of courage, resilience and hope that all Fairsians, past and present, hold dear to. Do support us in the ticket sales at that time!</p>
-<p>2023 will be a vibrant and enriching year for all our students. We seek your support as we instil school pride, develop self-management in our students and encourage our students to own their learning. As emblazoned in our school fa&ccedil;ade, we remain dedicated to &ldquo;train up a child in the way he should go: And when he is old, he will not depart from it.&rdquo; Proverbs 22: 6. We thank you for your partnership in our mission.</p>
-<p>Have a blessed 2023.<br>To God be the Glory!</p>
-<p>In partnership with you,<br /><strong>Mdm Law Li Mei<br /></strong><em>Principal</em></p>
+As we get ready to welcome Term 2, we have much to be thankful for in the one term that has just passed.
+
+Our young ones are blessed with the dare to take on the many demands of a dynamic world. They know that school is where you cultivate more than knowledge and life-long skills. They are increasingly aware that school is about character building, about raising citizens and leaders who can ‘walk on stormy seas’. As we resume face-to-face activities, they have responded with enthusiasm and excitement. For them, learning is joy unsurpassed.  
+
+At Fairfield, we appreciate that every student is unique. We are committed to help the child explore, discover and realise his/her potential and the gifts bestowed by God. In early February at the P5 Cohort Camp, we witness how the P5 students demonstrated not just the spirit of perseverance but also the willingness to take on every challenge, however daunting. Many learn to overcome their fears and limitations given a very different kind of learning environment. In the process, they even extended their learning to help and encourage their peers as well. Also, at our National School Games, our sports teams displayed much grit, teamwork and the spirit of excellence as they played against different school teams. Whatever scores they achieve at the end of each game, it’s always a ‘good game’ to them because they have enjoyed the moment and strived to give their best. 
+
+Indeed, our staff and parents are dedicated to the cause of promoting excellence at school in Fairfield. Thank you all for your relentless support and contribution in Term 1. You are the reason we are Flourishing as One Fairfield. I am constantly reminded and inspired by Jeremiah 29:11, “For I know the plans I have for you,” declares the LORD, “plans to prosper you and not to harm you, plans to give you hope and a future.”
+
+To God be the Glory!
+
+In partnership with you,  
+
+**Mdm Law Li Mei**
+
+_Principal_

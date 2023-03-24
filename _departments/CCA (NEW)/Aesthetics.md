@@ -199,29 +199,3 @@ third_nav_title: CCA (NEW)
 </tr>
 </tbody>
 </table>
-<h4><strong>Media &amp; Infocomm Club</strong></h4>
-<p>The Media InfoComm Club CCA aims to excite students about Information Communication and Technology (ICT) in a fun and meaningful way by helping them to become responsible users and contributors of technology and media. We aim to equip them with varied skills. The modules the students will be learning include:</p>
-<ol>
-<li>Photography</li>
-<li>Videography and editing</li>
-<li>Digital-Animation</li>
-<li>Coding and Programming</li>
-</ol>
-<p>The club aims to provide opportunities to practise soft skills such as leadership and teamwork. It also leverages on digital media as a tool to enhance students' creative and critical thinking skills.</p>
-<p>Students contribute to the school by helping out as photographers and videographers during school events.</p>
-<table>
-<tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Mrs Grace Wee</td>
-<td width="327"><a href="mailto:tay_pei_lyn_grace@moe.edu.sg">tay_pei_lyn_grace@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Jessica Loh</td>
-<td width="327"><a href="mailto:teo_yiying_jessica@moe.edu.sg">teo_yiying_jessica@moe.edu.sg</a></td>
-</tr>
-</tbody>
-</table>

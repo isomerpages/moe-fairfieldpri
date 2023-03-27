@@ -4,7 +4,7 @@ title: Fairfield Methodist School (Primary)
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: ""
+notification: ---
 sections:
   - hero:
       background: /images/banner.gif

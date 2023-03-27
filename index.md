@@ -4,9 +4,7 @@ title: Fairfield Methodist School (Primary)
 description: Brief site description here
 image: /images/logo.jpg
 permalink: /
-notification: "Verse of the Week: “For I know the plans I have for you, declares
-  the LORD, plans to prosper you and not to harm you, plans to give you hope and
-  a future.” Jeremiah 29:11."
+notification: ""
 sections:
   - hero:
       background: /images/banner.gif
@@ -21,4 +19,3 @@ sections:
           description: ""
           url: https://www.learning.moe.edu.sg/sls/index.html
 ---
-

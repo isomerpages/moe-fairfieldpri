@@ -2,8 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Departments/English Language.md
-      - Departments/.keep
       - School Information.md
       - Principal's Message.md
       - Board of Management.md
@@ -15,6 +13,8 @@ collections:
       - Staff Directory/Teaching Staff.md
       - Staff Directory/Learning Support Staff.md
       - Staff Directory/Executive & Administrative Staff.md
+      - Departments/.keep
+      - Departments/English Language.md
       - Departmentsold.md
       - CCA Achievements.md
       - Fairfield Performing Arts Studio.md

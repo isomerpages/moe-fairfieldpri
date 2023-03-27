@@ -2,11 +2,11 @@ collections:
   departments:
     output: true
     order:
-      - Mother Tongue/.keep
-      - Mother Tongue/Mother Tongue.md
-      - Mother Tongue/Chinese.md
-      - Mother Tongue/Malay.md
-      - Mother Tongue/Tamil.md
+      - Mother Tongue OLD/.keep
+      - Mother Tongue OLD/Mother Tongue.md
+      - Mother Tongue OLD/Chinese.md
+      - Mother Tongue OLD/Malay.md
+      - Mother Tongue OLD/Tamil.md
       - ICT Department.md
       - Aesthetics/.keep
       - Aesthetics/Aesthetics.md

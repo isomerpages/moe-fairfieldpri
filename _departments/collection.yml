@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - English Language.md
       - Mother Tongue OLD/.keep
       - Mother Tongue OLD/Mother Tongue.md
       - ICT Department.md

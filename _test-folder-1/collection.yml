@@ -1,4 +1,5 @@
 collections:
   test-folder-1:
     output: true
-    order: []
+    order:
+      - Test subfolder 1/.keep

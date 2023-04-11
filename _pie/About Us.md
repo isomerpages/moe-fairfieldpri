@@ -17,8 +17,9 @@ description: ""
 
 <h4><strong>The Team</strong></h4>
 
-<img src="/images/pie.jpg">
+<img src="/images/2022a%20(1).jpeg">
 
-<p><em>PiE Committee 2021<br></em>Front row: Sylvia Seah, Beatriz Chua , Ang Mei Sze, Willy Lee<br>Back row: Priscilla Oo, Liao Peiying, Hah Ee Lin (Chairperson), Caleb Tey, Zeng Beiqing, Kenneth Lim,</p>
+<p><em>PiE Committee 2022<br></em>Front row Left: Beatriz Chua, Liao Peiying, Sylvia Seah, Willy Lee, Shuming Lu, Ang Mei Sze (Chairperson), Apple Ong, Caleb Tey</p>
 <h4><strong>Contact Us</strong></h4>
+
 <p>Drop us an email at&nbsp;<a href="mailto:FMSP.pie@gmail.com">FMSP.pie@gmail.com</a></p>

@@ -4,8 +4,6 @@ permalink: /about-us/departments/cca/
 description: ""
 third_nav_title: CCA
 ---
-
-
 <p>FMS(P) CCA programme provides students with a platform to discover their interests and talents, as well as learn core values, social and emotional competencies and emerging 21st Century Competencies. CCA also aims to emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds.&nbsp;</p>
 <p>FMS(P) offers 4 broad categories to cater to the needs and interests of our students:</p>
 <style type="text/css">
@@ -32,7 +30,7 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zsoz"><span style="color:#222">Visual &amp;Performing Arts</span></td>
+    <td class="tg-zsoz"><span style="color:#222">Visual &amp; Performing Arts</span></td>
     <td class="tg-zsoz"><span style="color:#222">Sports</span></td>
     <td class="tg-eii6"></td>
     <td class="tg-zstn"><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca/cca-modules"><span style="text-decoration:underline;color:#414CA0">Modules created under the domains of:</span></a><br></td>
@@ -74,14 +72,14 @@ third_nav_title: CCA
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
   </tr>
   <tr>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca/school-teams/aesthetics"><span style="text-decoration:underline;color:#414CA0">Handbells</span></a></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca/school-teams/aesthetics"><span style="text-decoration:underline;color:#414CA0">Handbell Ensemble</span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
     <td class="tg-eii6"></td>
   </tr>
   <tr>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca/school-teams/aesthetics"><span style="text-decoration:underline;color:#414CA0">Visual Art Club</span></a></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca/school-teams/aesthetics"><span style="text-decoration:underline;color:#414CA0">Visual Arts Club</span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
@@ -144,14 +142,14 @@ third_nav_title: CCA
 </tbody>
 </table>
 
- \*Visual & Performing Arts <br>
+&nbsp;\*Visual &amp; Performing Arts <br>
 #Applicable to School Team (Sports)
 
 **Change of CCA**
 
 Your child is encouraged to stay in the CCA for the year. Please note that all requests will be considered on case-by-case basis.
 
-The link ([https://form.gov.sg/62955381b2800a0012215d50](https://form.gov.sg/62955381b2800a0012215d50)) to submit the request for the change of CCA will only open in Term 4. 
+The link ([https://form.gov.sg/62955381b2800a0012215d50](https://form.gov.sg/62955381b2800a0012215d50)) to submit the request for the change of CCA will only open in Term 4.&nbsp;
 
 Any new CCA trials for the requested change is conducted in Term 4 between week 8 and 10. CCA transfer will take effect in January the following year.
 

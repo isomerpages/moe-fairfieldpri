@@ -35,3 +35,7 @@ PiE parents come together every year to decorate the school premises for Chinese
 ### P3 Length, Mass & Volume Activity (17th to 20th May 2022)
 
 ![](/images/PIE%20Events%202022/ffm%20p3%20lmva.jpeg)
+
+### Nature Walk @ Mount Faber – 23 May 2022
+
+

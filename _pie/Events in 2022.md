@@ -51,4 +51,4 @@ This day was a sea of colours as students and teachers came to school in an arra
 ![](/images/PIE%20Events%202022/ffm%20rhd%201.jpeg)
 ![](/images/PIE%20Events%202022/ffm%20rhd.jpeg)
 
-
+### Art Activities & Exhibition (20th to 29th August 2022)

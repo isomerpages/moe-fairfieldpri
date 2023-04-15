@@ -54,7 +54,7 @@ links:
       - title: Alumni Link
         url: https://fairfieldalumni.org.sg/
   - title: PARENTS
-    url: /parents
+    url: /permalink
     sublinks:
       - title: Calendar
         url: /calendar
@@ -68,5 +68,7 @@ links:
         url: /permalink
       - title: Guide to STEPS registration
         url: https://www.moe.gov.sg/primary/transfers/
-      - title: "International Student Admissi "
+      - title: "Foreign Student Admissions "
+        url: /permalink
+      - title: Submenu Title
         url: /permalink

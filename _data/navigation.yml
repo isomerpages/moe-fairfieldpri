@@ -53,18 +53,20 @@ links:
     sublinks:
       - title: Alumni Link
         url: https://fairfieldalumni.org.sg/
-  - title: "PARENTS "
+  - title: PARENTS
     url: /parents
     sublinks:
-      - title: "Calendar "
+      - title: Calendar
         url: /calendar
-      - title: "Updates On Covid 19 "
+      - title: Updates On Covid 19
         url: /permalink
-      - title: "Download Forms "
+      - title: Download Forms
         url: /permalink
-      - title: "Primary One Registration "
+      - title: Primary One Registration
         url: /permalink
-      - title: "Information on STEPS "
+      - title: Information on STEPS
         url: /permalink
       - title: Guide to STEPS registration
         url: https://www.moe.gov.sg/primary/transfers/
+      - title: "International Student Admissi "
+        url: /permalink

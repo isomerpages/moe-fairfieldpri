@@ -23,3 +23,7 @@ PiE parents come together every year to decorate the school premises for Chinese
 ### SSC Photo Taking (16th February 2022)
 
 ![](/images/PIE%20Events%202022/ffm%20ssc%20p1_1.jpeg)
+
+### Total Defence Day (15th February 2022)
+
+![](/images/PIE%20Events%202022/ffm_%20total%20defence.jpeg)

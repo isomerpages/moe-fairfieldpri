@@ -44,5 +44,11 @@ PiE parents come together every year to decorate the school premises for Chinese
 
 ![](/images/PIE%20Events%202022/ffm%20p3%20market%20trip.jpeg)
 
+### Racial Harmony Day (18th to 19th July 2022)
+
+This day was a sea of colours as students and teachers came to school in an array of traditional costumes. The buzz heightened during recess with students trying their hand at traditional games like pick up sticks, five stones and chaptek; and getting a taste of traditional delicacies such as tang yuan, mooncakes, kueh salat and muruku. Racial Harmony Day is celebrated in Singapore to mark the importance of maintaining racial and religious harmony.
+
+![](/images/PIE%20Events%202022/ffm%20rhd%201.jpeg)
+![](/images/PIE%20Events%202022/ffm%20rhd.jpeg)
 
 

@@ -57,7 +57,7 @@ links:
     url: /permalink
     sublinks:
       - title: Calendar
-        url: /calendar
+        url: /parents/calendar/
       - title: Updates On Covid 19
         url: /permalink
       - title: Download Forms
@@ -72,5 +72,9 @@ links:
         url: /permalink
       - title: Student Care Centre at FMS(P)
         url: /permalink
-      - title: "Parents Info "
+      - title: Parents Info
+        url: /permalink
+      - title: "Vendors & Services "
+        url: /permalink
+      - title: "MOE Guidelines School - Home "
         url: /permalink

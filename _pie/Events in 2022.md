@@ -19,3 +19,7 @@ PiE parents were all ready to extend a warm welcome to the new P1s and their par
 PiE parents come together every year to decorate the school premises for Chinese New Year. This year, they enthusiastically covered the school hall, canteen and foyer with festive cheer.
 
 ![](/images/PIE%20Events%202022/ffm%20cny%20p1%20_4.jpeg)
+
+### SSC Photo Taking (16th February 2022)
+
+![](/images/PIE%20Events%202022/ffm%20ssc%20p1_1.jpeg)

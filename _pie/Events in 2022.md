@@ -75,3 +75,6 @@ Held in the assembly area, pupils participated in fun relay games, and showed th
 
 ![](/images/PIE%20Events%202022/ffm%20children's%20day%202.jpeg)
 
+### P1 Orientation (11th November 2022)
+
+![](/images/PIE%20Events%202022/ffm%20p1%20orientation.jpeg)

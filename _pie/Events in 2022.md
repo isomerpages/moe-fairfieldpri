@@ -37,5 +37,3 @@ PiE parents come together every year to decorate the school premises for Chinese
 ![](/images/PIE%20Events%202022/ffm%20p3%20lmva.jpeg)
 
 ### Nature Walk @ Mount Faber – 23 May 2022
-
-

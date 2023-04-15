@@ -35,13 +35,14 @@ PiE parents come together every year to decorate the school premises for Chinese
 
 <img style="width: 95%;" src="/images/PIE%20Events%202022/ffm%20nature%20walk.jpeg">
 
+
 ### P3 Length, Mass &amp; Volume Activity (17th to 20th May 2022)
 
 <img style="width: 95%;" src="/images/PIE%20Events%202022/ffm%20p3%20lmva.jpeg">
 
 ### Nature Walk @ Mount Faber – 23 May 2022
 
-<img style="width: 95%;" src="">/images/PIE%20Events%202022/ffm%20nature%20walk%20mf.jpeg
+<img style="width: 95%;" src="/images/PIE%20Events%202022/ffm%20nature%20walk%20mf.jpeg">
 
 ### P3 Supermarket Trip (13th, 18th, 20th, &amp; 25th July 2022)
 

@@ -13,4 +13,9 @@ PiE parents were all ready to extend a warm welcome to the new P1s and their par
 
 ![](/images/PIE%20Events%202022/ffm%20events%20p1_1.jpeg)
 
+### Chinese New Year Decoration & Celebration (21 January 2022)
 
+
+PiE parents come together every year to decorate the school premises for Chinese New Year. This year, they enthusiastically covered the school hall, canteen and foyer with festive cheer.
+
+![](/images/PIE%20Events%202022/ffm%20cny%20p1%20_4.jpeg)

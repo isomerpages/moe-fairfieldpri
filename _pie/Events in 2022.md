@@ -52,3 +52,26 @@ This day was a sea of colours as students and teachers came to school in an arra
 ![](/images/PIE%20Events%202022/ffm%20rhd.jpeg)
 
 ### Art Activities & Exhibition (20th to 29th August 2022)
+
+![](/images/PIE%20Events%202022/ffm%20art%20activity%20exhibit%201.jpeg)
+
+![](/images/PIE%20Events%202022/ffm%20art%20activity%20exhibit%202.jpeg)
+
+### Teachers’ Day (01st September 2022)
+
+![](/images/PIE%20Events%202022/ffm%20teacher%20day%201.jpeg)
+
+![](/images/PIE%20Events%202022/ffm%20teacher%20day%202.jpeg)
+
+### P1 Games Day (28th September 2022)
+
+Held in the assembly area, pupils participated in fun relay games, and showed their parents the skills they have learnt during PE lessons. PiE parents chaperoned pupils in their respective houses, ushered pupil movements, and served as game assistants.
+
+![](/images/PIE%20Events%202022/ffm%20p1%20games%20day%201.jpeg)
+
+### Children’s Day (06th October 2022)
+
+![](/images/PIE%20Events%202022/ffm%20children's%20day.jpeg)
+
+![](/images/PIE%20Events%202022/ffm%20children's%20day%202.jpeg)
+

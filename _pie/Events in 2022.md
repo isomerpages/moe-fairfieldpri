@@ -27,3 +27,7 @@ PiE parents come together every year to decorate the school premises for Chinese
 ### Total Defence Day (15th February 2022)
 
 ![](/images/PIE%20Events%202022/ffm_%20total%20defence.jpeg)
+
+### Nature Walk @ Green Corridor – 14 April 2022
+
+![](/images/PIE%20Events%202022/ffm%20nature%20walk.jpeg)

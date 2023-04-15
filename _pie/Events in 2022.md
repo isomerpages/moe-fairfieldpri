@@ -11,9 +11,9 @@ description: ""
 
 PiE parents were all ready to extend a warm welcome to the new P1s and their parents into the Fairfield Family. Over the first three days of school, PiE parents shepherded the P1s and helped them settle in. This helped allay the anxieties of the new pupils and their parents. On the first day, P1 parents were also initiated into primary school life and the Fairfield culture with a Parenting Talk. This was followed by networking among the parents by their respective classes.
 
-![](/images/PIE%20Events%202022/ffm%20events%20p1_1.jpeg)
+<img style="width: 55%;" src="">/images/PIE%20Events%202022/ffm%20events%20p1_1.jpeg
 
-### Chinese New Year Decoration & Celebration (21 January 2022)
+### Chinese New Year Decoration &amp; Celebration (21 January 2022)
 
 
 PiE parents come together every year to decorate the school premises for Chinese New Year. This year, they enthusiastically covered the school hall, canteen and foyer with festive cheer.
@@ -32,7 +32,7 @@ PiE parents come together every year to decorate the school premises for Chinese
 
 ![](/images/PIE%20Events%202022/ffm%20nature%20walk.jpeg)
 
-### P3 Length, Mass & Volume Activity (17th to 20th May 2022)
+### P3 Length, Mass &amp; Volume Activity (17th to 20th May 2022)
 
 ![](/images/PIE%20Events%202022/ffm%20p3%20lmva.jpeg)
 
@@ -40,7 +40,7 @@ PiE parents come together every year to decorate the school premises for Chinese
 
 ![](/images/PIE%20Events%202022/ffm%20nature%20walk%20mf.jpeg)
 
-### P3 Supermarket Trip (13th, 18th, 20th, & 25th July 2022)
+### P3 Supermarket Trip (13th, 18th, 20th, &amp; 25th July 2022)
 
 ![](/images/PIE%20Events%202022/ffm%20p3%20market%20trip.jpeg)
 
@@ -51,7 +51,7 @@ This day was a sea of colours as students and teachers came to school in an arra
 ![](/images/PIE%20Events%202022/ffm%20rhd%201.jpeg)
 ![](/images/PIE%20Events%202022/ffm%20rhd.jpeg)
 
-### Art Activities & Exhibition (20th to 29th August 2022)
+### Art Activities &amp; Exhibition (20th to 29th August 2022)
 
 ![](/images/PIE%20Events%202022/ffm%20art%20activity%20exhibit%201.jpeg)
 

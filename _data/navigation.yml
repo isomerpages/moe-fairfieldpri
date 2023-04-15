@@ -26,7 +26,32 @@ links:
       - title: HRP
         url: https://www.hrp.gov.sg/hrp/#/
   - title: Parents
-    collection: parents
+    url: /permalink
+    sublinks:
+      - title: Calendar
+        url: /parents/calendar/
+      - title: Updates On Covid 19
+        url: /parents/updates-on-covid-19/
+      - title: Download Forms
+        url: /parents/download-forms/
+      - title: Primary One Registration
+        url: /parents/primary-one-registration/
+      - title: Information on STEPS
+        url: /parents/information-on-steps/
+      - title: Guide to STEPS registration
+        url: https://www.moe.gov.sg/primary/transfers/
+      - title: Foreign Student Admissions
+        url: /parents/international-student-admissions/
+      - title: Student Care Centre at FMS(P)
+        url: /parents/student-care-centre-at-fms-p/
+      - title: Parents Info
+        url: /parents/parents-info/
+      - title: Vendors & Services
+        url: /parents/vendors-n-services/
+      - title: English Reading List
+        url: /parents/english-reading-list/
+      - title: MOE Guidelines School - Home
+        url: /parents/moe-guidelines-for-school-home-partnership/
   - title: Students
     collection: students
   - title: PiE
@@ -53,30 +78,3 @@ links:
     sublinks:
       - title: Alumni Link
         url: https://fairfieldalumni.org.sg/
-  - title: PARENTS
-    url: /permalink
-    sublinks:
-      - title: Calendar
-        url: /parents/calendar/
-      - title: Updates On Covid 19
-        url: /parents/updates-on-covid-19/
-      - title: Download Forms
-        url: /parents/download-forms/
-      - title: Primary One Registration
-        url: /parents/primary-one-registration/
-      - title: Information on STEPS
-        url: /parents/information-on-steps/
-      - title: Guide to STEPS registration
-        url: https://www.moe.gov.sg/primary/transfers/
-      - title: Foreign Student Admissions
-        url: /parents/international-student-admissions/
-      - title: Student Care Centre at FMS(P)
-        url: /parents/student-care-centre-at-fms-p/
-      - title: Parents Info
-        url: /parents/parents-info/
-      - title: Vendors & Services
-        url: /parents/vendors-n-services/
-      - title: "English Reading List "
-        url: /parents/english-reading-list/
-      - title: MOE Guidelines School - Home
-        url: /parents/moe-guidelines-for-school-home-partnership/

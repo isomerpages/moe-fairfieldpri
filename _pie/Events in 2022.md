@@ -33,3 +33,5 @@ PiE parents come together every year to decorate the school premises for Chinese
 ![](/images/PIE%20Events%202022/ffm%20nature%20walk.jpeg)
 
 ### P3 Length, Mass & Volume Activity (17th to 20th May 2022)
+
+![](/images/PIE%20Events%202022/ffm%20p3%20lmva.jpeg)

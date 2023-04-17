@@ -26,7 +26,7 @@ links:
       - title: HRP
         url: https://www.hrp.gov.sg/hrp/#/
   - title: Parents
-    url: /permalink
+    url: /parents/calendar/
     sublinks:
       - title: Calendar
         url: /parents/calendar/

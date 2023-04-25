@@ -1,0 +1,8 @@
+collections:
+  students:
+    output: true
+    order:
+      - Home–Based Learning.md
+      - School Rules.md
+      - Student Learning Space.md
+      - Useful Links.md

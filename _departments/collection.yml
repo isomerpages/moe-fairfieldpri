@@ -1,0 +1,31 @@
+collections:
+  departments:
+    output: true
+    order:
+      - English Language.md
+      - Mathematics.md
+      - Science.md
+      - Mother Tongue/.keep
+      - Mother Tongue/Mother Tongue.md
+      - Mother Tongue/Chinese Language.md
+      - Mother Tongue/Malay Language.md
+      - Mother Tongue/Tamil Language.md
+      - ICT Department.md
+      - Aesthetics/.keep
+      - Aesthetics/Aesthetics.md
+      - Aesthetics/Learning For Life Programme (LLP).md
+      - Aesthetics/Art.md
+      - Aesthetics/Music.md
+      - Aesthetics/Visual Performing Arts CCA.md
+      - CCE/.keep
+      - CCE/CCE.md
+      - CCE/Growing Years Series.md
+      - PE.md
+      - CCA/.keep
+      - CCA/CCA.md
+      - CCA/School Teams.md
+      - CCA/Aesthetics.md
+      - CCA/Sports.md
+      - CCA/Uniformed Groups.md
+      - CCA/CCA Modules.md
+      - CCA/Clubs and Societies.md

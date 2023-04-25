@@ -1,15 +1,82 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.jpg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    collection: about-us
+  - title: Staff
+    url: /staff
+    sublinks:
+      - title: ICT Guides
+        url: https://drive.google.com/drive/folders/14XeT8YOKWG7XE32tZXPu8W9ppnYs9FXG
+      - title: MOE iCon
+        url: https://workspace.google.com/dashboard
+      - title: MOE Intranet
+        url: https://intranet.moe.gov.sg/
+      - title: MOE SC Mobile
+        url: https://scmobile.moe.edu.sg/login
+      - title: MOE School Cockpit Plus
+        url: https://schoolcockpit.moe.gov.sg/
+      - title: MOE Resource Booking Service
+        url: https://rbs.avero-tech.com/
+      - title: MOE Parents Gateway
+        url: https://pg.moe.edu.sg/
+      - title: MOE Student Learning Space
+        url: https://vle.learning.moe.edu.sg/login
+      - title: MOE MIMS
+        url: https://idp.mims.moe.gov.sg/nidp/saml2/sso
+      - title: HRP
+        url: https://www.hrp.gov.sg/hrp/#/
+  - title: Parents
+    url: /parents/calendar/
+    sublinks:
+      - title: Calendar
+        url: /parents/calendar/
+      - title: Updates On Covid 19
+        url: /parents/updates-on-covid-19/
+      - title: Download Forms
+        url: /parents/download-forms/
+      - title: Primary One Registration
+        url: /parents/primary-one-registration/
+      - title: Information on STEPS
+        url: /parents/information-on-steps/
+      - title: Guide to STEPS registration
+        url: https://www.moe.gov.sg/primary/transfers/
+      - title: Foreign Student Admissions
+        url: /parents/international-student-admissions/
+      - title: Student Care Centre at FMS(P)
+        url: /parents/student-care-centre-at-fms-p/
+      - title: Parents Info
+        url: /parents/parents-info/
+      - title: Vendors & Services
+        url: /parents/vendors-n-services/
+      - title: English Reading List
+        url: /parents/english-reading-list/
+      - title: School - Home MOE Guidelines
+        url: /parents/moe-guidelines-for-school-home-partnership/
+  - title: Students
+    collection: students
+  - title: PiE
+    url: /pie
+    sublinks:
+      - title: About Us
+        url: /pie/about-us
+      - title: Events in 2022
+        url: /pie/events-in-2022/
+      - title: Events in 2021
+        url: /pie/events-in-2021
+      - title: Events in 2020
+        url: /pie/events-in-2020
+      - title: Events in 2019
+        url: /pie/events-in-2019
+      - title: Ongoing programmes
+        url: /pie/ongoing-programmes
+      - title: PiE Connect
+        url: /pie/pie-connect
+      - title: Family@Fairfield
+        url: /pie/family-at-fairfield
+      - title: Sign up for PiE
+        url: https://docs.google.com/forms/d/e/1FAIpQLSetWgMsYuLE2KEGjdb-cb4UYGO2Xe_Ng4DDMm99j1u_Y2UaiA/viewform
+  - title: Alumni
+    url: https://fairfieldalumni.org.sg/
+    sublinks:
+      - title: Alumni Link
+        url: https://fairfieldalumni.org.sg/

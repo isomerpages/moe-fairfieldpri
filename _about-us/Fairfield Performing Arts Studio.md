@@ -21,8 +21,8 @@ description: ""
 <table>
 <tbody>
 <tr>
-<th style="text-align: left;"><span style="background-color: #ffff00;">Purpose</span></th>
-<th style="text-align: left;"><span style="background-color: #ffff00;">Hourly Rate</span></th>
+<th style="text-align: left;">Purpose</th>
+<th style="text-align: left;">Hourly Rate</th>
 </tr>
 <tr>
 <td style="text-align: left;">Performance</td>

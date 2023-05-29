@@ -26,11 +26,11 @@ description: ""
 </tr>
 <tr>
 <td style="text-align: left;">Performance</td>
-<td style="text-align: left;">Under Review</td>
+<td style="text-align: left;">Under review</td>
 </tr>
 <tr>
 <td style="text-align: left;">Rehearsal</td>
-<td style="text-align: left;">Under Review</td>
+<td style="text-align: left;">Under review</td>
 </tr>
 </tbody>
 </table>

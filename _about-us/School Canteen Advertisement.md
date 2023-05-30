@@ -13,7 +13,7 @@ description: ""
 **Application Procedure**
 
 1. Download and complete the application form. You may also request for a hardcopy from the School’s General Office.  
-[Application Form for Canteen Stall](/files/2023/application%20for%20canteen%20stall%20in%20existing%20sch%20(fmsp).pdf)
+* [Application Form for Canteen Stall](/files/2023/application%20for%20canteen%20stall%20in%20existing%20sch%20(fmsp).pdf)
 
 2. Attached the following documents together with the application form:
 * Photocopy of the NRIC (front and back)

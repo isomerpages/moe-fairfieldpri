@@ -10,7 +10,7 @@ sections:
       background: /images/2023/banner2.jpg
       key_highlights:
         - title: Announcements
-          description: P1 Orientation Session Slides
+          description: Fairfield! The Musical
           url: /images/2023/musicalposter2.jpg
         - title: Parents Gateway
           description: ""

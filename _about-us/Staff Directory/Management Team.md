@@ -64,3 +64,9 @@ third_nav_title: Staff Directory
 | Middle Primary     | Mrs Lee Siu Marn    | leong_siu_marn@moe.edu.sg     |
 | Upper Primary     | Mrs Jacelyn Kwan     | chia_pin_jhin@moe.edu.sg     |
 
+#### LEVEL HEADS
+
+| Department | Name | Email |
+| -------- | -------- | -------- |
+| English Language    | Mdm Sandra Hou     | hou_may_wah_sandra@moe.edu.sg     |
+| Science     | Mrs Lee Li Tang     | tang_li_tang@moe.edu.sg     |

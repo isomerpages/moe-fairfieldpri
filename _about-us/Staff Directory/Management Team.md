@@ -47,3 +47,13 @@ third_nav_title: Staff Directory
 | Character &amp; Citizenship Education     | Mr Alvin Lim     | alvin_lim_hsu_jin@moe.edu.sg    |
 | Student Management    | Mdm Ng Pei Yoong   | ng_pei_yoong@moe.edu.sg    |
 | School Staff Developer     | Mdm Jeanne Teh     | teh_hsiao_chuin@moe.edu.sg    |
+
+#### YEAR HEADS
+
+
+| Department | Name | Email |
+| -------- | -------- | -------- |
+| Lower Primary     | Mrs Chan Hwee Binn     | seah_hwee_binn@moe.edu.sg     |
+| Middle Primary     | Mrs Cecilia Lee    | cecilia\_peralta\_lee@moe.edu.sg     |
+| Upper Primary     | Mrs Lim Wei Wei     | chua\_wei\_wei@moe.edu.sg     |
+

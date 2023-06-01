@@ -39,11 +39,11 @@ third_nav_title: Staff Directory
 | -------- | -------- | -------- |
 | English Language     | Miss Sofia Parkash     | sofia_gita_parkash@moe.edu.sg     |
 | Mathematics     | Mr William Ang     | ang_kia_wei_william@moe.edu.sg     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
+| Science     | Mrs Tay Shu Yi     | wee_shu_yi@moe.edu.sg     |
+| Mother Tongue Language     | Mdm Teo Hui Fang    | teo\_hui\_fang@moe.edu.sg     |
+| Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | fu_siqiang@moe.edu.sg    |
+| Aesthetics     | Ms Michelle Yap     | yap_hui_ching_michelle@moe.edu.sg     |
+| Information Communications Technology    | Mdm Chen Siyun    | chen_siyun@moe.edu.sg     |
+| Character &amp; Citizenship Education     | Mr Alvin Lim     | alvin_lim_hsu_jin@moe.edu.sg    |
+| Student Management    | Mdm Ng Pei Yoong   | ng_pei_yoong@moe.edu.sg    |
+| School Staff Developer     | Mdm Jeanne Teh     | teh_hsiao_chuin@moe.edu.sg    |

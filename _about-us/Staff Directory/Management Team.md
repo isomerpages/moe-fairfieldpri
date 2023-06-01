@@ -47,5 +47,3 @@ third_nav_title: Staff Directory
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
-
-

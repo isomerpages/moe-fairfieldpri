@@ -10,8 +10,8 @@ sections:
       background: /images/2023/banner2.jpg
       key_highlights:
         - title: Announcements
-          description: Fairfield! The Musical
-          url: /images/2023/musicalposter2.jpg
+          description: ""
+          url: /parents/announcements/
         - title: Parents Gateway
           description: ""
           url: /files/Onboarding%20Parents%20Gateway.pdf

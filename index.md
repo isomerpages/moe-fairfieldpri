@@ -10,8 +10,8 @@ sections:
       background: /images/2023/banner2.jpg
       key_highlights:
         - title: Announcements
-          description: P1 Orientation Session Slides
-          url: /files/P1%20Orientation_11%20Nov.pdf
+          description: ""
+          url: /parents/announcements/
         - title: Parents Gateway
           description: ""
           url: /files/Onboarding%20Parents%20Gateway.pdf

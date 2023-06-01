@@ -37,39 +37,39 @@ third_nav_title: Staff Directory
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| English Language     | Miss Sofia Parkash     | sofia_gita_parkash@moe.edu.sg     |
-| Mathematics     | Mr William Ang     | ang_kia_wei_william@moe.edu.sg     |
-| Science     | Mrs Tay Shu Yi     | wee_shu_yi@moe.edu.sg     |
-| Mother Tongue Language     | Mdm Teo Hui Fang    | teo\_hui\_fang@moe.edu.sg     |
-| Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | fu_siqiang@moe.edu.sg    |
-| Aesthetics     | Ms Michelle Yap     | yap_hui_ching_michelle@moe.edu.sg     |
-| Information Communications Technology    | Mdm Chen Siyun    | chen_siyun@moe.edu.sg     |
-| Character &amp; Citizenship Education     | Mr Alvin Lim     | alvin_lim_hsu_jin@moe.edu.sg    |
-| Student Management    | Mdm Ng Pei Yoong   | ng_pei_yoong@moe.edu.sg    |
-| School Staff Developer     | Mdm Jeanne Teh     | teh_hsiao_chuin@moe.edu.sg    |
+| English Language     | Miss Sofia Parkash     | [Email Me](sofia_gita_parkash@moe.edu.sg)     |
+| Mathematics     | Mr William Ang     | [Email Me](ang_kia_wei_william@moe.edu.sg)     |
+| Science     | Mrs Tay Shu Yi     | [Email Me](wee_shu_yi@moe.edu.sg)     |
+| Mother Tongue Language     | Mdm Teo Hui Fang    | [Email Me](teo_hui_fang@moe.edu.sg)     |
+| Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | [Email Me](fu_siqiang@moe.edu.sg)    |
+| Aesthetics     | Ms Michelle Yap     | [Email Me](yap_hui_ching_michelle@moe.edu.sg)     |
+| Information Communications Technology    | Mdm Chen Siyun    | [Email Me](chen_siyun@moe.edu.sg)     |
+| Character &amp; Citizenship Education     | Mr Alvin Lim     | [Email Me](alvin_lim_hsu_jin@moe.edu.sg)    |
+| Student Management    | Mdm Ng Pei Yoong   | [Email Me](ng_pei_yoong@moe.edu.sg)    |
+| School Staff Developer     | Mdm Jeanne Teh     | [Email Me](teh_hsiao_chuin@moe.edu.sg)    |
 
 #### YEAR HEADS
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Lower Primary     | Mrs Chan Hwee Binn     | seah_hwee_binn@moe.edu.sg     |
-| Middle Primary     | Mrs Cecilia Lee    | cecilia_peralta_lee@moe.edu.sg     |
-| Upper Primary     | Mrs Lim Wei Wei     | chua_wei_wei@moe.edu.sg     |
+| Lower Primary     | Mrs Chan Hwee Binn     | [Email Me](seah_hwee_binn@moe.edu.sg)     |
+| Middle Primary     | Mrs Cecilia Lee    | [Email Me](cecilia_peralta_lee@moe.edu.sg)     |
+| Upper Primary     | Mrs Lim Wei Wei     | [Email Me](chua_wei_wei@moe.edu.sg)     |
 
 #### ASSISTANT YEAR HEADS
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Lower Primary     | Miss Chan Sew Yoon     | chan_sew_yoon@moe.edu.sg     |
-| Middle Primary     | Mrs Lee Siu Marn    | leong_siu_marn@moe.edu.sg     |
-| Upper Primary     | Mrs Jacelyn Kwan     | chia_pin_jhin@moe.edu.sg     |
+| Lower Primary     | Miss Chan Sew Yoon     | [Email Me](chan_sew_yoon@moe.edu.sg)     |
+| Middle Primary     | Mrs Lee Siu Marn    | [Email Me](leong_siu_marn@moe.edu.sg)     |
+| Upper Primary     | Mrs Jacelyn Kwan     | [Email Me](chia_pin_jhin@moe.edu.sg)     |
 
 #### LEVEL HEADS
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
 | English Language    | Mdm Sandra Hou     | [Email Me](hou_may_wah_sandra@moe.edu.sg)     |
-| Science     | Mrs Lee Li Tang     | [Email me](tang_li_tang@moe.edu.sg)     |
+| Science     | Mrs Lee Li Tang     | [Email Me](tang_li_tang@moe.edu.sg)     |
 
 #### SUBJECT HEADS
 | Department | Name | Email |

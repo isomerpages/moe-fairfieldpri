@@ -12,7 +12,7 @@ third_nav_title: Staff Directory
 | Mathematics     | Mr William Ang     | <a href="mailto:ang_kia_wei_william@moe.edu.sg" target="">Email</a>     |
 | Science     | Mrs Tay Shu Yi     | <a href="mailto:wee_shu_yi@moe.edu.sg" target="">Email</a>     |
 | Mother Tongue Language     | Mdm Teo Hui Fang    | <a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a>     |
-| Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:u_siqiang@moe.edu.sg" target="">Email</a>    |
+| Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a>    |
 | Aesthetics     | Ms Michelle Yap     | <a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a>     |
 | Information Communications Technology    | Mdm Chen Siyun    | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>     |
 | Character &amp; Citizenship Education     | Mr Alvin Lim     | <a href="mailto:alvin_lim_hsu_jin@moe.edu.sg" target="">Email</a>    |
@@ -23,17 +23,17 @@ third_nav_title: Staff Directory
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Lower Primary     | Mrs Chan Hwee Binn     | [Email Me](seah_hwee_binn@moe.edu.sg)     |
-| Middle Primary     | Mrs Cecilia Lee    | [Email Me](cecilia_peralta_lee@moe.edu.sg)     |
-| Upper Primary     | Mrs Lim Wei Wei     | [Email Me](chua_wei_wei@moe.edu.sg)     |
+| Lower Primary     | Mrs Chan Hwee Binn     | <a href="mailto:seah_hwee_binn@moe.edu.sg" target="">Email</a>     |
+| Middle Primary     | Mrs Cecilia Lee    | <a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a>     |
+| Upper Primary     | Mrs Lim Wei Wei     | <a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a>     |
 
 #### ASSISTANT YEAR HEADS
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Lower Primary     | Miss Chan Sew Yoon     | [Email Me](chan_sew_yoon@moe.edu.sg)     |
-| Middle Primary     | Mrs Lee Siu Marn    | [Email Me](leong_siu_marn@moe.edu.sg)     |
-| Upper Primary     | Mrs Jacelyn Kwan     | [Email Me](chia_pin_jhin@moe.edu.sg)     |
+| Lower Primary     | Miss Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a>     |
+| Middle Primary     | Mrs Lee Siu Marn    | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a>     |
+| Upper Primary     | Mrs Jacelyn Kwan     | <a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a>     |
 
 #### LEVEL HEADS
 

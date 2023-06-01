@@ -43,13 +43,14 @@ third_nav_title: Staff Directory
 | Science     | Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">Email</a>     |
 
 #### SUBJECT HEADS
+
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Mother Tongue Language (Malay &amp; Tamil)    | Mr Zamree Bin Mustapha     | [Email Me](zamree_mustapha@moe.edu.sg)     |
-| Co-Curricular Activities     | Mrs Julia Sa     | [Email Me](lim_mei_chia_julia@moe.edu.sg)     |
-| Information Communications Technology     | Mrs Jessica Loh     | [Email Me](teo_yiying_jessica@moe.edu.sg)     |
-| Innovation &amp; Knowledge Management     | Mr Kenneth Kueh     | [Email Me](kenneth_kueh@moe.edu.sg)    |
-| National Education &amp; Social Studies     | Ms Suria Md Shafiee     | [Email Me](suria_mohamed_shafiee@moe.edu.sg)     |
-| Student Well-being     | Mr Liu Lijia     | [Email Me](liu_lijia@moe.edu.sg)     |
-| Student Leadership     | Mrs Joy Au     | [Email Me](tham_kar_yee@moe.edu.sg)     |
-| Special Education Needs     | Mrs Julie Yuan     | [Email Me](julie_phoebe_low@moe.edu.sg)     |
+| Mother Tongue Language (Malay &amp; Tamil)    | Mr Zamree Bin Mustapha     | <a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a>     |
+| Co-Curricular Activities     | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a>     |
+| Information Communications Technology     | Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a>     |
+| Innovation &amp; Knowledge Management     | Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a>    |
+| National Education &amp; Social Studies     | Ms Suria Md Shafiee     | <a href="mailto:suria_mohamed_shafiee@moe.edu.sg" target="">Email</a>     |
+| Student Well-being     | Mr Liu Lijia     | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>     |
+| Student Leadership     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>     |
+| Special Education Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |

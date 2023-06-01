@@ -50,10 +50,17 @@ third_nav_title: Staff Directory
 
 #### YEAR HEADS
 
-
 | Department | Name | Email |
 | -------- | -------- | -------- |
 | Lower Primary     | Mrs Chan Hwee Binn     | seah_hwee_binn@moe.edu.sg     |
-| Middle Primary     | Mrs Cecilia Lee    | cecilia\_peralta\_lee@moe.edu.sg     |
-| Upper Primary     | Mrs Lim Wei Wei     | chua\_wei\_wei@moe.edu.sg     |
+| Middle Primary     | Mrs Cecilia Lee    | cecilia_peralta_lee@moe.edu.sg     |
+| Upper Primary     | Mrs Lim Wei Wei     | chua_wei_wei@moe.edu.sg     |
+
+#### ASSISTANT YEAR HEADS
+
+| Department | Name | Email |
+| -------- | -------- | -------- |
+| Lower Primary     | Miss Chan Sew Yoon     | chan_sew_yoon@moe.edu.sg     |
+| Middle Primary     | Mrs Lee Siu Marn    | leong_siu_marn@moe.edu.sg     |
+| Upper Primary     | Mrs Jacelyn Kwan     | chia_pin_jhin@moe.edu.sg     |
 

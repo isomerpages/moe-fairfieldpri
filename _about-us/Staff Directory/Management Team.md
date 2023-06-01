@@ -9,7 +9,7 @@ third_nav_title: Staff Directory
 | Department | Name | Email |
 | -------- | -------- | -------- |
 | English Language     | Miss Sofia Parkash     | [Email Me](sofia_gita_parkash@moe.edu.sg)     |
-| Mathematics     | Mr William Ang     | [Email Me](ang_kia_wei_william@moe.edu.sg)     |
+| Mathematics     | Mr William Ang     | <a href="mailto:ang_kia_wei_william@moe.edu.sg" target="">Email</a>     |
 | Science     | Mrs Tay Shu Yi     | [Email Me](wee_shu_yi@moe.edu.sg)     |
 | Mother Tongue Language     | Mdm Teo Hui Fang    | [Email Me](teo_hui_fang@moe.edu.sg)     |
 | Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | [Email Me](fu_siqiang@moe.edu.sg)    |

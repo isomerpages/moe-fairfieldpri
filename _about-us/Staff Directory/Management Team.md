@@ -74,12 +74,11 @@ third_nav_title: Staff Directory
 #### SUBJECT HEADS
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-| Text     | Text     | Text     |
-
+| Mother Tongue Language (Malay &amp; Tamil)    | Mr Zamree Bin Mustapha     | [Email Me](zamree_mustapha@moe.edu.sg)     |
+| Co-Curricular Activities     | Mrs Julia Sa     | [Email Me](lim_mei_chia_julia@moe.edu.sg)     |
+| Information Communications Technology     | Mrs Jessica Loh     | [Email Me](teo_yiying_jessica@moe.edu.sg)     |
+| Innovation &amp; Knowledge Management     | Mr Kenneth Kueh     | [Email Me](kenneth_kueh@moe.edu.sg)    |
+| National Education &amp; Social Studies     | Ms Suria Md Shafiee     | [Email Me](suria_mohamed_shafiee@moe.edu.sg)     |
+| Student Well-being     | Mr Liu Lijia     | [Email Me](liu_lijia@moe.edu.sg)     |
+| Student Leadership     | Mrs Joy Au     | [Email Me](tham_kar_yee@moe.edu.sg)     |
+| Special Education Needs     | Mrs Julie Yuan     | [Email Me](julie_phoebe_low@moe.edu.sg)     |

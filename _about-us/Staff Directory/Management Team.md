@@ -37,8 +37,8 @@ third_nav_title: Staff Directory
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| English Language     | Miss Sofia Parkash     | sofia\_gita\_parkash@moe.edu.sg     |
-| Text     | Text     | Text     |
+| English Language     | Miss Sofia Parkash     | sofia_gita_parkash@moe.edu.sg     |
+| Mathematics     | Mr William Ang     | ang_kia_wei_william@moe.edu.sg     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |
 | Text     | Text     | Text     |

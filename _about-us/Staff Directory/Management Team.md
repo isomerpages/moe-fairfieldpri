@@ -13,11 +13,11 @@ third_nav_title: Staff Directory
 | Science     | Mrs Tay Shu Yi     | <a href="mailto:wee_shu_yi@moe.edu.sg" target="">Email</a>     |
 | Mother Tongue Language     | Mdm Teo Hui Fang    | <a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a>     |
 | Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:u_siqiang@moe.edu.sg" target="">Email</a>    |
-| Aesthetics     | Ms Michelle Yap     | [Email Me](yap_hui_ching_michelle@moe.edu.sg)     |
-| Information Communications Technology    | Mdm Chen Siyun    | [Email Me](chen_siyun@moe.edu.sg)     |
-| Character &amp; Citizenship Education     | Mr Alvin Lim     | [Email Me](alvin_lim_hsu_jin@moe.edu.sg)    |
-| Student Management    | Mdm Ng Pei Yoong   | [Email Me](ng_pei_yoong@moe.edu.sg)    |
-| School Staff Developer     | Mdm Jeanne Teh     | [Email Me](teh_hsiao_chuin@moe.edu.sg)    |
+| Aesthetics     | Ms Michelle Yap     | <a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a>     |
+| Information Communications Technology    | Mdm Chen Siyun    | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>     |
+| Character &amp; Citizenship Education     | Mr Alvin Lim     | <a href="mailto:alvin_lim_hsu_jin@moe.edu.sg" target="">Email</a>    |
+| Student Management    | Mdm Ng Pei Yoong   | <a href="mailto:ng_pei_yoong@moe.edu.sg" target="">Email</a>    |
+| School Staff Developer     | Mdm Jeanne Teh     | <a href="mailto:teh_hsiao_chuin@moe.edu.sg" target="">Email</a>    |
 
 #### YEAR HEADS
 

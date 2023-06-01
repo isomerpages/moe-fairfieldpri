@@ -68,5 +68,18 @@ third_nav_title: Staff Directory
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| English Language    | Mdm Sandra Hou     | hou_may_wah_sandra@moe.edu.sg     |
-| Science     | Mrs Lee Li Tang     | tang_li_tang@moe.edu.sg     |
+| English Language    | Mdm Sandra Hou     | [Email Me](hou_may_wah_sandra@moe.edu.sg)     |
+| Science     | Mrs Lee Li Tang     | [Email me](tang_li_tang@moe.edu.sg)     |
+
+#### SUBJECT HEADS
+| Department | Name | Email |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+

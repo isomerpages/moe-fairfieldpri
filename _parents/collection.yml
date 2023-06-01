@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - Announcements.md
       - Calendar.md
       - Updates on COVID–19.md
       - Download Forms.md
+      - Announcements.md
       - Primary One Registration.md
       - Guide to Primary school transfer service.md
       - International Student Admissions.md

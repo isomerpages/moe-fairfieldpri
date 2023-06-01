@@ -8,11 +8,11 @@ third_nav_title: Staff Directory
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| English Language     | Miss Sofia Parkash     | [Email Me](sofia_gita_parkash@moe.edu.sg)     |
+| English Language     | Miss Sofia Parkash     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">Email</a>     |
 | Mathematics     | Mr William Ang     | <a href="mailto:ang_kia_wei_william@moe.edu.sg" target="">Email</a>     |
-| Science     | Mrs Tay Shu Yi     | [Email Me](wee_shu_yi@moe.edu.sg)     |
-| Mother Tongue Language     | Mdm Teo Hui Fang    | [Email Me](teo_hui_fang@moe.edu.sg)     |
-| Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | [Email Me](fu_siqiang@moe.edu.sg)    |
+| Science     | Mrs Tay Shu Yi     | <a href="mailto:wee_shu_yi@moe.edu.sg" target="">Email</a>     |
+| Mother Tongue Language     | Mdm Teo Hui Fang    | <a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a>     |
+| Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:u_siqiang@moe.edu.sg" target="">Email</a>    |
 | Aesthetics     | Ms Michelle Yap     | [Email Me](yap_hui_ching_michelle@moe.edu.sg)     |
 | Information Communications Technology    | Mdm Chen Siyun    | [Email Me](chen_siyun@moe.edu.sg)     |
 | Character &amp; Citizenship Education     | Mr Alvin Lim     | [Email Me](alvin_lim_hsu_jin@moe.edu.sg)    |

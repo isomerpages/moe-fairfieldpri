@@ -30,3 +30,22 @@ third_nav_title: Staff Directory
 <p><strong>Mrs Lim Wei Wei</strong><br>Year Head<br>Upper Primary<br><a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email Me</a></p>
 <p><strong>Mrs Jacelyn Kwan<br></strong>Assistant Year Head<br>Upper Primary<br><a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email Me</a></p>
 <p><strong>Mdm Jeanne Teh</strong><br>School Staff Developer<br><a href="mailto:teh_hsiao_chuin@moe.edu.sg" target="">Email Me</a></p>
+
+    
+
+#### HEADS OF DEPARTMENTS
+
+| Department | Name | Email |
+| -------- | -------- | -------- |
+| English Language     | Miss Sofia Parkash     | sofia\_gita\_parkash@moe.edu.sg     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+| Text     | Text     | Text     |
+
+

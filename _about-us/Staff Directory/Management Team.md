@@ -8,48 +8,49 @@ third_nav_title: Staff Directory
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| English Language     | Miss Sofia Parkash     | [Email Me](sofia_gita_parkash@moe.edu.sg)     |
-| Mathematics     | Mr William Ang     | [Email Me](ang_kia_wei_william@moe.edu.sg)     |
-| Science     | Mrs Tay Shu Yi     | [Email Me](wee_shu_yi@moe.edu.sg)     |
-| Mother Tongue Language     | Mdm Teo Hui Fang    | [Email Me](teo_hui_fang@moe.edu.sg)     |
-| Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | [Email Me](fu_siqiang@moe.edu.sg)    |
-| Aesthetics     | Ms Michelle Yap     | [Email Me](yap_hui_ching_michelle@moe.edu.sg)     |
-| Information Communications Technology    | Mdm Chen Siyun    | [Email Me](chen_siyun@moe.edu.sg)     |
-| Character &amp; Citizenship Education     | Mr Alvin Lim     | [Email Me](alvin_lim_hsu_jin@moe.edu.sg)    |
-| Student Management    | Mdm Ng Pei Yoong   | [Email Me](ng_pei_yoong@moe.edu.sg)    |
-| School Staff Developer     | Mdm Jeanne Teh     | [Email Me](teh_hsiao_chuin@moe.edu.sg)    |
+| English Language     | Miss Sofia Parkash     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">Email</a>     |
+| Mathematics     | Mr William Ang     | <a href="mailto:ang_kia_wei_william@moe.edu.sg" target="">Email</a>     |
+| Science     | Mrs Tay Shu Yi     | <a href="mailto:wee_shu_yi@moe.edu.sg" target="">Email</a>     |
+| Mother Tongue Language     | Mdm Teo Hui Fang    | <a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a>     |
+| Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a>    |
+| Aesthetics     | Ms Michelle Yap     | <a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a>     |
+| Information Communications Technology    | Mdm Chen Siyun    | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>     |
+| Character &amp; Citizenship Education     | Mr Alvin Lim     | <a href="mailto:alvin_lim_hsu_jin@moe.edu.sg" target="">Email</a>    |
+| Student Management    | Mdm Ng Pei Yoong   | <a href="mailto:ng_pei_yoong@moe.edu.sg" target="">Email</a>    |
+| School Staff Developer     | Mdm Jeanne Teh     | <a href="mailto:teh_hsiao_chuin@moe.edu.sg" target="">Email</a>    |
 
 #### YEAR HEADS
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Lower Primary     | Mrs Chan Hwee Binn     | [Email Me](seah_hwee_binn@moe.edu.sg)     |
-| Middle Primary     | Mrs Cecilia Lee    | [Email Me](cecilia_peralta_lee@moe.edu.sg)     |
-| Upper Primary     | Mrs Lim Wei Wei     | [Email Me](chua_wei_wei@moe.edu.sg)     |
+| Lower Primary     | Mrs Chan Hwee Binn     | <a href="mailto:seah_hwee_binn@moe.edu.sg" target="">Email</a>     |
+| Middle Primary     | Mrs Cecilia Lee    | <a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a>     |
+| Upper Primary     | Mrs Lim Wei Wei     | <a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a>     |
 
 #### ASSISTANT YEAR HEADS
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Lower Primary     | Miss Chan Sew Yoon     | [Email Me](chan_sew_yoon@moe.edu.sg)     |
-| Middle Primary     | Mrs Lee Siu Marn    | [Email Me](leong_siu_marn@moe.edu.sg)     |
-| Upper Primary     | Mrs Jacelyn Kwan     | [Email Me](chia_pin_jhin@moe.edu.sg)     |
+| Lower Primary     | Miss Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a>     |
+| Middle Primary     | Mrs Lee Siu Marn    | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a>     |
+| Upper Primary     | Mrs Jacelyn Kwan     | <a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a>     |
 
 #### LEVEL HEADS
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| English Language    | Mdm Sandra Hou     | [Email Me](hou_may_wah_sandra@moe.edu.sg)     |
-| Science     | Mrs Lee Li Tang     | [Email Me](tang_li_tang@moe.edu.sg)     |
+| English Language    | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>     |
+| Science     | Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">Email</a>     |
 
 #### SUBJECT HEADS
+
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Mother Tongue Language (Malay &amp; Tamil)    | Mr Zamree Bin Mustapha     | [Email Me](zamree_mustapha@moe.edu.sg)     |
-| Co-Curricular Activities     | Mrs Julia Sa     | [Email Me](lim_mei_chia_julia@moe.edu.sg)     |
-| Information Communications Technology     | Mrs Jessica Loh     | [Email Me](teo_yiying_jessica@moe.edu.sg)     |
-| Innovation &amp; Knowledge Management     | Mr Kenneth Kueh     | [Email Me](kenneth_kueh@moe.edu.sg)    |
-| National Education &amp; Social Studies     | Ms Suria Md Shafiee     | [Email Me](suria_mohamed_shafiee@moe.edu.sg)     |
-| Student Well-being     | Mr Liu Lijia     | [Email Me](liu_lijia@moe.edu.sg)     |
-| Student Leadership     | Mrs Joy Au     | [Email Me](tham_kar_yee@moe.edu.sg)     |
-| Special Education Needs     | Mrs Julie Yuan     | [Email Me](julie_phoebe_low@moe.edu.sg)     |
+| Mother Tongue Language (Malay &amp; Tamil)    | Mr Zamree Bin Mustapha     | <a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a>     |
+| Co-Curricular Activities     | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a>     |
+| Information Communications Technology     | Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a>     |
+| Innovation &amp; Knowledge Management     | Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a>    |
+| National Education &amp; Social Studies     | Ms Suria Md Shafiee     | <a href="mailto:suria_mohamed_shafiee@moe.edu.sg" target="">Email</a>     |
+| Student Well-being     | Mr Liu Lijia     | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>     |
+| Student Leadership     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>     |
+| Special Education Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |

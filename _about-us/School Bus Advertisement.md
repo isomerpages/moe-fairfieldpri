@@ -16,7 +16,7 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 1. Complete the [Call for Proposal - Annex A](/files/2023/attachment 2 call for proposal - annex a (version june 2023) v2.pdf) 
 
-2. Submit the completed Call for Proposal – Annex A by closing date, 11 July 2023 , to the School’s General Office.
+2. Submit the completed Call for Proposal – Annex A by closing date, <u>**11 July 2023**</u> , to the School’s General Office.
 
 * Address: 100 Dover Road Singapore 139648
 * Contact No: 67788431

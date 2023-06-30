@@ -38,7 +38,7 @@ third_nav_title: Staff Directory
 <p><strong>Mr John Chew</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Rena Tham</strong><strong>&nbsp;</strong><strong><a href="mailto:ho_tze_kim_rena@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mdm Zhang Dejun</strong><strong>&nbsp;</strong><strong><a href="mailto:zhang_dejun@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Joel Lim</strong>&nbsp;<strong><a href="mailto:joel_lim_en-rui@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
+<p><strong>Ms Harshini Ganapathy</strong><strong>&nbsp;</strong><strong><a href="mailto:harshini_ganapathy@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Joel Lim</strong>&nbsp;<strong><a href="mailto:joel_lim_en-rui@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
 </td>
 </tr>
 <tr>

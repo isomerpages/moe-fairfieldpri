@@ -3,14 +3,16 @@ title: Download Forms
 permalink: /parents/download-forms/
 description: ""
 ---
-<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Parents who wish to apply as Parent Volunteers to our school can apply online via FORMSG link:<strong><a href="<strong">https://go.gov.sg/fmsp-parentvolunteerp12026intake</a></strong></p><strong>
+<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Parents who wish to apply as Parent Volunteers to our school can apply online via FORMSG link:<strong><a href="<strong">https://go.gov.sg/fmsp-parentvolunteerp12026intake</a></strong></p>
 
-Current application is open only for children born in **2019**. Applications will close on **31 May 2024**.
+Current application is open only for children born in **2019**.
+
+Applications will close on **31 May 2024**.
 
 Parents will be notified of the outcome via email by **end June 2024.**
 
-<p></p><p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2023 can apply online via FormSG link:&nbsp;<strong><a href="<strong">https://go.gov.sg/fmsptransfer-admission2023</a></strong></p><strong>
-</strong><p><strong>We regret that only shortlisted candidates will be notified.</strong></p>
+<p></p><p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2023 can apply online via FormSG link:&nbsp;<strong><a href="<strong">https://go.gov.sg/fmsptransfer-admission2023</a></strong></p>
+<p><strong>We regret that only shortlisted candidates will be notified.</strong></p>
 <p><strong><u>Application for Leave of Absence (LOA)</u></strong></p>
 <p>i) Parents can apply LOA for their children online via FormSG link:&nbsp;<a target="" href="https://go.gov.sg/fmsp-leaveofabsence"><strong>https://go.gov.sg/fmsp-leaveofabsence</strong></a> based on&nbsp;<strong><u>only</u></strong>&nbsp;the following&nbsp;reasons:</p>
 <ul>
@@ -22,4 +24,4 @@ Parents will be notified of the outcome via email by **end June 2024.**
 <p>iii) The Application processing time takes about 5 working days.</p>
 <p>iv) School will notify parents on the status of the application.</p>
 <p>v) LOA is to be renewed yearly and parents are to re-apply for their child’s LOA by November of each year for the following year.</p>
-<p><strong>Incomplete and unsubstantiated forms (e.g., without supporting documents) will not be considered.</strong></p></strong>
+<p><strong>Incomplete and unsubstantiated forms (e.g., without supporting documents) will not be considered.</strong></p>

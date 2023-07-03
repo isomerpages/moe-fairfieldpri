@@ -3,16 +3,16 @@ title: Download Forms
 permalink: /parents/download-forms/
 description: ""
 ---
-<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Parents who wish to apply as Parent Volunteers to our school can apply online via FORMSG link: [https://go.gov.sg/fmsp-parentvolunteerp12026intake]
+<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Parents who wish to apply as Parent Volunteers to our school can apply online via FORMSG link: <strong><a href="https://go.gov.sg/fmsp-parentvolunteerp12026intake</a></strong>
 
 Current application is open only for children born in **2019**. Applications will close on **31 May 2024**.
 
 Parents will be notified of the outcome via email by **end June 2024.**
 
-</p><p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2023 can apply online via FormSG link:&nbsp;<strong><a href="https://go.gov.sg/fmsptransfer-admission2023"><strong>https://go.gov.sg/fmsptransfer-admission2023</strong></a></strong></p><strong>
+</p><p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2023 can apply online via FormSG link:&nbsp;<strong><a href="><strong>https://go.gov.sg/fmsptransfer-admission2023</strong></a></strong></p><strong>
 <p>We regret that only shortlisted candidates will be notified.</p>
 <p><strong><u>Application for Leave of Absence (LOA)</u></strong></p>
-<p>i) Parents can apply LOA for their children online via FormSG link:&nbsp;<a href="https://go.gov.sg/fmsp-leaveofabsence" target=""><strong>https://go.gov.sg/fmsp-leaveofabsence</strong></a> based on&nbsp;<strong><u>only</u></strong>&nbsp;the following&nbsp;reasons:</p>
+<p>i) Parents can apply LOA for their children online via FormSG link:&nbsp;<a target="" href="https://go.gov.sg/fmsp-leaveofabsence"><strong>https://go.gov.sg/fmsp-leaveofabsence</strong></a> based on&nbsp;<strong><u>only</u></strong>&nbsp;the following&nbsp;reasons:</p>
 <ul>
 <li>Parents are on overseas posting; OR</li>
 <li>Parents are attending to their business overseas; OR</li>

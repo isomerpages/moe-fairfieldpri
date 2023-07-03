@@ -3,9 +3,13 @@ title: Download Forms
 permalink: /parents/download-forms/
 description: ""
 ---
-<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Application period for Parent Volunteers for Primary 1 <b>2025</b> intake (children born in <b>2018</b>) is now closed. Parents who have applied will be notified of the outcome <b>via email on 30 June 2023</b>.
+<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Parents who wish to apply as Parent Volunteers to our school can apply online via FORMSG link: <strong><a href="https://go.gov.sg/fmsp-parentvolunteerp12026intake">https://go.gov.sg/fmsp-parentvolunteerp12026intake</a></strong>
 
-The application period for Primary 1 <b>2026</b> intake (children born in <b>2019</b>) will open on <b>3 July 2023</b> and close on <b>31 May 2024.</b></p>
+</p><p>Current application is open only for children born in <strong>2019.</strong></p>
+<p>Applications will close on <strong>31 May 2024.</strong></p>
+
+<p>Parents will be notified of the outcome via email by end <strong>June 2024.</strong></p>
+
 <p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2023 can apply online via FormSG link:&nbsp;<strong><a href="https://go.gov.sg/fmsptransfer-admission2023">https://go.gov.sg/fmsptransfer-admission2023</a></strong></p>
 <p>We regret that only shortlisted candidates will be notified.</p>
 <p><strong><u>Application for Leave of Absence (LOA)</u></strong></p>

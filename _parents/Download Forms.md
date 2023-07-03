@@ -3,10 +3,13 @@ title: Download Forms
 permalink: /parents/download-forms/
 description: ""
 ---
-<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Application period for Parent Volunteers for Primary 1 <b>2025</b> intake (children born in <b>2018</b>) is now closed. Parents who have applied will be notified of the outcome <b>via email on 30 June 2023</b>.
+<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Parents who wish to apply as Parent Volunteers to our school can apply online via FORMSG link: [undefined](https://go.gov.sg/fmsp-parentvolunteerp12026intake)https://go.gov.sg/fmsp-parentvolunteerp12026intake
 
-The application period for Primary 1 <b>2026</b> intake (children born in <b>2019</b>) will open on <b>3 July 2023</b> and close on <b>31 May 2024<b>.</b></b></p><b><b>
-<p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2023 can apply online via FormSG link:&nbsp;<strong><a href="https://go.gov.sg/fmsptransfer-admission2023">https://go.gov.sg/fmsptransfer-admission2023</a></strong></p>
+Current application is open only for children born in **2019**. Applications will close on **31 May 2024**.
+
+Parents will be notified of the outcome via email by **end June 2024.**
+
+</p><p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2023 can apply online via FormSG link:&nbsp;<strong><a href="https://go.gov.sg/fmsptransfer-admission2023">https://go.gov.sg/fmsptransfer-admission2023</a></strong></p>
 <p>We regret that only shortlisted candidates will be notified.</p>
 <p><strong><u>Application for Leave of Absence (LOA)</u></strong></p>
 <p>i) Parents can apply LOA for their children online via FormSG link:&nbsp;<a href="https://go.gov.sg/fmsp-leaveofabsence" target=""><strong>https://go.gov.sg/fmsp-leaveofabsence</strong></a> based on&nbsp;<strong><u>only</u></strong>&nbsp;the following&nbsp;reasons:</p>
@@ -19,4 +22,4 @@ The application period for Primary 1 <b>2026</b> intake (children born in <b>201
 <p>iii) The Application processing time takes about 5 working days.</p>
 <p>iv) School will notify parents on the status of the application.</p>
 <p>v) LOA is to be renewed yearly and parents are to re-apply for their child’s LOA by November of each year for the following year.</p>
-<p><strong>Incomplete and unsubstantiated forms (e.g., without supporting documents) will not be considered.</strong></p></b></b>
+<p><strong>Incomplete and unsubstantiated forms (e.g., without supporting documents) will not be considered.</strong></p>

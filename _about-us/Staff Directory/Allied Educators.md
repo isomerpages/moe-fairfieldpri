@@ -4,7 +4,8 @@ permalink: /about-us/staff-directory/allied-educators/
 description: ""
 third_nav_title: Staff Directory
 ---
-<p><strong>Ms Leona Lam<br></strong> Senior SEN Officer<br><a href="mailto:lam_li_ting_leona@moe.edu.sg" target="">Email</a></p>
+<p><strong>Dr Audrey Ang<br></strong>School Counsellor<br><a href="mailto:lam_li_ting_leona@moe.edu.sg" target="">Email</a></p>
+<p><strong>Ms Leona Lam<br></strong>Senior SEN Officer<br><a href="mailto:lam_li_ting_leona@moe.edu.sg" target="">Email</a></p>
 <p><strong>Mr Choy Wei Thai</strong> <br>SEN Officer<br><a href="mailto:choy_wei_thai@moe.edu.sg" target="">Email</a></p>
 <p><strong>Mdm Hariyani</strong> <br>SEN Officer<br><a href="mailto:hariyani_sarmin_a@moe.edu.sg" target="">Email</a></p>
 <p><strong>Ms Tan Yen Yen</strong> <br>SEN Officer<br><a href="mailto:tan_yen_yen@moe.edu.sg" target="">Email</a></p>

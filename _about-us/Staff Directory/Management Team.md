@@ -53,4 +53,4 @@ third_nav_title: Staff Directory
 | National Education &amp; Social Studies     | Ms Suria Md Shafiee     | <a href="mailto:suria_mohamed_shafiee@moe.edu.sg" target="">Email</a>     |
 | Student Well-being     | Mr Liu Lijia     | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>     |
 | Student Leadership     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>     |
-| Special Education Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |
+| Special Educational Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |

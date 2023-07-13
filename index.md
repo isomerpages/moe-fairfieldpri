@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2023/banner2.jpg
       key_highlights:
         - title: Announcements
           description: ""
@@ -18,4 +17,5 @@ sections:
         - title: SLS
           description: ""
           url: https://www.learning.moe.edu.sg/sls/index.html
+      background: /images/2023/banner3 v2.JPG
 ---

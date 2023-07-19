@@ -90,7 +90,7 @@ third_nav_title: CCE
 </thead>
 <tbody>
 <tr>
-<td rowspan="3">Growing Years</td>
+<td rowspan="5">Growing Years</td>
 <td style="text-align: center;">
 <p>Are We More than Friends?</p>
 <p>Lesson 1</p>
@@ -120,6 +120,16 @@ third_nav_title: CCE
 <td>
 <p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘<strong>Stop-Think-Do’.</strong></p>
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+</td>
+<td>Term 4 Weeks 5 to 10</td>
+</tr>
+	<tr><td style="text-align: center;">
+<p>Changes in Me*</p>
+<p>Lesson 1</p>
+<p>(60 min)</p>
+</td>
+<td>
+<p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</p>
 </td>
 <td>Term 4 Weeks 5 to 10</td>
 </tr>

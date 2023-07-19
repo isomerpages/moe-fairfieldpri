@@ -99,7 +99,7 @@ third_nav_title: CCE
 <td>
 <p>In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing&nbsp;feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</p>
 </td>
-<td>Term 4 Week 7</td>
+<td>Term 4 Weeks 5 to 10</td>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -110,7 +110,7 @@ third_nav_title: CCE
 <td>
 <p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p>
 </td>
-<td>Term 4 Week 8</td>
+<td>Term 4 Weeks 5 to 10</td>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -121,7 +121,7 @@ third_nav_title: CCE
 <p>This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘<strong>Stop-Think-Do’.</strong></p>
 <p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
 </td>
-<td>Term 4 Week 9</td>
+<td>Term 4 Weeks 5 to 10</td>
 </tr>
 </tbody>
 </table>

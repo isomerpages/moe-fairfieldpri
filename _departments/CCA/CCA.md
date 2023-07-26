@@ -37,9 +37,9 @@ third_nav_title: CCA
     <td class="tg-eii6"></td>
   </tr>
   <tr>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca/school-teams/aesthetics"><span style="text-decoration:underline;color:#414CA0">Chinese Dance</span></a></td>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/"><span style="text-decoration:underline;color:#414CA0">Badminton</span></a><span style="color:#222;background-color:#F2F2F2">  </span></td>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/sports/"><span style="text-decoration:underline;color:#414CA0">Boys' Brigade</span></a></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/"><span style="text-decoration:underline;color:#414CA0">Chinese Dance</span></a></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/sports/"><span style="text-decoration:underline;color:#414CA0">Badminton</span></a><span style="color:#222;background-color:#F2F2F2">  </span></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/uniformed-groups/"><span style="text-decoration:underline;color:#414CA0">Boys' Brigade</span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span>L<span style="color:#000;background-color:transparent">eadership</span></td>
     <td class="tg-zstn"><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/uniformed-groups/"><span style="text-decoration:underline;color:#414CA0">STEM Club</span></a></td>
   </tr>

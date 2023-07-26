@@ -33,7 +33,7 @@ third_nav_title: CCA
     <td class="tg-zsoz"><span style="color:#222">Visual &amp; Performing Arts</span></td>
     <td class="tg-zsoz"><span style="color:#222">Sports</span></td>
     <td class="tg-eii6"></td>
-    <td class="tg-zstn"><a href="https://fmsp-moe-edu-sg-admin.cwp.sg/about-us/departments/cca/cca-modules"><span style="text-decoration:underline;color:#414CA0">Modules created under the domains of:</span></a><br></td>
+    <td class="tg-zstn"><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/"><span style="text-decoration:underline;color:#414CA0">Modules created under the domains of:</span></a><br></td>
     <td class="tg-eii6"></td>
   </tr>
   <tr>

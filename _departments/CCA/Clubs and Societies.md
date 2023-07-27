@@ -1,13 +1,12 @@
 ---
 title: Clubs and Societies
-permalink: /departments/cca/clubs-and-societies/permalink/
+permalink: /about-us/departments/cca-new/clubs-and-societies/
 description: ""
 third_nav_title: CCA
 ---
-
 <h4><strong>STEM CLUB</strong></h4>
 
-The newly set up STEM Club aims to promote students’ interest in the Science, Technology, Engineering and Mathematics domains through modules such as coding, 3D printing, robotics and film-making just to name a few. 
+The newly set up STEM Club aims to promote students’ interest in the Science, Technology, Engineering and Mathematics domains through modules such as coding, 3D printing, robotics and film-making just to name a few.&nbsp;
 
   
 

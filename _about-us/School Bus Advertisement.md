@@ -11,6 +11,4 @@ description: ""
 <br>Bus Co-ordinator: <b>Mr James Tan</b><br>
 Contact Number : <b>9833 0789</b><br>
 
-
-![](/images/2023/schbusservices2023.JPG)
-*prices applicable ONLY if student is currently not taking the 2-way daily bus services OR taking the 1-way morning daily bus service.</p>
+![](/images/2023/schbusservices2023.JPG)</p>

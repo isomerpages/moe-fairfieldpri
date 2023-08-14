@@ -7,8 +7,8 @@ description: ""
 
 **School Bus Operator and Bus Fare**
 
-<p>School Bus Operator: <b>Fairbus Pte Ltd</b>
+School Bus Operator: <b>Fairbus Pte Ltd</b>
 <br>Bus Co-ordinator: <b>Mr James Tan</b><br>
-Contact Number : <b>9833 0789</b><br>
+Contact Number : <b>9833 0789</b>
 
-![](/images/2023/schbusservices2023.JPG)</p>
+![](/images/2023/schbusservices2023.JPG)

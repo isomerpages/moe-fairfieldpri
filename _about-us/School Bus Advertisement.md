@@ -12,4 +12,4 @@ School Bus Operator: <b>Fairbus Pte Ltd</b>
 Contact Number : <b>9833 0789</b>
 
 ![](/images/2023/schbusservices2023.JPG)
-*prices applicable ONLY if student is currently not taking the 2-way daily bus services OR taking the 1-way morning daily bus service.
+<i>*prices applicable ONLY if student is currently not taking the 2-way daily bus services OR taking the 1-way morning daily bus service.</i>

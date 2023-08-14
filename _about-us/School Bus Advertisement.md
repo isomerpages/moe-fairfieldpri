@@ -16,3 +16,6 @@ Contact Number : <b>9833 0789</b><br>
 ![](/images/2023/school%20bus%20services%20table%202023.JPG)
 	
 *prices applicable ONLY if student is currently not taking the 2-way daily bus services OR taking the 1-way morning daily bus service.</p>
+
+![](/images/2023/banner3%20v2.JPG)
+

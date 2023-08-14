@@ -20,7 +20,7 @@ description: ""
 <li>Parents are going overseas for a company-related training/further studies.&nbsp;</li>
 </ul>
 <p>ii) Parents can submit the LOA application form and supporting documents such as Overseas Posting Letter by the company, overseas school admission letter, overseas residential address etc. via FormSG as shown above to the school’s General Office.</p>
-<p>iii) The Application processing time takes about 5 working days.</p>
+<p>iii) Please apply at least one month prior to planned departure date to allow ample time for processing.</p>
 <p>iv) School will notify parents on the status of the application.</p>
 <p>v) LOA is to be renewed yearly and parents are to re-apply for their child’s LOA by November of each year for the following year.</p>
 <p><strong>Incomplete and unsubstantiated forms (e.g., without supporting documents) will not be considered.</strong></p>

@@ -57,7 +57,7 @@ description: ""
 Contact Number : <b>9833 0789</b>
 	
 ![](/images/2023/schbusservices2023.JPG)	
-<i>*prices applicable ONLY if student is currently not taking the 2-way daily bus services OR taking the 1-way morning daily bus service.</i>
+
 </p>
 <h4><strong>School Uniform</strong></h4>
 <p><strong>Yangtze Kiang Tailor</strong></p>

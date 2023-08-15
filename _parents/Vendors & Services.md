@@ -63,3 +63,5 @@ Contact Number : <b>9833 0789</b>
 <p><strong>Yangtze Kiang Tailor</strong></p>
 <p>Address: Blk 26 Teck Whye Lane&nbsp;<br>#01-180/182&nbsp;<br>Singapore 680026<br>Tel: 6769 1260<br>Website:&nbsp;<a href="http://www.yangtzekiang.com.sg/" target="_blank" rel="noopener">http://www.yangtzekiang.com.sg</a><br>Email:&nbsp;<a href="mailto:support@yangtzekiang.com.sg" target="">support@yangtzekiang.com.sg</a></p>
 <p>The school uniform is on sale in the school on selected dates.</p>
+
+![](/images/2023/schbusservices2023.JPG)

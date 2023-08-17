@@ -142,9 +142,10 @@ third_nav_title: CCA
   </tr>
 </tbody>
 </table>
+<section id="handbell-ensemble">
 <h4><strong>Handbell Ensemble</strong></h4>
 <p>The FMS(P) Handbell Ensemble was established in 2009 and comprises a team of passionate Primary Three to Six ringers. During practice sessions, ringers appreciate music from diverse cultures, enhance their musical aptitude and acquire technical skills of handling and ringing of bells.</p>
-<p>They also cultivate values such as empathy and respect in their interactions with one another. Performing in school and public venues gives ringers the opportunity to build their confidence in public performances.</p>
+<p>They also cultivate values such as empathy and respect in their interactions with one another. Performing in school and public venues gives ringers the opportunity to build their confidence in public performances.</p></section>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

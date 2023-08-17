@@ -42,10 +42,10 @@ third_nav_title: CCA
 </tbody>
 </table>
 <p></p><section id="choir"><p></p>
-<h4><strong>Choir</strong></h4>
+<h4><strong>Choir</strong></h4></section>
 <p>Fairfield Methodist School (Primary) Choir is made up of passionate girls and boys who simply delight in singing. With the dedication and commitment of our Choral Instructors, Ms Susanna Pua (Senior), Mrs Stephenie Ong (Junior) and our choir teachers, our senior choir achieved the Certificate of Distinction for SYF since 2014.</p>
 <p>Our choir is designed to enhance the musical, creative and expressive qualities of our members’ voices. It is comprised of the Junior Choir (P3) and the Senior Choir (P4 to P6). Despite the pandemic, our choir had the opportunity to perform virtually during Honours Day and worked in partnership with the Esplanade in sharing their voices with the wider community, through the song “Voices – A Festival of Song and Journeying with Song – A Choral Soundscape”.</p>
-<p>Through the choir practices, students learn to apply musical skills to create and experience music as an ensemble. Values, like Respect and Serving and Giving, are also inculcated during CCA practice sessions.</p></section>
+<p>Through the choir practices, students learn to apply musical skills to create and experience music as an ensemble. Values, like Respect and Serving and Giving, are also inculcated during CCA practice sessions.</p>
 <table>
 <tbody>
 <tr>

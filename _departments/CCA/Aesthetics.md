@@ -70,9 +70,10 @@ third_nav_title: CCA
 </tr>
 </tbody>
 </table>
+<section id="concert-band">
 <h4><strong>Concert Band</strong></h4>
 <p>The Band CCA aims to arouse and sustain students’ interest in music and cultivate the joy and excitement of playing together as a group. Students are given access to a variety of woodwind, brass and percussion instruments. They will also build up their knowledge in music theory by playing in an orchestral environment.&nbsp;</p>
-<p>The Band is helmed by professionally trained musicians and approved instructors who also have a deep passion for teaching and sharing their love for Music. We hope students will build a lifelong love for performing and become great instrumentalists. It is also our wish that being in the band would impart in them leadership skills and important values like teamwork, respect, responsibility and resilience.</p>
+<p>The Band is helmed by professionally trained musicians and approved instructors who also have a deep passion for teaching and sharing their love for Music. We hope students will build a lifelong love for performing and become great instrumentalists. It is also our wish that being in the band would impart in them leadership skills and important values like teamwork, respect, responsibility and resilience.</p></section>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

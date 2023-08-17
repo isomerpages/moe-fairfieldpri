@@ -44,7 +44,7 @@ third_nav_title: CCA
     <td class="tg-zstn"><a href="https://fmsp.moe.edu.sg/about-us/departments/cca-new/clubs-and-societies/"><span style="text-decoration:underline;color:#414CA0">STEM Club</span></a></td>
   </tr>
   <tr>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/"><span style="text-decoration:underline;color:#414CA0">Choir </span></a></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/#choir"><span style="text-decoration:underline;color:#414CA0">Choir </span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/sports/"><span style="text-decoration:underline;color:#414CA0">Basketball </span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/uniformed-groups/"><span style="text-decoration:underline;color:#414CA0">Girls' Brigade</span></a></td>
     <td class="tg-zsoz"> E<span style="color:#000;background-color:transparent">nrichment</span></td>

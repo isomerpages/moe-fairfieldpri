@@ -53,7 +53,7 @@ description: ""
 <p><strong>Please be informed that a fee may be charged at HPB.</strong></p>
 <p>Health Promotion Board<br>3 Second Hospital Ave<br>Singapore 168937</p>
 
-<section id="school-bus-operators-and-bus-fare">
+<section id="school-bus-operator-and-bus-fare">
 <h4><strong>School Bus Operator and Bus Fare</strong></h4>
 <p>School Bus Operator: <b>Fairbus Pte Ltd</b>
 <br>Bus Co-ordinator: <b>Mr James Tan</b><br>

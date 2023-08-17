@@ -175,10 +175,12 @@ third_nav_title: CCA
   </tr>
 </tbody>
 </table>
+<section id="visual-arts-club">
 <h4><strong>Visual Arts Club</strong></h4>
 <p>The Visual Arts Club&nbsp;serves as a platform for members to express their artistic flair. We strongly value every member’s artistic talent and welcome students who are passionate about art.&nbsp;We aim to arouse and engage students’ interest in the visual arts with various mediums like ceramics, digital illustrations and animation, lino-prints, painting and drawing.</p>
 <p>We have participated in many events, such as Draw My Stamp Story Art Competition and the Singapore Youth Festival (SYF) with artworks exhibited at the National Gallery Singapore. We have also actively partner with our community like HDB and Grace Orchard School, to create artworks together. Through these projects, we have developed our technical competency to complete them efficiently as well as learning to collaborate with one other.</p>
 <p>The Visual Arts Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts. Through competition and collaboration,&nbsp;we aim to inculcate in them leadership skills and important values like teamwork, care, responsibility, and resilience.</p>
+</section>
 <table>
 <tbody>
 <tr>

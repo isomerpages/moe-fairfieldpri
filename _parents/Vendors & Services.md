@@ -52,10 +52,13 @@ description: ""
 <p><strong>Pupils who require emergency dental treatment can contact Health Promotion Board (HPB) at <a href="mailto:Contact_YPS@hpg.gov.sg">Contact_YPS@hpg.gov.sg</a><br></strong></p>
 <p><strong>Please be informed that a fee may be charged at HPB.</strong></p>
 <p>Health Promotion Board<br>3 Second Hospital Ave<br>Singapore 168937</p>
+
+<section id="school-bus-operators-and-bus-fare">
 <h4><strong>School Bus Operator and Bus Fare</strong></h4>
 <p>School Bus Operator: <b>Fairbus Pte Ltd</b>
 <br>Bus Co-ordinator: <b>Mr James Tan</b><br>
 Contact Number : <b>9833 0789</b></p>
+</section>
 
 ![](/images/2023/schbusservices2023.JPG)
 <i>*prices applicable ONLY if student is currently not taking the 2-way daily bus services OR taking the 1-way morning daily bus service.</i>

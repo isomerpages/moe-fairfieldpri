@@ -75,59 +75,7 @@ third_nav_title: CCA
 </table>
 
 **Training schedule:**
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-43ed{background-color:#A6A6A6;text-align:left;vertical-align:top}
-.tg .tg-domx{background-color:#fffdfd;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-9hzb{background-color:#FFF;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-domx"></th>
-    <th class="tg-1wig"></th>
-    <th class="tg-1wig"></th>
-    <th class="tg-1wig"></th>
-    <th class="tg-1wig"></th>
-    <th class="tg-1wig"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-9hzb"><span style="font-weight:700;background-color:transparent">Monday</span></td>
-    <td class="tg-9hzb"><span style="font-weight:700;background-color:transparent">Tuesday</span></td>
-    <td class="tg-9hzb"><span style="font-weight:700;background-color:transparent">Wednesday</span></td>
-    <td class="tg-9hzb"><span style="font-weight:700;background-color:transparent">Thursday</span></td>
-    <td class="tg-9hzb"><span style="font-weight:700;background-color:transparent">Friday</span></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><br><span style="font-weight:700;background-color:transparent">CCA</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Clubs &amp; Societies</span><br><span style="background-color:transparent">Red Cross</span><br><span style="background-color:transparent">School Teams </span><br><span style="background-color:transparent">(</span>*<span style="background-color:transparent">VPA &amp; </span>#<span style="background-color:transparent">Sports)</span></td>
-    <td class="tg-43ed"></td>
-    <td class="tg-43ed"></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">Boys’ Brigade</span><br><span style="background-color:transparent">Girls’ Brigade</span><br><span style="background-color:transparent">CCA Modules</span><br><span style="background-color:transparent">School Teams </span><br><span style="background-color:transparent">(VPA &amp; Sports)</span></td>
-    <td class="tg-43ed"></td>
-  </tr>
-  <tr>
-    <td class="tg-ktyi"><span style="font-weight:700;background-color:transparent">Time</span></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">2.10 - 4.00pm</span><br>#<span style="background-color:transparent">2.00-3.30pm (P3/4)</span><br>#<span style="background-color:transparent">3.30-5pm (P5/6)</span></td>
-    <td class="tg-43ed"></td>
-    <td class="tg-43ed"></td>
-    <td class="tg-ktyi"><span style="background-color:transparent">2.10 – 4.00pm</span><br>#<span style="background-color:transparent">2.00-3.30pm (P3/4)</span><br>#<span style="background-color:transparent">3.30-5pm (P5/6)</span></td>
-    <td class="tg-43ed"></td>
-  </tr>
-</tbody>
-</table>
-
+![](/images/2023/cca%20dept%20trainingdays.JPG)
 &nbsp;\*Visual &amp; Performing Arts <br>
 #Applicable to School Team (Sports)
 

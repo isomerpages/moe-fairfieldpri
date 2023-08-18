@@ -103,6 +103,7 @@ We give thanks for God's continued blessings!
   </tr>
 </tbody>
 </table>
+<p></p><section id="red-cross"><p></p>
 <h4><strong>Red Cross</strong></h4>
 <p>Red Cross&nbsp;integrates character-building, leadership, essential lifesaving skills and blood donation knowledge, local community service and overseas humanitarian projects in its curriculum, with the Red Cross ethos and service to humanity as a core focus. The Links are exposed to the essential knowledge of First Aid and Red Cross knowledge. The Links also aim to earn a series of progress badges which represent their marked achievements in areas such as First Aid, Outdoor Activities, Health Education and Disaster Management. The programmes bring out the best of our Links and prepare them for leadership in their families and communities.</p>
 <p>Besides the essential programmes, it also has other fun games and activities to develop other skills, such as teamwork, sports and arts.</p>
@@ -133,4 +134,4 @@ We give thanks for God's continued blessings!
     <td class="tg-ls4t"><a href="mailto:sun_xue@moe.edu.sg">sun_xue@moe.edu.sg</a></td>
   </tr>
 </tbody>
-</table>
+</table></section>

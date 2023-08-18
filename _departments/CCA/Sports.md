@@ -59,8 +59,9 @@ third_nav_title: CCA
   </tr>
 </tbody>
 </table>
+<p></p><section id="basketball"><p></p>
 <h4><strong>Basketball</strong></h4>
-<p>Basketball CCA aims to enable students to understand and apply the basic rules of the sport. Students are exposed to drills such as lay-ups and footwork. At the end of the programme, students should be able to explain and apply their knowledge of basic basketball rules and to play basketball at both recreational and competitive levels for beginners and advanced players respectively.</p>
+<p>Basketball CCA aims to enable students to understand and apply the basic rules of the sport. Students are exposed to drills such as lay-ups and footwork. At the end of the programme, students should be able to explain and apply their knowledge of basic basketball rules and to play basketball at both recreational and competitive levels for beginners and advanced players respectively.</p></section>
 <p>Through this programme and under the guidance of dedicated coaches and teachers, students learn the importance of demonstrating values of good sportsmanship, fair play, teamwork, resilience, responsibility and discipline.</p>
 <p>We will strive to continue to be a place where our players can grow and hone their skills in basketball through trainings and matches.</p>
 <style type="text/css">

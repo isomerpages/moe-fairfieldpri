@@ -59,8 +59,9 @@ third_nav_title: CCA
   </tr>
 </tbody>
 </table>
+<p></p><section id="basketball"><p></p>
 <h4><strong>Basketball</strong></h4>
-<p>Basketball CCA aims to enable students to understand and apply the basic rules of the sport. Students are exposed to drills such as lay-ups and footwork. At the end of the programme, students should be able to explain and apply their knowledge of basic basketball rules and to play basketball at both recreational and competitive levels for beginners and advanced players respectively.</p>
+<p>Basketball CCA aims to enable students to understand and apply the basic rules of the sport. Students are exposed to drills such as lay-ups and footwork. At the end of the programme, students should be able to explain and apply their knowledge of basic basketball rules and to play basketball at both recreational and competitive levels for beginners and advanced players respectively.</p></section>
 <p>Through this programme and under the guidance of dedicated coaches and teachers, students learn the importance of demonstrating values of good sportsmanship, fair play, teamwork, resilience, responsibility and discipline.</p>
 <p>We will strive to continue to be a place where our players can grow and hone their skills in basketball through trainings and matches.</p>
 <style type="text/css">
@@ -120,8 +121,9 @@ third_nav_title: CCA
   </tr>
 </tbody>
 </table>
+<p></p><section id="football"><p></p>
 <h4><strong>Football</strong></h4>
-<p>Football is a team sport which encourages team spirit and camaraderie. Our goal is to train students the football skills and at the same time enjoy playing the sport.</p>
+<p>Football is a team sport which encourages team spirit and camaraderie. Our goal is to train students the football skills and at the same time enjoy playing the sport.</p></section>
 <p>We participate in football competitions and arrange friendly matches with other schools whenever possible. From this, we hope our players will gain valuable experience and to improve their skills.</p>
 <p>The students undergo training under the guidance of our dedicated coach. They are also nurtured by our committed CCA teachers. With these, we aim to inculcate resilience and a spirit of excellence in our players.</p>
 <table>
@@ -144,8 +146,9 @@ third_nav_title: CCA
 </tr>
 </tbody>
 </table>
+<p></p><section id="volleyball"><p></p>
 <h4><strong>Volleyball</strong></h4>
-<p>The volleyball training programme aims to provide a vibrant and enriching experience for our students. With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience and communication through this competitive sport. Students develop their hand-eye coordination, footwork, and agility skills through physical training.</p>
+<p>The volleyball training programme aims to provide a vibrant and enriching experience for our students. With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience and communication through this competitive sport. Students develop their hand-eye coordination, footwork, and agility skills through physical training.</p></section>
 <p>During our training and competitions, the students worked together which fostered camaraderie in the team. It was heartening to see our young players display sportsmanship during the game.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

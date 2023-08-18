@@ -9,4 +9,4 @@ description: ""
 <p>Koobits:&nbsp;<a href="http://problemsums.koobits.com/" target="_blank" rel="noopener">http://problemsums.koobits.com</a></p>
 <p>Touch-typing 1:<br><a href="https://www.typing.com/student/game/keyboard-jump" target="">https://www.typing.com/student/game/keyboard-jump</a></p>
 <p>Touch-typing 2:<br><a href="https://www.typing.com/student/game/type-a-balloon" target="">https://www.typing.com/student/game/type-a-balloon</a></p>
-<p>MakeyMakey:&nbsp;<a href="https://apps.makeymakey.com/play/#piano/" target="_blank" rel="noopener">https://apps.makeymakey.com/play/#piano</a></p>
+<p>MakeyMakey:&nbsp;<a href="https://apps.makeymakey.com/play/#piano" target="_blank" rel="noopener">https://apps.makeymakey.com/play/#piano</a></p>

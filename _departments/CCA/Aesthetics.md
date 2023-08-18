@@ -41,8 +41,8 @@ third_nav_title: CCA
   </tr>
 </tbody>
 </table>
-<section id="choir">
-<h4><strong>Choir</strong></h4>
+<p></p><section id="choir"><p></p>
+<h4><strong>Choir</strong></h4></section>
 <p>Fairfield Methodist School (Primary) Choir is made up of passionate girls and boys who simply delight in singing. With the dedication and commitment of our Choral Instructors, Ms Susanna Pua (Senior), Mrs Stephenie Ong (Junior) and our choir teachers, our senior choir achieved the Certificate of Distinction for SYF since 2014.</p>
 <p>Our choir is designed to enhance the musical, creative and expressive qualities of our members’ voices. It is comprised of the Junior Choir (P3) and the Senior Choir (P4 to P6). Despite the pandemic, our choir had the opportunity to perform virtually during Honours Day and worked in partnership with the Esplanade in sharing their voices with the wider community, through the song “Voices – A Festival of Song and Journeying with Song – A Choral Soundscape”.</p>
 <p>Through the choir practices, students learn to apply musical skills to create and experience music as an ensemble. Values, like Respect and Serving and Giving, are also inculcated during CCA practice sessions.</p>
@@ -70,9 +70,9 @@ third_nav_title: CCA
 </tr>
 </tbody>
 </table>
-</section>
+<p></p><section id="concert-band"><p></p>
 <h4><strong>Concert Band</strong></h4>
-<p>The Band CCA aims to arouse and sustain students’ interest in music and cultivate the joy and excitement of playing together as a group. Students are given access to a variety of woodwind, brass and percussion instruments. They will also build up their knowledge in music theory by playing in an orchestral environment.&nbsp;</p>
+<p>The Band CCA aims to arouse and sustain students’ interest in music and cultivate the joy and excitement of playing together as a group. Students are given access to a variety of woodwind, brass and percussion instruments. They will also build up their knowledge in music theory by playing in an orchestral environment.&nbsp;</p></section>
 <p>The Band is helmed by professionally trained musicians and approved instructors who also have a deep passion for teaching and sharing their love for Music. We hope students will build a lifelong love for performing and become great instrumentalists. It is also our wish that being in the band would impart in them leadership skills and important values like teamwork, respect, responsibility and resilience.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -142,9 +142,11 @@ third_nav_title: CCA
   </tr>
 </tbody>
 </table>
+<p></p><section id="handbell-ensemble"><p></p>
 <h4><strong>Handbell Ensemble</strong></h4>
-<p>The FMS(P) Handbell Ensemble was established in 2009 and comprises a team of passionate Primary Three to Six ringers. During practice sessions, ringers appreciate music from diverse cultures, enhance their musical aptitude and acquire technical skills of handling and ringing of bells.</p>
+<p>The FMS(P) Handbell Ensemble was established in 2009 and comprises a team of passionate Primary Three to Six ringers. During practice sessions, ringers appreciate music from diverse cultures, enhance their musical aptitude and acquire technical skills of handling and ringing of bells.</p></section>
 <p>They also cultivate values such as empathy and respect in their interactions with one another. Performing in school and public venues gives ringers the opportunity to build their confidence in public performances.</p>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -173,10 +175,12 @@ third_nav_title: CCA
   </tr>
 </tbody>
 </table>
+<p></p><section id="visual-arts-club"><p></p>
 <h4><strong>Visual Arts Club</strong></h4>
-<p>The Visual Arts Club&nbsp;serves as a platform for members to express their artistic flair. We strongly value every member’s artistic talent and welcome students who are passionate about art.&nbsp;We aim to arouse and engage students’ interest in the visual arts with various mediums like ceramics, digital illustrations and animation, lino-prints, painting and drawing.</p>
+<p>The Visual Arts Club&nbsp;serves as a platform for members to express their artistic flair. We strongly value every member’s artistic talent and welcome students who are passionate about art.&nbsp;We aim to arouse and engage students’ interest in the visual arts with various mediums like ceramics, digital illustrations and animation, lino-prints, painting and drawing.</p></section>
 <p>We have participated in many events, such as Draw My Stamp Story Art Competition and the Singapore Youth Festival (SYF) with artworks exhibited at the National Gallery Singapore. We have also actively partner with our community like HDB and Grace Orchard School, to create artworks together. Through these projects, we have developed our technical competency to complete them efficiently as well as learning to collaborate with one other.</p>
 <p>The Visual Arts Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts. Through competition and collaboration,&nbsp;we aim to inculcate in them leadership skills and important values like teamwork, care, responsibility, and resilience.</p>
+
 <table>
 <tbody>
 <tr>

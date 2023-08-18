@@ -121,8 +121,9 @@ third_nav_title: CCA
   </tr>
 </tbody>
 </table>
+<p></p><section id="football"><p></p>
 <h4><strong>Football</strong></h4>
-<p>Football is a team sport which encourages team spirit and camaraderie. Our goal is to train students the football skills and at the same time enjoy playing the sport.</p>
+<p>Football is a team sport which encourages team spirit and camaraderie. Our goal is to train students the football skills and at the same time enjoy playing the sport.</p></section>
 <p>We participate in football competitions and arrange friendly matches with other schools whenever possible. From this, we hope our players will gain valuable experience and to improve their skills.</p>
 <p>The students undergo training under the guidance of our dedicated coach. They are also nurtured by our committed CCA teachers. With these, we aim to inculcate resilience and a spirit of excellence in our players.</p>
 <table>

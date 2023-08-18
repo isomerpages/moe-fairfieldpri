@@ -146,8 +146,9 @@ third_nav_title: CCA
 </tr>
 </tbody>
 </table>
+<p></p><section id="volleyball"><p></p>
 <h4><strong>Volleyball</strong></h4>
-<p>The volleyball training programme aims to provide a vibrant and enriching experience for our students. With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience and communication through this competitive sport. Students develop their hand-eye coordination, footwork, and agility skills through physical training.</p>
+<p>The volleyball training programme aims to provide a vibrant and enriching experience for our students. With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience and communication through this competitive sport. Students develop their hand-eye coordination, footwork, and agility skills through physical training.</p></section>
 <p>During our training and competitions, the students worked together which fostered camaraderie in the team. It was heartening to see our young players display sportsmanship during the game.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

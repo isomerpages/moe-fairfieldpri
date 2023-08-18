@@ -75,6 +75,7 @@ third_nav_title: CCA
 </table>
 
 **Training schedule:**
+![](/images/2023/cca%20dept%20trainingdays.JPG)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

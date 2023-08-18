@@ -4,7 +4,6 @@ permalink: /about-us/departments/cca-new/uniformed-groups/
 description: ""
 third_nav_title: CCA
 ---
-
 <h4><strong>Boys' Brigade</strong></h4>
 Formerly part of the 33rd Singapore Company which was founded in 1983 by Mr Jimmy Png, The 33J Boys' Brigade Singapore Company became independent in 2000. Under Mr David Chan, our founding Captain, we started a modular programme system, exposing our Boys in the areas of aesthetics, sport and character development among many others.
 
@@ -14,7 +13,7 @@ In the recent years, the Boys have learnt soft skills through interactive sessio
 
   
 
-Our calling for this season is to partner with parents to mould Boys to be Leaders with Character, Servants with Compassion. We believe in empowering our Boys to think of themselves as HEROES who dare to stand up for what they believe in. <br>
+Our calling for this season is to partner with parents to mould Boys to be Leaders with Character, Servants with Compassion. We believe in empowering our Boys to think of themselves as HEROES who dare to stand up for what they believe in.&nbsp;<br>
 We give thanks for God's continued blessings!
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -60,8 +59,9 @@ We give thanks for God's continued blessings!
   </tr>
 </tbody>
 </table>
+<p></p><section id="girls-brigade"><p></p>
 <h4><strong>Girls' Brigade</strong></h4>
-<p>At Girls&rsquo; Brigade in the 3<sup>rd</sup>&nbsp;Primary Company, girls aged 9-12 years old will spend time having much fun and learning new skills, attitudes and knowledge through activity-based programmes. A GB girl will go through the S.T.A. R. (<strong>S</strong>ervice,&nbsp;<strong>T</strong>reasure,&nbsp;<strong>A</strong>dventure and&nbsp;<strong>R</strong>esponsibility) badgework programme and learn about her own strengths and weaknesses yet be empowered to help others through words and actions and will also be given opportunities to take on new and unknown challenges. For example, a GB Girl can attain the Creator, Artiste, Professional and Handy Girl Adventure badges over her 4 years in GB.</p>
+<p>At Girls’ Brigade in the 3<sup>rd</sup>&nbsp;Primary Company, girls aged 9-12 years old will spend time having much fun and learning new skills, attitudes and knowledge through activity-based programmes. A GB girl will go through the S.T.A. R. (<strong>S</strong>ervice,&nbsp;<strong>T</strong>reasure,&nbsp;<strong>A</strong>dventure and&nbsp;<strong>R</strong>esponsibility) badgework programme and learn about her own strengths and weaknesses yet be empowered to help others through words and actions and will also be given opportunities to take on new and unknown challenges. For example, a GB Girl can attain the Creator, Artiste, Professional and Handy Girl Adventure badges over her 4 years in GB.</p></section>
 <p>Our teachers and officers create platforms where our well-crafted syllabus encourages the girls to explore the world around them and have a sense of discipline while cultivating a heart of service through practical workshops, learning journeys, camps, drill sessions and a variety of activities. GB girls will be given many opportunities in their leadership journey as GB Singapore is committed to developing every Girl into a leader. We hope each girl will leave GB having learnt the values of Reverence, Respect and Responsibility.</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

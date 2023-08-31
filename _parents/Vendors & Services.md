@@ -11,7 +11,7 @@ description: ""
 <p>Please contact the Head Office at 6464 0111 when the school bookshop is closed.</p>
 <p>Office Fax: 6464 0110<br>Email :&nbsp;<a href="mailto:sales@pacificbookstores.com" target="">sales@pacificbookstores.com</a><br>Website:&nbsp;<a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener">http://www.pacificbookstores.com/</a></p>
 <h4><strong>School Dental Clinic</strong></h4>
-<p>Person to Contact:&nbsp;<br><strong>Ms Irene Ang</strong><br>Manager, Dental Therapy<br><br><strong>Ms Vaishnavi</strong><br>Dental Therapist</p>
+<p>Person to Contact:&nbsp;<br><strong>Ms Irene Ang</strong><br>Manager, Dental Therapy<br><br><strong>Ms Chang Wan Yi </strong><br>Dental Therapist</p>
 <p>Contact No:&nbsp;8764 7361 (Whatsapp)<br>Parent may Whatsapp to contact staff. Calling is discouraged.&nbsp;Phone will be switched on only during clinic's operating hours.</p>
 <p>Dental Clinic Operating Hours:&nbsp;Alternate Mondays to Thursdays 8am to 5.30pm and alternate Fridays 8am to 5pm (Closed during lunch hours 1pm-2pm)&nbsp;</p>
 <p>Please contact the clinic after 4pm should you need to make appointment.</p>

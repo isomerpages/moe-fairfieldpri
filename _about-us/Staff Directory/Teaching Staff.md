@@ -187,7 +187,7 @@ third_nav_title: Staff Directory
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Cherie Lee</strong><strong>&nbsp;</strong><strong><a href="mailto:cheong_cherie@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Ang Bee Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:ang_bee_chin@moe.edu.sg" target="">Email</a><br></strong>Class 5C</p>
+<p><strong>Mrs Claire Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:lew_li_chin@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Ang Bee Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:ang_bee_chin@moe.edu.sg" target="">Email</a><br></strong>Class 5C</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Serena Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Soh Wee Lik</strong><strong>&nbsp;</strong><strong><a href="mailto:soh_wee_lik_derrick@moe.edu.sg" target="">Email</a><br></strong>Class 5D</p>

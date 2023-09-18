@@ -17,5 +17,5 @@ sections:
         - title: SLS
           description: ""
           url: https://www.learning.moe.edu.sg/sls/index.html
-      background: /images/2023/banner3 v2.JPG
+      background: /images/2023/bannerv4.gif
 ---

@@ -7,8 +7,8 @@ description: ""
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-|Mixed Rice Stall (Halal/ non-Halal) | 30 September 2023 |Nil
-| Malay Food Stall | 30 September 2023 | Rice or noodle stalls are acceptable.|
+|Mixed Rice Stall (Halal/ non-Halal) | 17 November 2023 |Nil
+| Malay Food Stall | 17 November 2023 | Rice or noodle stalls are acceptable.|
 
 **Application Procedure**
 

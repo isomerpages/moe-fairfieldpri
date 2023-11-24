@@ -2,14 +2,15 @@
 title: School Canteen Advertisement
 permalink: /about-us/school-canteen-advertisement/
 description: ""
+variant: markdown
 ---
 #### School Canteen Advertisement
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Mixed Rice Stall (Halal/ non-Halal) | 17 November 2023 | Nil
-| Malay Food Stall | 17 November 2023 | Rice or noodle stalls are acceptable |
-| Fishball Noodles Stall | 17 November 2023 | non-Halal / Variety is open for discussion |
+| Mixed Rice Stall (Halal/ non-Halal) | 1 December 2023 | Nil
+| Malay Food Stall | 1 December 2023 | Rice or noodle stalls are acceptable |
+
 
 **Application Procedure**
 

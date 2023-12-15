@@ -18,13 +18,13 @@ In an increasingly volatile, uncertain, complex, and ambiguous (VUCA) world wher
 
 To cultivate this mindset, we have revised the Fairsian Outcomes to empower students to: **(1) Master Self, (2) Relate Well to Others, and (3) Serve God and the Community.**
 
-**(1) Master Self**
+**(1) Master Self**<br>
 Every Fairsian is encouraged to take ownership of their learning and apply critical thinking skills across various academic and co-curricular pursuits. Other than promoting skills acquisition and creation through experiential learning in various subjects, our Makerspace programme also enables Fairsians to leverage Design Thinking, fostering the creation of new solutions using ICT tools. This approach encourages students to explore possibilities, diverse perspectives, and relish the creative process.
 
-**(2) Relate Well to Others**
+**(2) Relate Well to Others**<br>
 Every Fairsian is equipped to relate well with others through diverse programs, they learn to appreciate differences, communicate effectively and practise empathy.  Our Applied Learning Programme (ALP) in oracy allows students to experience authentic learning in English Language. Through the ALP, students learn to communicate effectively and express themselves proficiently.  Our Learning for Life Programme (LLP) provides opportunity for Fairsians to work in teams through project works and class performances. Through visual and performing arts,  students  learn to relate with one another, acquire  social awareness skills, and values such as empathy, harmony, and care.  The LLP also provides opportunities for outreach to Special Educational Needs (SPED) Schools, promoting inclusivity in the arts.
 
-**(3) Serve God and the Community**
+**(3) Serve God and the Community**<br>
 Lastly, we endeavour for every Fairsian to serve God and the community. We remind students that loving God includes loving His people. We encourage Fairsians to be self-reflective. Learning journals and Form-Teacher-Guidance Period (FTGP) lessons facilitate such a process. But for Fairsians to truly cultivate a heart of service, they must put into action what they have internalised. As such, collaborations and outreach with various partners are integrated into our Character and Citizenship Education (CCE) and Values-in-Action (VIA) programmes. These initiatives empower our Fairsians to actively serve and contribute to their homes, school, and the community, fostering a stronger sense of identity, attachment to their school, and a sense of pride.
 
 Truly, we dedicate this year to the Lord for His continued guidance and blessings upon Fairfield. May 2024 be a year where we sow seeds, lay strong foundations, and may the Lord bless all involved in this transformative learning journey, marking another significant chapter in Fairfield's history.

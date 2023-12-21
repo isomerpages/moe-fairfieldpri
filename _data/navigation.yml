@@ -2,6 +2,8 @@ logo: /images/logo.jpg
 links:
   - title: About Us
     collection: about-us
+  - title: Uniquely@Fairfield
+    collection: departments
   - title: Staff
     url: /staff
     sublinks:

@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: Fairfield Methodist School (Primary)
 locations:
   - address:
-      - "100"
-      - Dover Road
+      - 100 Dover Road
       - Singapore 139648
+      - ""
     operating_hours: []
     maps_link: https://goo.gl/maps/jrWLwhX6ZzPT9xNA8
     title: Address
@@ -22,4 +22,5 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
+feedback: ""
 ---

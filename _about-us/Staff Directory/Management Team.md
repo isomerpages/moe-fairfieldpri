@@ -3,6 +3,7 @@ title: Management Team
 permalink: /about-us/staff-directory/management-team/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 #### HEADS OF DEPARTMENTS
 
@@ -15,9 +16,10 @@ third_nav_title: Staff Directory
 | Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a>    |
 | Aesthetics     | Ms Michelle Yap     | <a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a>     |
 | Information Communications Technology    | Mdm Chen Siyun    | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>     |
-| Character &amp; Citizenship Education     | Mr Alvin Lim     | <a href="mailto:alvin_lim_hsu_jin@moe.edu.sg" target="">Email</a>    |
+| Character &amp; Citizenship Education     | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>    |
 | Student Management    | Mdm Ng Pei Yoong   | <a href="mailto:ng_pei_yoong@moe.edu.sg" target="">Email</a>    |
-| School Staff Developer     | Mdm Jeanne Teh     | <a href="mailto:teh_hsiao_chuin@moe.edu.sg" target="">Email</a>    |
+| School Staff Developer/Level Head English (Covering)     | Mdm Jeanne Teh     | <a href="mailto:teh_hsiao_chuin@moe.edu.sg" target="">Email</a>    |
+| Special Educational Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |
 
 #### YEAR HEADS
 
@@ -39,7 +41,7 @@ third_nav_title: Staff Directory
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| English Language    | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>     |
+| Mathematics    | Ms Lim Li Shan     | <a href="mailto:lim_li_shan@moe.edu.sg" target="">Email</a>     |
 | Science     | Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">Email</a>     |
 
 #### SUBJECT HEADS
@@ -51,6 +53,5 @@ third_nav_title: Staff Directory
 | Information Communications Technology     | Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a>     |
 | Innovation &amp; Knowledge Management     | Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a>    |
 | National Education &amp; Social Studies     | Ms Suria Md Shafiee     | <a href="mailto:suria_mohamed_shafiee@moe.edu.sg" target="">Email</a>     |
-| Student Well-being     | Mr Liu Lijia     | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>     |
+| Student Well-Being     | Mr Liu Lijia     | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>     |
 | Student Leadership     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>     |
-| Special Educational Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |

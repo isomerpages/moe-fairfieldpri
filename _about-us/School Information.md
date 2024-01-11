@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <p><strong>School's Crest &amp; Motto</strong></p>
-<table style="border-collapse: collapse; width: 100%;" border="0">
+<table style="border-collapse: collapse; width: 100%;" border="1">
 <tbody>
 <tr>
 <td style="width: 20%;"><img src="/images/info1.jpg"></td>

@@ -5,16 +5,18 @@ description: ""
 variant: markdown
 ---
 <p><strong>School's Crest &amp; Motto</strong></p>
-
-
-
-<img src="/images/info1.jpg">
-
+<table style="border-collapse: collapse; width: 100%;" border="1">
+<tbody>
+<tr>
+<td style="width: 20%;"><img src="/images/info1.jpg"></td>
+<td style="width: 80%;">
 <p>The emblem of the heart which forms the central motif of the school crest represents the highest of all emotions Love - the love of God for Man and the love of Man for his neighbour.</p>
 <p>When the heart is Pure and Honest, the Holy Spirit can dwell within and transform the nature of the individual, ennobling it and refining it.</p>
 <p>Summounting the heart is the torch of Knowledge and Wisdom which can illuminate the mind and broaden the vision of all who seek its light. Emblazoned in a band of burnished gold across the emblem of the heart are the initials of the school; it represents the Loyalty for the Alma Mater. The two stars that are at the base of the crest reflect the school motto, PURE &amp; HONEST, ideals which every student should aspire to attain.</p>
-
-
+</td>
+</tr>
+</tbody>
+</table>
 
 
 <p><strong>School Song</strong></p>

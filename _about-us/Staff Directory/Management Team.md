@@ -9,14 +9,14 @@ variant: markdown
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| English Language     | Miss Sofia Parkash     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">Email</a>     |
+| English Language     | Miss Sofia Gita Parkash     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">Email</a>     |
 | Mathematics     | Mr William Ang     | <a href="mailto:ang_kia_wei_william@moe.edu.sg" target="">Email</a>     |
 | Science     | Mrs Tay Shu Yi     | <a href="mailto:wee_shu_yi@moe.edu.sg" target="">Email</a>     |
 | Mother Tongue Language     | Mdm Teo Hui Fang    | <a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a>     |
 | Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a>    |
 | Aesthetics     | Ms Michelle Yap     | <a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a>     |
-| Information Communications Technology    | Mdm Chen Siyun    | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>     |
-| Character &amp; Citizenship Education     | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>    |
+| Information Communications Technology    | Ms Chen Siyun    | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>     |
+| Character &amp; Citizenship Education (Covering)     | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>    |
 | Student Management    | Mdm Ng Pei Yoong   | <a href="mailto:ng_pei_yoong@moe.edu.sg" target="">Email</a>    |
 | School Staff Developer/Level Head English (Covering)     | Mdm Jeanne Teh     | <a href="mailto:teh_hsiao_chuin@moe.edu.sg" target="">Email</a>    |
 | Special Educational Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |

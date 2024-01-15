@@ -104,10 +104,10 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mr Zamree Mustapha</strong><strong>&nbsp;</strong><strong><a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Angeline Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:chow_lye_ngor@moe.edu.sg" target="">Email</a><br></strong>Class 3A</p>
+<p><strong>Ms Harshini Ganapathy</strong><strong>&nbsp;</strong><strong><a href="mailto:harshini_ganapathy@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Julie Yuan</strong><strong>&nbsp;</strong><strong><a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a><br></strong>Class 3A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mdm Png Bee Hiong</strong><strong>&nbsp;</strong><strong><a href="mailto:png_bee_hiong@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Jenny Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:jenny_ang@moe.edu.sg" target="">Email</a><br></strong>Class 3B</p>
+<p><strong>Mrs Jessica Loh</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Sooraj</strong><strong>&nbsp;</strong><strong><a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">Email</a><br></strong>Class 3B</p>
 </td>
 </tr>
 <tr>

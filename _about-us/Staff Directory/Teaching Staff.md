@@ -3,6 +3,7 @@ title: Teaching Staff
 permalink: /about-us/staff-directory/teaching-staff/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
 <li><input id="accordion1" type="checkbox"> <label for="accordion1">Primary 1</label>
@@ -11,39 +12,39 @@ third_nav_title: Staff Directory
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Nga Lee Choon</strong><strong>&nbsp;</strong><strong><a href="mailto:nga_lee_choon@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Sing Ling Ping</strong><strong>&nbsp;</strong><strong><a href="mailto:ling_ping@moe.edu.sg" target="">Email</a><br></strong>Class 1A</p>
+<p><strong>Mr Fu Siqiang</strong><strong>&nbsp;</strong><strong><a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Iris Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:tay_wan_peng_iris@moe.edu.sg" target="">Email</a><br></strong>Class 1A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Chen Li Chuan</strong><strong>&nbsp;</strong><strong><a href="mailto:chen_li_chuan@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Amy Soh</strong><strong>&nbsp;</strong><strong><a href="mailto:tang_hung_may@moe.edu.sg" target="">Email</a><br></strong>Class 1B</p>
-</td>
-</tr>
-<tr>
-<td style="width: 50%;">
-<p><strong>Mdm Ching Yuk Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:ching_yuk_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Liu Lijia</strong><strong>&nbsp;</strong><strong><a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a><br></strong>Class 1C</p>
-</td>
-<td style="width: 50%;">
-<p><strong>Mr Wong Yek Yue</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_yek_yue@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Geetha Rajendran</strong><strong>&nbsp;</strong><strong><a href="mailto:geetha_rajendran@moe.edu.sg" target="">Email</a><br></strong>Class 1D</p>
+<p><strong>Mr Daniel Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:Chan_Weng_Kin_Daniel@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Goh Wan Peng</strong><strong>&nbsp;</strong><strong><a href="mailto:ng_wan_peng@moe.edu.sg" target="">Email</a><br></strong>Class 1B</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Julie Yuan</strong><strong>&nbsp;</strong><strong><a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Suria Md Shafiee</strong><strong>&nbsp;</strong><strong><a href="mailto:suria_mohamed_shafiee@moe.edu.sg" target="">Email</a><br></strong>Class 1E</p>
+<p><strong>Mr Chan Ta Hoong</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_ta_hoong@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Teo Hui Fang</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a><br></strong>Class 1C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mdm Ng Yingying</strong><strong>&nbsp;</strong><strong><a href="mailto:ng_yingying@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Arvie Guaring</strong><strong>&nbsp;</strong><strong><a href="mailto:guaring_arvie_jean_balon@moe.edu.sg" target="">Email</a><br></strong>Class 1F</p>
-</td>
-</tr>
-<tr>
-<td style="width: 50%;">
-<p><strong>Mr John Chew</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Rena Tham</strong><strong>&nbsp;</strong><strong><a href="mailto:ho_tze_kim_rena@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
-</td>
-<td style="width: 50%;">
-<p><strong>Ms Harshini Ganapathy</strong><strong>&nbsp;</strong><strong><a href="mailto:harshini_ganapathy@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Joel Lim</strong>&nbsp;<strong><a href="mailto:joel_lim_en-rui@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
+<p><strong>Mr Kenneth Ong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_kai_min_kenneth@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chan Sew Yoon</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a><br></strong>Class 1D</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mdm Wang Shuai</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_shuai@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Kenneth Kueh</strong><strong>&nbsp;</strong><strong><a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a><br></strong>Class 1J</p>
+<p><strong>Mrs Yaw Siok Ching</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_siok_ching@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Wang Mengfei</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_mengfei@moe.edu.sg" target="">Email</a><br></strong>Class 1E</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Ms Shana Lim Li Shan</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_li_shan@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Tay Yee Won</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_li_shan@moe.edu.sg" target="">Email</a><br></strong>Class 1F</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Mdm Kamariah</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Melody Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:melody_tan_chiu_ling@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Ms Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chua Huiman</strong>&nbsp;<strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Mrs Kavitha Deen</strong><strong>&nbsp;</strong><strong><a href="mailto:kavitha_selvam@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Teh Jing Hurng</strong><strong>&nbsp;</strong><strong><a href="mailto:teh_jing_hurng@moe.edu.sg" target="">Email</a><br></strong>Class 1J</p>
 </td>
 <td style="width: 50%;">&nbsp;</td>
 </tr>

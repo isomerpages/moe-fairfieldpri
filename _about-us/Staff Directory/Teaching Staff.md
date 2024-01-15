@@ -128,7 +128,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Julia Sa</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Cindy Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_wai_foon_cindy@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;3G</p>
+<p><strong>Mdm Ng Pei Yoong</strong><strong>&nbsp;</strong><strong><a href="mailto:ng_pei_yoong@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Lim Sue Lynn</strong><strong>&nbsp;</strong><strong><a href="mailto:leelim_sue_lynn_a@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;3G</p>
 </td>
 <td style="width: 50%;">&nbsp;</td>
 </tr>

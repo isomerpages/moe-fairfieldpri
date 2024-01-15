@@ -36,7 +36,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mdm Kamariah</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Melody Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:melody_tan_chiu_ling@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
+<p><strong>Mdm Kamariah Abdul Rahim</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Melody Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:melody_tan_chiu_ling@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Ms Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chua Huiman</strong>&nbsp;<strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
@@ -107,7 +107,7 @@ variant: markdown
 <p><strong>Ms Harshini Ganapathy</strong><strong>&nbsp;</strong><strong><a href="mailto:harshini_ganapathy@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Julie Yuan</strong><strong>&nbsp;</strong><strong><a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a><br></strong>Class 3A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Jessica Loh</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Sooraj</strong><strong>&nbsp;</strong><strong><a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">Email</a><br></strong>Class 3B</p>
+<p><strong>Mrs Jessica Loh</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Sooraj Prabhodachandran</strong><strong>&nbsp;</strong><strong><a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">Email</a><br></strong>Class 3B</p>
 </td>
 </tr>
 <tr>
@@ -115,15 +115,15 @@ variant: markdown
 <p><strong>Ms Sun Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:Sun_Ling@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Lee Siu Marn</strong><strong>&nbsp;</strong><strong><a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a><br></strong>Class 3C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mr On Tai Jim</strong><strong>&nbsp;</strong><strong><a href="mailto:on_tai_jim@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Gwendolene Martin&nbsp;</strong><strong><a href="mailto:gwendolene_phua_noi_kheng@moe.edu.sg" target="">Email</a><br></strong>Class 3D</p>
+<p><strong>Ms Claire Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:claire_ling_peck_yan@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Jacquelin Wong</strong><strong><a href="mailto:ong_su_hwee_jacquelin@moe.edu.sg" target="">Email</a><br></strong>Class 3D</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Cheryl Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Nurhanifah Hassan</strong><strong>&nbsp;</strong><strong><a href="mailto:nurhanifah_hassan@moe.edu.sg" target="">Email</a><br></strong>Class 3E</p>
+<p><strong>Mrs Ann Tham</strong><strong>&nbsp;</strong><strong><a href="mailto:ann_tan_geok_lin@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Ng Wui Joo</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_wui_joo@moe.edu.sg" target="">Email</a><br></strong>Class 3E</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mdm Shanie Wu</strong><strong>&nbsp;</strong><strong><a href="mailto:wu_lin_ying@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Sooraj Prabhodachandran</strong><strong>&nbsp;</strong><strong><a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;3F</p>
+<p><strong>Ms Michelle Yap</strong><strong>&nbsp;</strong><strong><a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Mallika Habeeb</strong><strong>&nbsp;</strong><strong><a href="mailto:mallika_begum@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;3F</p>
 </td>
 </tr>
 <tr>

@@ -220,34 +220,34 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Mallika Habeeb</strong><strong>&nbsp;</strong><strong><a href="mailto:mallika_begum@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Raymond Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_kangshun_raymond@moe.edu.sg" target="">Email</a><br></strong>Class 6A</p>
+<p><strong>Mr Abdul Hadi Bakar</strong><strong>&nbsp;</strong><strong><a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Natalie Kee</strong><strong>&nbsp;</strong><strong><a href="mailto:natalie_kee_hui_yi@moe.edu.sg" target="">Email</a><br></strong>Class 6A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Teo Hui Fang</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Teh Jing Hurng</strong><strong>&nbsp;</strong><strong><a href="mailto:teh_jing_hurng@moe.edu.sg" target="">Email</a><br></strong>Class 6B</p>
-</td>
-</tr>
-<tr>
-<td style="width: 50%;">
-<p><strong>Mr Ng Kah Mun</strong><strong>&nbsp;</strong><strong><a href="mailto:ng_kah_mun@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Jacelyn Kwan</strong><strong>&nbsp;</strong><strong><a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a><br></strong>Class 6C</p>
-</td>
-<td style="width: 50%;">
-<p><strong>Mdm Sun Xue</strong><strong>&nbsp;</strong><strong><a href="mailto:sun_xue@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Tay Shu Yi</strong><strong>&nbsp;</strong><strong><a href="mailto:wee_shu_yi@moe.edu.sg" target="">Email</a><br></strong>Class 6D</p>
+<p><strong>Mdm Chan Man Pui</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_man_pui@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Jeanne Teh</strong><strong>&nbsp;</strong><strong><a href="mailto:teh_hsiao_chuin@moe.edu.sg" target="">Email</a><br></strong>Class 6B</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Nurul Amilia Roshamil</strong><strong>&nbsp;</strong><strong><a href="mailto:nurul_amilia_roshamil@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Sandra Hou</strong><strong>&nbsp;</strong><strong><a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a><br></strong>Class 6E</p>
+<p><strong>Ms Natasha S. Pannirsilvam</strong><strong>&nbsp;</strong><strong><a href="mailto:natasha_shamine_pannirsilvam@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Ang Bee Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:ang_bee_chin@moe.edu.sg" target="">Email</a><br></strong>Class 6C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mdm Chua Wui Joo</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_wui_joo@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Alvin Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:alvin_lim_hsu_jin@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;6F</p>
+<p><strong>Mrs Lim Wei Wei</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Soh Wee Lik</strong><strong>&nbsp;</strong><strong><a href="mailto:soh_wee_lik_derrick@moe.edu.sg" target="">Email</a><br></strong>Class 6D</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mdm Mavis Yeo</strong><strong>&nbsp;</strong><strong><a href="mailto:yeo_bee_koon_mavis@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Chan Ta Hoong</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_ta_hoong@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;6G</p>
+<p><strong>Ms Wang Yaling</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_yaling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chen Siyun</strong><strong>&nbsp;</strong><strong><a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a><br></strong>Class 6E</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Michelle Yap</strong><strong>&nbsp;</strong><strong><a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a><br></strong><strong>Mr William Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:ang_kia_wei_william@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;6H</p>
+<p><strong>Mr Md Khairuddin Sahlan</strong><strong>&nbsp;</strong><strong><a href="mailto:muhammad_khairuddin@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Goh Xinyi</strong><strong>&nbsp;</strong><strong><a href="mailto:soh_xinyi@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;6F</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Ms Regina Tay</strong><strong>&nbsp;</strong><strong><a href="mailto:tay_chin-na_regina@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Pang Xin</strong><strong>&nbsp;</strong><strong><a href="mailto:pang_xin@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;6G</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Mr Han Zhijin</strong><strong>&nbsp;</strong><strong><a href="mailto:han_zhijin@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Grace Wee</strong><strong>&nbsp;</strong><strong><a href="mailto:tay_pei_lyn_grace@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;6H</p>
 </td>
 </tr>
 </tbody>

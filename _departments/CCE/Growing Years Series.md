@@ -21,7 +21,7 @@ variant: markdown
 <li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ol>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" target=""><strong>here</strong></a>&nbsp;for more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of FAIRFIELD METHODIST SCHOOL (PRIMARY)’s Sexuality Education Programme for 2023</strong></h4>
+<h4><strong>Overview of FAIRFIELD METHODIST SCHOOL (PRIMARY)’s Sexuality Education Programme for 2024</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" target=""><strong>here</strong></a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <ol style="list-style-type: lower-alpha;">

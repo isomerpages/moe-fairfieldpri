@@ -80,7 +80,7 @@ variant: markdown
 </tbody>
 </table>
 <p><strong>Primary 6</strong></p>
-<h4><strong>Information for Parents</strong></h4><p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p><p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable &nbsp;<strong><u><a href="https://www.fmsp.moe.edu.sg/files/Opt%20Out%20Letter%20Pri%202023.pdf" target="">here</a></u></strong>. The completed opt-out form is to be submitted by&nbsp;<strong><u>31/08/2023.</u></strong></p><p>10. Parents can contact the school at 67788431 or&nbsp;<a href="mailto:fmsp@moe.edu.sg">fmsp@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.&nbsp;</p><p style="text-align: right;">Updated as at 2023</p><table>
+<table>
 <thead>
 <tr>
 <th><strong>CCE(FTGP) THEME</strong></th>
@@ -113,9 +113,5 @@ variant: markdown
 </td>
 <td>Term 4</td>
 </tr>
-
-
-
-
-
 </tbody></table>
+<h4><strong>Information for Parents</strong></h4><p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p><p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable &nbsp;<strong><u><a href="https://www.fmsp.moe.edu.sg/files/Opt%20Out%20Letter%20Pri%202023.pdf" target="">here</a></u></strong>. The completed opt-out form is to be submitted by&nbsp;<strong><u>31/08/2023.</u></strong></p><p>10. Parents can contact the school at 67788431 or&nbsp;<a href="mailto:fmsp@moe.edu.sg">fmsp@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.&nbsp;</p><p style="text-align: right;">Updated as at 2023</p>

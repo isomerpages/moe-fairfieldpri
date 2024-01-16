@@ -31,7 +31,7 @@ variant: markdown
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources.</p>
 <p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At FAIRFIELD METHODIST SCHOOL (PRIMARY), the following&nbsp;</strong><strong>Sexuality Education lessons will be taught in&nbsp;<u>2023:</u></strong></p>
+<p><strong>At FAIRFIELD METHODIST SCHOOL (PRIMARY), the following&nbsp;</strong><strong>Sexuality Education lessons will be taught in&nbsp;<u>2024:</u></strong></p>
 <p><strong>Primary 5</strong></p>
 <table>
 <thead>
@@ -51,9 +51,9 @@ variant: markdown
 </td>
 <td>
 <p>This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+<p>*This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*</p>
 </td>
-<td>Term 4 Week 2<br><br></td>
+<td>Term 3<br><br></td>
 </tr>
 <tr>
 <td style="text-align: center;">
@@ -62,9 +62,9 @@ variant: markdown
 </td>
 <td>
 <p>This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘<strong>Stop-Think-Do’.</strong></p>
-<p>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</p>
+<p>*This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.*</p>
 </td>
-<td>Term 4 Week 3</td>
+<td>Term 3</td>
 </tr>
 <tr>
 <td style="text-align: center;">

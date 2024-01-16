@@ -111,7 +111,7 @@ variant: markdown
 <td>
 <p>In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</p>
 </td>
-<td>Term 4 Weeks 5 to 10</td>
+<td>Term 4</td>
 </tr>
 <tr>
 <td style="text-align: center;">

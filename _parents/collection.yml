@@ -1,0 +1,16 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Calendar.md
+      - Updates on COVID–19.md
+      - Download Forms.md
+      - Announcements.md
+      - Primary One Registration.md
+      - Guide to Primary school transfer service.md
+      - International Student Admissions.md
+      - Student Care Centre at FMS(P).md
+      - Parents Info.md
+      - Vendors & Services.md
+      - English Reading List.md
+      - MOE Guidelines for School–Home Partnership.md

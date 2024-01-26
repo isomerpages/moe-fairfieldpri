@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - NewsLink.md
       - Calendar.md
+      - NewsLink.md
       - Download Forms.md
       - Announcements.md
       - Primary One Registration.md

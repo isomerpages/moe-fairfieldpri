@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Calendar.md
-      - Updates on COVID–19.md
       - Download Forms.md
       - Announcements.md
       - Primary One Registration.md

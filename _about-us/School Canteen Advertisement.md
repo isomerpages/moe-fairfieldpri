@@ -8,8 +8,8 @@ variant: markdown
 
 | Type of Stall | Closing Date | Requirements |
 | -------- | -------- | -------- |
-| Mixed Rice Stall (Halal/ non-Halal) | 19 January 2024 | Nil
-| Malay Food Stall | 19 January 2024 | Rice or noodle stalls are acceptable |
+| Mixed Rice Stall (Halal/ non-Halal) | 8 March 2024 | Nil
+| Malay Food Stall | 8 March 2024 | Rice or noodle stalls are acceptable |
 
 
 **Application Procedure**

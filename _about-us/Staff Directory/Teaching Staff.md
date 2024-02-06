@@ -39,7 +39,7 @@ variant: markdown
 <p><strong>Mdm Kamariah Abdul Rahim</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Melody Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:melody_tan_chiu_ling@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chua Huiman</strong>&nbsp;<strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
+<p><strong>Mrs Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chua Huiman</strong>&nbsp;<strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
 </td>
 </tr>
 <tr>

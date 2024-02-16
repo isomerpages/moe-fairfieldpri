@@ -3,10 +3,13 @@ title: Allied Educators
 permalink: /about-us/staff-directory/allied-educators/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
-<p><strong>Dr Audrey Ang<br></strong>School Counsellor<br><a href="mailto:ang_poh_sin_audrey@moe.edu.sg" target="">Email</a></p>
-<p><strong>Ms Leona Lam<br></strong>Senior SEN Officer<br><a href="mailto:lam_li_ting_leona@moe.edu.sg" target="">Email</a></p>
-<p><strong>Mr Choy Wei Thai</strong> <br>SEN Officer<br><a href="mailto:choy_wei_thai@moe.edu.sg" target="">Email</a></p>
-<p><strong>Mdm Hariyani</strong> <br>SEN Officer<br><a href="mailto:hariyani_sarmin_a@moe.edu.sg" target="">Email</a></p>
-<p><strong>Ms Tan Yen Yen</strong> <br>SEN Officer<br><a href="mailto:tan_yen_yen@moe.edu.sg" target="">Email</a></p>
-<p><strong>Ms Leelavathy</strong><br>AED T&amp;L<br><a href="mailto:leelavathy_balakrishnan@moe.edu.sg" target="">Email</a></p>
+| Name | Designation | Email |
+| -------- | -------- | -------- |
+| Dr Audrey Ang     | School Counsellor     | <a href="mailto:mailto:ang_poh_sin_audrey@moe.edu.sg" target="">Email</a>     |
+| Ms Leona Lam     | Senior SEN Officer     | <a href="mailto:lam_li_ting_leona@moe.edu.sg" target="">Email</a>     |
+| Mr Choy Wei Thai     | SEN Officer     | <a href="mailto:choy_wei_thai@moe.edu.sg" target="">Email</a>     |
+| Mdm Hariyani     | SEN Officer    | <a href="mailto:hariyani_sarmin_a@moe.edu.sg" target="">Email</a>     |
+| Ms Tan Yen Yen     | SEN Officer    | <a href="mailto:tan_yen_yen@moe.edu.sg" target="">Email</a>    |
+| Ms Leelavathy     | AED T&amp;L     | <a href="mailto:leelavathy_balakrishnan@moe.edu.sg" target="">Email</a>     |

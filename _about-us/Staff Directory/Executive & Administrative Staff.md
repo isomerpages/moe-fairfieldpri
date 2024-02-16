@@ -3,6 +3,7 @@ title: Executive & Administrative Staff
 permalink: /about-us/staff-directory/executive-n-administrative-staff/
 description: ""
 third_nav_title: Staff Directory
+variant: markdown
 ---
 <p><strong>Mrs Yeo-Tan Shiao Ying<br></strong>Administration Manager<br><a href="mailto:Tan_Shiao_ying@schools.gov.sg" target="">Email</a></p>
 <p><strong>Ms Rachel Lee<br></strong>Administration Manager<br><a href="mailto:Rachel_Lee@schools.gov.sg" target="">Email</a></p>
@@ -16,3 +17,19 @@ third_nav_title: Staff Directory
 <p><strong>Mr Zakki<br></strong>Media Specialist<br><a href="mailto:zakki_b_adali@schools.gov.sg" target="">Email</a></p>
 <p><strong>Mr Fitri</strong><br>Desktop Engineer</p>
 <p><strong>Mr Amirul</strong><br>Desktop Engineer</p>
+
+#### HEADS OF DEPARTMENTS
+
+| Name | Designation | Email |
+| -------- | -------- | -------- |
+| Mrs Yeo-Tan Shiao Ying     | Administration Manager     | <a href="mailto:Tan_Shiao_ying@schools.gov.sg" target="">Email</a>     |
+| Ms Rachel Lee     | Administration Manager     | <a href="mailto:Rachel_Lee@schools.gov.sg" target="">Email</a>     |
+| Mr Seet Eng Kiat     | Administration Executive     | <a href="mailto:Seet_Eng_Kiat@schools.gov.sg" target="">Email</a>     |
+| Ms Jenny Lui     | Administration Executive    | <a href="mailto:lui_yuen_lan@schools.gov.sg" target="">Email</a>     |
+| Mdm Rozdiyah     | CSO    | <a href="mailto:Rozdiyah_Harun@schools.gov.sg" target="">Email</a>    |
+| Mr Liew Chin Leong     | Operations Manager     | <a href="mailto:liew_chin_leong@schools.gov.sg" target="">Email</a>     |
+| Mrs Serene Oon    | Operations Manager    | <a href="mailto:serene_sing_ching_lan@schools.gov.sg" target="">Email</a>     |
+| Mr Elfian     | ICT Manager     | <a href="mailto:elfian_abdul_hadi@schools.gov.sg" target="">Email</a>    |
+| Mr Zakki    | Media Specialist   | <a href="mailto:zakki_b_adali@schools.gov.sg" target="">Email</a>    |
+| Mr Fitri     | Desktop Engineer     | 
+| Mr Amirul     | Desktop Engineer     | 

@@ -2,6 +2,7 @@
 title: Vendors & Services
 permalink: /parents/vendors-n-services/
 description: ""
+variant: markdown
 ---
 <h4><strong>School Bookshop</strong></h4>
 <p><strong>Pacific Bookstores Pte Ltd</strong></p>
@@ -63,6 +64,14 @@ Contact Number : <b>9833 0789</b></p>
 ![](/images/2023/schbusservices2023.JPG)
 <i>*prices applicable ONLY if student is currently not taking the 2-way daily bus services OR taking the 1-way morning daily bus service.</i>
 <h4><strong>School Uniform</strong></h4>
-<p><strong>Yangtze Kiang Tailor</strong></p>
-<p>Address: Blk 26 Teck Whye Lane&nbsp;<br>#01-180/182&nbsp;<br>Singapore 680026<br>Tel: 6769 1260<br>Website:&nbsp;<a href="http://www.yangtzekiang.com.sg/" target="_blank" rel="noopener">http://www.yangtzekiang.com.sg</a><br>Email:&nbsp;<a href="mailto:support@yangtzekiang.com.sg" target="">support@yangtzekiang.com.sg</a></p>
+<br><strong>Yangtze Kiang Tailor</strong>
+<br>Address:
+<br>51 Bukit Batok Crescent
+<br>#05-14
+<br>Unity Centre
+<br>Singapore 658077
+<br>Tel: 6769 1260
+<br>Website:&nbsp;<a href="http://www.yangtzekiang.com.sg/" target="_blank" rel="noopener">http://www.yangtzekiang.com.sg</a><br>Email:&nbsp;<a href="mailto:support@yangtzekiang.com.sg" target="">support@yangtzekiang.com.sg</a><p></p>
 <p>The school uniform is on sale in the school on selected dates.</p>
+
+     

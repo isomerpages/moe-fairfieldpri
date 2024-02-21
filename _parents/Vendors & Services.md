@@ -64,7 +64,7 @@ Contact Number : <b>9833 0789</b></p>
 ![](/images/2023/schbusservices2023.JPG)
 <i>*prices applicable ONLY if student is currently not taking the 2-way daily bus services OR taking the 1-way morning daily bus service.</i>
 <h4><strong>School Uniform</strong></h4>
-<br><strong>Yangtze Kiang Tailor</strong>
+<p><strong>Yangtze Kiang Tailor</strong></p>
 <br>Address:
 <br>51 Bukit Batok Crescent
 <br>#05-14

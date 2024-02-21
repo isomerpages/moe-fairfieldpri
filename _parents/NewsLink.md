@@ -4,4 +4,8 @@ permalink: /parents/newslink/
 variant: markdown
 description: ""
 ---
-[2024 NewsLink Term 1](/files/2024/NewsLink_2024__Term_1_.pdf)
+The school newsletter for Fairfield Methodist School (Primary), also known as "NewsLink," provides updates on key school information such as the school curriculum, events, and administrative matters. NewsLink also communicates key dates, achievements, projects, and the school's vision, fostering transparency and engagement with parents. Please click on the links below to read the termly NewsLinks.
+
+**2024**
+
+https://go.gov.sg/newslink2024term1

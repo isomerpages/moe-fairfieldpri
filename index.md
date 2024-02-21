@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcements
+        - title: Announcement for Parents
           description: ""
           url: /parents/announcements/
         - title: Parents Gateway Guide

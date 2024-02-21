@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Announcements
+        - title: Announcement for Parents
           description: ""
           url: /parents/announcements/
-        - title: Parents Gateway Guide
+        - title: NewsLink
           description: ""
-          url: /files/Onboarding%20Parents%20Gateway.pdf
+          url: /parents/newslink/
         - title: SLS
           description: ""
           url: https://www.learning.moe.edu.sg/

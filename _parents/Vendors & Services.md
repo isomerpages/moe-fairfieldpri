@@ -72,6 +72,9 @@ Contact Number : <b>9833 0789</b></p>
 <br>Singapore 658077
 <br>Tel: 6769 1260
 <br>Website:&nbsp;<a href="http://www.yangtzekiang.com.sg/" target="_blank" rel="noopener">http://www.yangtzekiang.com.sg</a><br>Email:&nbsp;<a href="mailto:support@yangtzekiang.com.sg" target="">support@yangtzekiang.com.sg</a><p></p>
-<p>The school uniform is on sale in the school on selected dates.</p>
+Operating Hours:
+Mon – Fri: 9am - 5:30pm
+Sat: 9am - 3:30pm
+Closed on Sunday and Public Holidays.
 
-     
+<p>The school uniform is on sale in the school on selected dates.</p>

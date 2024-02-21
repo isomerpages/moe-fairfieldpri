@@ -2,9 +2,10 @@
 title: Staff
 permalink: /staff/
 description: ""
+variant: markdown
 ---
 <ul>
-<li><a href="https://drive.google.com/drive/folders/14XeT8YOKWG7XE32tZXPu8W9ppnYs9FXG">ICT Guides</a></li>
+
 <li><a href="https://workspace.google.com/dashboardG">MOE iCon</a></li>
 <li><a href="https://intranet.moe.gov.sg/">MOE Intranet</a></li>
 <li><a href="https://scmobile.moe.edu.sg/login">MOE SC Mobile</a></li>

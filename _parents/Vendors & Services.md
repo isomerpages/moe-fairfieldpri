@@ -71,7 +71,7 @@ Contact Number : <b>9833 0789</b></p>
 <br>Unity Centre
 <br>Singapore 658077
 <br>Tel: 6769 1260
-<br>Website:&nbsp;<a href="http://www.yangtzekiang.com.sg/" target="_blank" rel="noopener">http://www.yangtzekiang.com.sg</a><br>Email:&nbsp;<a href="mailto:support@yangtzekiang.com.sg" target="">support@yangtzekiang.com.sg</a></p><p></p>
+<br>Website:&nbsp;<a href="https://www.yangtzekiang.com.sg/eshop/" target="_blank" rel="noopener">https://www.yangtzekiang.com.sg/eshop/</a><br>Email:&nbsp;<a href="mailto:support@yangtzekiang.com.sg" target="">support@yangtzekiang.com.sg</a></p><p></p>
 <br>Operating Hours:
 <br>Mon – Fri: 9am - 5:30pm
 <br>Sat: 9am - 3:30pm

@@ -5,12 +5,14 @@ description: ""
 variant: markdown
 ---
 <h4><strong>School Bookshop</strong></h4>
-<p><strong>Pacific Bookstores Pte Ltd</strong></p>Operating hours:
+<p><strong>Pacific Bookstores Pte Ltd</strong></p><strong>Operating hours:</strong>
 <br>Mondays, Tuesdays, Thursdays, Fridays: 8.30am to 3.30pm (school days)<br>Wednesdays: 8.30am to 2.30pm (school days)<br>Lunch hour: 12.00pm to 12.30pm (closed)
-<p>School bookshop contact : 86002038 (Whatsapp)
+<p><strong>School bookshop contact :</strong> 86002038 (Whatsapp)
 <br>You may Whatsapp to contact staff. Calling is discouraged. Phone will be switched on only during bookshop’s operating hours. </p>
-<p>Please contact the Head Office at 6464 0111 when the school bookshop is closed.</p>
-<p>Office Fax: 6464 0110<br>Email :&nbsp;<a href="mailto:sales@pacificbookstores.com" target="">sales@pacificbookstores.com</a><br>Website:&nbsp;<a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener">http://www.pacificbookstores.com/</a></p>
+<p>Please contact the Head Office when the school bookshop is closed.</p>
+<br><strong>Head Office Phone :</strong> 6464 0111
+<br><strong>Head Office Fax:</strong> 6464 0110
+<br><strong>Email </strong> :&nbsp;<a href="mailto:sales@pacificbookstores.com" target="">sales@pacificbookstores.com</a><br><strong>Website</strong>:&nbsp;<a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener">http://www.pacificbookstores.com/</a><p></p>
 <h4><strong>School Dental Clinic</strong></h4>
 <p>Person to Contact:&nbsp;<br><strong>Ms Irene Ang</strong><br>Manager, Dental Therapy<br><br><strong>Ms Chang Wan Yi </strong><br>Dental Therapist</p>
 <p>Contact No:&nbsp;8764 7361 (Whatsapp)<br>Parent may Whatsapp to contact staff. Calling is discouraged.&nbsp;Phone will be switched on only during clinic's operating hours.</p>

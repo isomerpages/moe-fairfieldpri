@@ -24,11 +24,11 @@ variant: markdown
 <table>
 <tbody>
 <tr>
-<th style="text-align: left;"><span style="background-color: #ffff00;">No</span></th>
-<th style="text-align: left;"><span style="background-color: #ffff00;">Dental Clinic</span></th>
-<th style="text-align: left;"><span style="background-color: #ffff00;">Telephone</span></th>
-<th style="text-align: left;"><span style="background-color: #ffff00;">Address</span></th>
-<th style="text-align: left;"><span style="background-color: #ffff00;">Dental staff in charge</span></th>
+<th>No</th>
+<th>Dental Clinic</th>
+<th>Telephone</th>
+<th>Address</th>
+<th>Dental staff in charge</th>
 </tr>
 <tr>
 <td>1</td>

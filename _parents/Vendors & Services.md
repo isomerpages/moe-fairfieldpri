@@ -9,11 +9,13 @@ variant: markdown
 <br>Mondays, Tuesdays, Thursdays, Fridays: 8.30am to 3.30pm (school days)<br>Wednesdays: 8.30am to 2.30pm (school days)<br>Lunch hour: 12.00pm to 12.30pm (closed)
 <p><strong>Contact No:</strong> 86002038 (Whatsapp)
 <br>You may Whatsapp to contact staff. Calling is discouraged. Phone will be switched on only during bookshop’s operating hours. </p>
-<p>Please contact the Head Office when the school bookshop is closed.</p>
-<br><strong>Head Office Phone :</strong> 6464 0111
+<p>Please contact the Head Office when the school bookshop is closed.</p><strong>Head Office Phone :</strong> 6464 0111
 <br><strong>Head Office Fax:</strong> 6464 0110
 <br><strong>Email </strong> :&nbsp;<a href="mailto:sales@pacificbookstores.com" target="">sales@pacificbookstores.com</a><br><strong>Website</strong>:&nbsp;<a href="http://www.pacificbookstores.com/" target="_blank" rel="noopener">http://www.pacificbookstores.com/</a>
-<h4><strong>School Dental Clinic</strong></h4>
+<p><strong>Sale of Textbooks &amp; Stationery</strong>
+<br>Pacific Bookstores will be open for operations at our school from 9am – 12pm on the last Saturday of every month <strong>EXCEPT</strong> for the following month:
+June: 22 June 2024
+</p><h4><strong>School Dental Clinic</strong></h4>
 <p>Person to Contact:&nbsp;<br><strong>Ms Irene Ang</strong><br>Manager, Dental Therapy<br><br><strong>Ms Chang Wan Yi </strong><br>Dental Therapist</p>
 <p><strong>Contact No</strong>:&nbsp;8764 7361 (Whatsapp)<br>Parent may Whatsapp to contact staff. Calling is discouraged.&nbsp;Phone will be switched on only during clinic's operating hours.</p>
 <p><strong>Dental Clinic Operating Hours</strong>:&nbsp;
@@ -76,5 +78,10 @@ Contact Number : <b>9833 0789</b></p>
 <br>Mon – Fri: 9am - 5:30pm
 <br>Sat: 9am - 3:30pm
 <br>Closed on Sunday and Public Holidays.
+<p><strong>Sale of School Uniform &amp; PE Attire</strong> 
+<br>Yangtze Kiang Tailor will be open for operations at our school from 9am – 12pm on the last Saturday of every month <strong>EXCEPT</strong> for the following month:
+June: 22 June 2024
 
-<p>The school uniform is on sale in the school on selected dates.</p>
+
+
+</p><p>The school uniform is on sale in the school on selected dates.</p>

@@ -4,4 +4,38 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p>Dear Parents/Guardians,</p><p>We warmly welcome your child back to school as we embark on a fresh new school term, ripe with opportunities for learning, innovation, and the acquisition of new knowledge, values, and skills.</p><p>The theme for this year is <strong>Laying Strong Foundations</strong>, inspired by the verse from Luke 6:47-48a:<em> As for everyone who comes to me and hears my words and puts them into practice, I will show you what they are like. They are like a man building a house, who dug down deep and laid the foundation on rock. When a flood came, the torrent struck that house but could not shake it, because it was well built.</em></p><p>In 2023, we commemorated 135 years of God's goodness over Fairfield through momentous events such as the <em>Oh!It’sFairfield</em> carnival, <em>Fairfield! The Musical</em>, and the combined school Founder's Day service. In 2024, we will seek to continue the good work built over the years.</p><p>It is my honour to join the Fairfield Family as I assume the role of principal of this school. I am excited about the opportunities to work with the various stakeholders—teachers, non-teaching staff, parents, alumni, and the board of management, as we strive to elevate the school to greater heights and provide quality education for all Fairsians.</p><p>In an increasingly volatile, uncertain, complex, and ambiguous (VUCA) world where change is constant and technology rapidly evolves, revisiting the fundamentals of education becomes pivotal. While Artificial Intelligence (AI) and smart technologies facilitate knowledge acquisition with a 'click,' the ability to discern is a crucial skill for our students. We aspire for our students to develop adaptive thinking, fearlessness in the face of failure, and the courage to explore new solutions—a mindset that fosters creativity, connectivity, and contribution.</p><p>To cultivate this mindset, we have revised the Fairsian Outcomes to empower students to:</p><p><strong>(1) Master Self</strong>, <strong>(2) Relate Well to Others</strong>, and <strong>(3) Serve God and the Community</strong>.</p><p><strong>(1) Master Self</strong><br>Every Fairsian is encouraged to take ownership of their learning and apply critical thinking skills across various academic and co-curricular pursuits. Other than promoting skills acquisition and creation through experiential learning in various subjects, our Makerspace programme also enables Fairsians to leverage Design Thinking, fostering the creation of new solutions using ICT tools. This approach encourages students to explore possibilities, diverse perspectives, and relish the creative process.</p><p><strong>(2) Relate Well to Others</strong><br>Every Fairsian is equipped to relate well to others through diverse programs, they learn to appreciate differences, communicate effectively and practise empathy. Our Applied Learning Programme (ALP) in oracy allows students to experience authentic learning in the English Language. Through the ALP, students learn to communicate effectively and express themselves proficiently. Our Learning for Life Programme (LLP) provides opportunities for Fairsians to work in teams through project works and class performances. Through visual and performing arts, students learn to relate to one another, acquire social awareness skills, and values such as empathy, harmony, and care. The LLP also provides opportunities for outreach to special education (SPED) schools, promoting inclusivity in the arts.</p><p><strong>(3) Serve God and the Community</strong><br>Lastly, we endeavour for every Fairsian to serve God and the community. We remind students that loving God includes loving His people. We encourage Fairsians to be self-reflective. Learning journals and Form-Teacher-Guidance Period (FTGP) lessons facilitate such a process. But for Fairsians to truly cultivate a heart of service, they must put into action what they have internalised. As such, collaborations and outreach with various partners are integrated into our Character and Citizenship Education (CCE) and Values-in-Action (VIA) programmes. These initiatives empower our Fairsians to actively serve and contribute to their homes, school, and the community, fostering a stronger sense of identity, attachment to their school, and a sense of pride.</p><p>Truly, we dedicate this year to the Lord for His continued guidance and blessings upon Fairfield. May 2024 be a year where we sow seeds, lay strong foundations, and may the Lord bless all involved in this transformative learning journey, marking another significant chapter in Fairfield's history.</p><p>Serving with you,<br><strong>Mrs Soh Mei Foong</strong><br>Principal</p>
+<p>Dear Parents/Guardians,
+<br>
+<br>As we conclude an eventful Term 1, it marks a time of reflection and thanksgiving
+for how God has safely guided our school through the term. I would like
+to share some activities that have enriched our students’ school experience.&nbsp;
+<br>
+<br>We started Term 1 with our inaugural <strong>Start It Right!</strong> programme
+which ensured a smooth transition for our students across levels, building
+relationships among teachers and students in their form classes. This initiative
+dovetails nicely with our theme of the year, ‘<strong>Laying Strong Foundations</strong>’
+(Luke 6:47-48). During the term, we witnessed several events that exemplified
+Fairsian outcomes and Fairfield spirit, allowing students to embrace diversity
+by fostering strong connections and supporting one another through various
+activities. The <strong>Chinese New Year celebrations</strong> united our
+diverse student community as we celebrated the richness of traditions through
+student and teacher performances. To commemorate <strong>Total Defence Day, </strong>our
+students actively participated in water rationing. They demonstrated resilience
+and reflected on their collective role in the broader community and nation.
+Additionally, the <strong>Primary 5 Camp</strong> held at Sentosa was a fantastic
+adventure, fostering friendships, teamwork and character development among
+our students, who courageously stepped out of their comfort zones. I would
+like to thank the staff who have worked hard to plan and organise these
+enriching learning experiences for our students.&nbsp;
+<br>
+<br>I would also like to express my heartfelt gratitude for the warm welcome
+I received at the <strong>Meet-the-Parents</strong> sessions held in January.
+Your engagement and unwavering support during the sessions and throughout
+the term are critical for your child’s learning journey in school.&nbsp;
+<br>
+<br>As we eagerly await Term 2, may God continue to grant our students and
+staff the wisdom and strength to embrace another term filled with exciting
+and meaningful learning opportunities!</p>
+<p>Serving with you,
+<br><strong>Mrs Soh Mei Foong</strong> 
+<br>Principal</p>

@@ -18,4 +18,5 @@ variant: markdown
 [https://www.fmsp.moe.edu.sg/parents/newslink/](https://www.fmsp.moe.edu.sg/parents/newslink/)
 
 **3. Information on the school vendor and services**
-<br>Please take note that the information on sale of textbook and stationeries, school uniform and PE attire and dental services will no longer be featured in the termly NewsLink with effect from 2024. Please click here to retrieve information on the school vendor and services: https://www.fmsp.moe.edu.sg/parents/vendors-n-services/.
+<br>Please take note that the information on sale of textbook and stationeries, school uniform and PE attire and dental services will no longer be featured in the termly NewsLink with effect from 2024. Please click here to retrieve information on the school vendor and services: 
+[https://www.fmsp.moe.edu.sg/parents/vendors-n-services/](https://www.fmsp.moe.edu.sg/parents/vendors-n-services/)

@@ -9,4 +9,3 @@ The school newsletter for Fairfield Methodist School (Primary), also known as "N
 **2024**
 <br>[https://go.gov.sg/newslink2024term2](https://go.gov.sg/newslink2024term2)
 <br>[https://go.gov.sg/newslink2024term1](https://go.gov.sg/newslink2024term1)
-

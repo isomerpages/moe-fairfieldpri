@@ -3,8 +3,8 @@ title: CCA Modules
 permalink: /about-us/departments/cca-new/cca-modules/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
-
 <p>CCA Modules allow students to explore and extend their interest by attending a wide-range of modules which may be knowledge-based or skills-based over the course of the year following the LEAPS framework. The LEAPS framework consists of the enrichment, physical, aesthetics and leadership and service domains.&nbsp;</p>
 <p>Through experiencing the different modules under the various domains, we aim to develop students holistically that will provide them with deep and strong foundation for lifelong learning.&nbsp;</p>
 <style type="text/css">
@@ -26,12 +26,12 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Khai (OIC)</span></td>
-    <td class="tg-wogo"><a href="mailto:muhammad_khairuddin@moe.edu.sg"><span style="color:#0563C1">muhammad_khairuddin@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Hadi (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Hadi (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:abdul_hadi_bakar@moe.edu.sg"><span style="color:#0563C1">abdul_hadi_bakar@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mdm Esther Thon (IC)</span></td>
+    <td class="tg-wogo"><a href="mailto:thon_sian_fei@moe.edu.sg"><span style="color:#0563C1">thon_sian_fei@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mrs Iris Tan</span></td>
@@ -45,25 +45,21 @@ third_nav_title: CCA
     <td class="tg-7zkw"><span style="color:#282828">Mdm Kamariah</span></td>
     <td class="tg-wogo"><a href="mailto:kamariah_abd_rahim@moe.edu.sg"><span style="color:#0563C1">kamariah_abd_rahim@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Esther Thon</span></td>
-    <td class="tg-wogo"><a href="mailto:thon_sian_fei@moe.edu.sg"><span style="color:#0563C1">thon_sian_fei@moe.edu.sg</span></a></td>
+   <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mdm Cindy Wong</span></td>
+    <td class="tg-wogo"><a href="mailto:wong_wai_foon_cindy@moe.edu.sg"><span style="color:#0563C1">wong_wai_foon_cindy@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Nga Lee Choon</span></td>
-    <td class="tg-wogo"><a href="mailto:nga_lee_choon@moe.edu.sg"><span style="color:#0563C1">nga_lee_choon@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Toh Hui Hwang</span></td>
-    <td class="tg-wogo"><a href="mailto:toh_hui_hwang@moe.edu.sg"><span style="color:#0563C1">toh_hui_hwang@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Ong Geok Cheng</span></td>
-    <td class="tg-wogo"><a href="mailto:tan_geok_cheng@moe.edu.sg"><span style="color:#0563C1">tan_geok_cheng@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Wang Mengfei</span></td>
+    <td class="tg-wogo"><a href="mailto:wang_mengfei@moe.edu.sg"><span style="color:#0563C1">wang_mengfei@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mrs Alicia Goh</span></td>
     <td class="tg-wogo"><a href="mailto:soh_xinyi@moe.edu.sg"><span style="color:#0563C1">soh_xinyi@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Toh Hui Hwang</span></td>
+    <td class="tg-wogo"><a href="mailto:toh_hui_hwang@moe.edu.sg"><span style="color:#0563C1">toh_hui_hwang@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>

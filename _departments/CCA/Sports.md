@@ -104,13 +104,17 @@ variant: markdown
     <td class="tg-7zkw"><span style="color:#282828">Ms Tan Wee Ling</span></td>
     <td class="tg-wogo"><a href="mailto:tan_wee_ling@moe.edu.sg"><span style="color:#0563C1">tan_wee_ling@moe.edu.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Chan Leng Leng</span></td>
+    <td class="tg-wogo"><a href="mailto:Lee_Leng_Leng@moe.edu.sg"><span style="color:#0563C1">Lee_Leng_Leng@moe.edu.sg</span></a></td>
+  </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mrs Jacelyn Kwan</span></td>
     <td class="tg-wogo"><a href="mailto:chia_pin_jhin@moe.edu.sg"><span style="color:#0563C1">chia_pin_jhin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Julie Yuan</span></td>
-    <td class="tg-dm87"><a href="mailto:Julie_Phoebe_Low@moe.edu.sg"><span style="color:#15C">Julie_Phoebe_Low@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Han Zhijin</span></td>
+    <td class="tg-dm87"><a href="mailto:han_zhijin@moe.edu.sg"><span style="color:#15C">han_zhijin@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>

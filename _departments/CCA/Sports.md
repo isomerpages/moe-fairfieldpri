@@ -166,11 +166,11 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Miss Jenny Ang (OIC)</span></td>
-    <td class="tg-wogo"><a href="mailto:jenny_ang@moe.edu.sg"><span style="color:#0563C1">jenny_ang@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Goh Wan Peng (IC)</span></td>
+    <td class="tg-wogo"><a href="mailto:ng_wan_peng@moe.edu.sg"><span style="color:#0563C1">ng_wan_peng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Natasha (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Natasha (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:natasha_shamine_pannirsilvam@moe.edu.sg"><span style="color:#0563C1">natasha_shamine_pannirsilvam@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -178,24 +178,20 @@ variant: markdown
     <td class="tg-wogo"><a href="mailto:amanda_choo_xuan_yi@moe.edu.sg"><span style="color:#0563C1">amanda_choo_xuan_yi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Ng Wui Joo</span></td>
-    <td class="tg-wogo"><a href="mailto:chua_wui_joo@moe.edu.sg"><span style="color:#0563C1">chua_wui_joo@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Jenny Ang</span></td>
+    <td class="tg-wogo"><a href="mailto:jenny_ang@moe.edu.sg"><span style="color:#0563C1">jenny_ang@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Goh Wan Peng</span></td>
-    <td class="tg-wogo"><a href="mailto:ng_wan_peng@moe.edu.sg"><span style="color:#0563C1">ng_wan_peng@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Wang Yaling</span></td>
+    <td class="tg-wogo"><a href="mailto:wang_yaling@moe.edu.sg"><span style="color:#0563C1">wang_yaling@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Shanie Wu</span></td>
-    <td class="tg-wogo"><a href="mailto:wu_lin_ying@moe.edu.sg"><span style="color:#0563C1">wu_lin_ying@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mrs Sing-Ling Ping</span></td>
     <td class="tg-wogo"><a href="mailto:ling_ping@moe.edu.sg"><span style="color:#0563C1">ling_ping@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Sandra Hou</span></td>
-    <td class="tg-wogo"><a href="mailto:hou_may_wah_sandra@moe.edu.sg"><span style="color:#0563C1">hou_may_wah_sandra@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Shana Lim</span></td>
+    <td class="tg-wogo"><a href="mailto:lim_li_shan@moe.edu.sg"><span style="color:#0563C1">lim_li_shan@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>

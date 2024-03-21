@@ -3,6 +3,7 @@ title: Sports
 permalink: /about-us/departments/cca-new/school-teams/sports/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 <h4><strong>Badminton</strong></h4>
 <p>The Badminton CCA provides students with the opportunity to improve their badminton skills such as footwork, overhead strikes, speed, accuracy, control and fitness.</p>
@@ -26,30 +27,26 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Chan Ta Hoong (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Chan Ta Hoong (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:chan_ta_hoong@moe.edu.sg"><span style="color:#0563C1">chan_ta_hoong@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Cherie Lee (OIC)</span></td>
-    <td class="tg-wogo"><a href="mailto:cheong_cherie@moe.edu.sg"><span style="color:#0563C1">cheong_cherie@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Gu Xiaomei</span></td>
-    <td class="tg-wogo"><a href="mailto:gu_xiaomei@moe.edu.sg"><span style="color:#0563C1">gu_xiaomei@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Han Zhijin</span></td>
-    <td class="tg-wogo"><a href="mailto:han_zhijin@moe.edu.sg"><span style="color:#0563C1">han_zhijin@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Ng Kah Mun</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Ng Kah Mun (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:ng_kah_mun@moe.edu.sg"><span style="color:#0563C1">ng_kah_mun@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Miss Wang Yaling</span></td>
-    <td class="tg-wogo"><a href="mailto:wang_yaling@moe.edu.sg"><span style="color:#0563C1">wang_yaling@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Melissa Yeo</span></td>
+    <td class="tg-wogo"><a href="mailto:yeo_hui_kiang_melissa@moe.edu.sg"><span style="color:#0563C1">yeo_hui_kiang_melissa@moe.edu.sg</span></a></td>
   </tr>
   <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Harshini Ganapathy</span></td>
+    <td class="tg-wogo"><a href="mailto:harshini_ganapathy@moe.edu.sg"><span style="color:#0563C1">harshini_ganapathy@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Melody Tan</span></td>
+    <td class="tg-wogo"><a href="mailto:melody_tan_chiu_ling@moe.edu.sg"><span style="color:#0563C1">melody_tan_chiu_ling@moe.edu.sg</span></a></td>
+  </tr>
+   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Ms Chan Sew Yoon</span></td>
     <td class="tg-wogo"><a href="mailto:chan_sew_yoon@moe.edu.sg"><span style="color:#0563C1">chan_sew_yoon@moe.edu.sg</span></a></td>
   </tr>

@@ -81,32 +81,28 @@ variant: markdown
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Nurhanifah (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Nurhanifah (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:nurhanifah_hassan@moe.edu.sg"><span style="color:#0563C1">nurhanifah_hassan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr John Chew (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr John Chew (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:chew_yang_cheng_john@moe.edu.sg"><span style="color:#0563C1">chew_yang_cheng_john@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Zhang Dejun</span></td>
-    <td class="tg-wogo"><a href="mailto:zhang_dejun@moe.edu.sg"><span style="color:#0563C1">zhang_dejun@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mdm Cheah Yoke Yin</span></td>
     <td class="tg-wogo"><a href="mailto:cheah_yoke_yin@moe.edu.sg"><span style="color:#0563C1">cheah_yoke_yin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Ng Yingying</span></td>
-    <td class="tg-wogo"><a href="mailto:ng_yingying@moe.edu.sg"><span style="color:#0563C1">ng_yingying@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-7zkw"><span style="color:#282828">Miss Natalie Kee</span></td>
     <td class="tg-wogo"><a href="mailto:natalie_kee_hui_yi@moe.edu.sg"><span style="color:#0563C1">natalie_kee_hui_yi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Daniel Chan</span></td>
-    <td class="tg-wogo"><a href="mailto:Chan_Weng_Kin_Daniel@moe.edu.sg"><span style="color:#0563C1">Chan_Weng_Kin_Daniel@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Leelavathy</span></td>
+    <td class="tg-wogo"><a href="mailto:leelavathy_balakrishnan@moe.edu.sg"><span style="color:#0563C1">leelavathy_balakrishnan@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Tan Wee Ling</span></td>
+    <td class="tg-wogo"><a href="mailto:tan_wee_ling@moe.edu.sg"><span style="color:#0563C1">tan_wee_ling@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mrs Jacelyn Kwan</span></td>

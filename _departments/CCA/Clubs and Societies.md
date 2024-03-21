@@ -3,6 +3,7 @@ title: Clubs and Societies
 permalink: /about-us/departments/cca-new/clubs-and-societies/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 <h4><strong>STEM Club</strong></h4>
 
@@ -31,7 +32,7 @@ Besides technical skills, STEM education builds and encourages problem solving s
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Grace Wee</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Grace Wee (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:tay_pei_lyn_grace@moe.edu.sg"><span style="color:#0563C1">tay_pei_lyn_grace@moe.edu.sg</span></a></td>
   </tr>
   <tr>

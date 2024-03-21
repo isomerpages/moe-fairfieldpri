@@ -3,6 +3,7 @@ title: Uniformed Groups
 permalink: /about-us/departments/cca-new/uniformed-groups/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 <h4><strong>Boys' Brigade</strong></h4>
 Formerly part of the 33rd Singapore Company which was founded in 1983 by Mr Jimmy Png, The 33J Boys' Brigade Singapore Company became independent in 2000. Under Mr David Chan, our founding Captain, we started a modular programme system, exposing our Boys in the areas of aesthetics, sport and character development among many others.
@@ -34,24 +35,20 @@ We give thanks for God's continued blessings!
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Arvie (OIC)</span></td>
-    <td class="tg-wogo"><a href="mailto:guaring_arvie_jean_balon@moe.edu.sg"><span style="color:#0563C1">guaring_arvie_jean_balon@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Miss Chua Huiman (IC)</span></td>
+    <td class="tg-wogo"><a href="mailto:chua_huiman@moe.edu.sg"><span style="color:#0563C1">chua_huiman@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Raymond Chan (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Raymond Chan (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:chan_kangshun_raymond@moe.edu.sg"><span style="color:#0563C1">chan_kangshun_raymond@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Miss Chua Huiman</span></td>
-    <td class="tg-wogo"><a href="mailto:chua_huiman@moe.edu.sg"><span style="color:#0563C1">chua_huiman@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Arvie Guaring</span></td>
+    <td class="tg-wogo"><a href="mailto:guaring_arvie_jean_balon@moe.edu.sg"><span style="color:#0563C1">guaring_arvie_jean_balon@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Ms Mavis Yeo</span></td>
     <td class="tg-wogo"><a href="mailto:yeo_bee_koon_mavis@moe.edu.sg"><span style="color:#0563C1">yeo_bee_koon_mavis@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Cindy Wong</span></td>
-    <td class="tg-wogo"><a href="mailto:wong_wai_foon_cindy@moe.edu.sg"><span style="color:#0563C1">wong_wai_foon_cindy@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mr Teh Jing Hurng</span></td>
@@ -82,24 +79,24 @@ We give thanks for God's continued blessings!
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Angeline Lim (OIC)</span></td>
-    <td class="tg-9v25"><a href="mailto:chow_lye_ngor@moe.edu.sg">chow_lye_ngor@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Miss Cheryl Wong (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Miss Cheryl Wong (IC)</span></td>
     <td class="tg-9v25"><a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg">wong_cheng_yi_cheryl@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Gwendolene Phua</span></td>
-    <td class="tg-9v25"><a href="mailto:gwendolene_phua_noi_kheng@moe.edu.sg">gwendolene_phua_noi_kheng@moe.edu.sg</a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Wang Shuai (IC)</span></td>
+    <td class="tg-9v25"><a href="mailto:wang_shuai@moe.edu.sg">wang_shuai@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Angeline Lim Phua</span></td>
+    <td class="tg-9v25"><a href="mailto:chow_lye_ngor@moe.edu.sgg">chow_lye_ngor@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Ms Claire Ling</span></td>
     <td class="tg-9v25"><a href="mailto:claire_ling_peck_yan@moe.edu.sg">claire_ling_peck_yan@moe.edu.sg</a></td>
   </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Wang Shuai</span></td>
-    <td class="tg-9v25"><a href="mailto:wang_shuai@moe.edu.sg">wang_shuai@moe.edu.sg</a></td>
+	  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Ann Tham</span></td>
+    <td class="tg-9v25"><a href="mailto:ann_tan_geok_lin@moe.edu.sg">ann_tan_geok_lin@moe.edu.sg</a></td>
   </tr>
 </tbody>
 </table>
@@ -126,11 +123,11 @@ We give thanks for God's continued blessings!
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Pang Xin (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Pang Xin (IC)</span></td>
     <td class="tg-ls4t"><a href="mailto:pang_xin@moe.edu.sg">pang_xin@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Sun Xue (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Sun Xue (IC)</span></td>
     <td class="tg-ls4t"><a href="mailto:sun_xue@moe.edu.sg">sun_xue@moe.edu.sg</a></td>
   </tr>
 </tbody>

@@ -3,6 +3,7 @@ title: Sports
 permalink: /about-us/departments/cca-new/school-teams/sports/
 description: ""
 third_nav_title: CCA
+variant: markdown
 ---
 <h4><strong>Badminton</strong></h4>
 <p>The Badminton CCA provides students with the opportunity to improve their badminton skills such as footwork, overhead strikes, speed, accuracy, control and fitness.</p>
@@ -26,30 +27,26 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Chan Ta Hoong (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Chan Ta Hoong (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:chan_ta_hoong@moe.edu.sg"><span style="color:#0563C1">chan_ta_hoong@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Cherie Lee (OIC)</span></td>
-    <td class="tg-wogo"><a href="mailto:cheong_cherie@moe.edu.sg"><span style="color:#0563C1">cheong_cherie@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Gu Xiaomei</span></td>
-    <td class="tg-wogo"><a href="mailto:gu_xiaomei@moe.edu.sg"><span style="color:#0563C1">gu_xiaomei@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Han Zhijin</span></td>
-    <td class="tg-wogo"><a href="mailto:han_zhijin@moe.edu.sg"><span style="color:#0563C1">han_zhijin@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Ng Kah Mun</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Ng Kah Mun (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:ng_kah_mun@moe.edu.sg"><span style="color:#0563C1">ng_kah_mun@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Miss Wang Yaling</span></td>
-    <td class="tg-wogo"><a href="mailto:wang_yaling@moe.edu.sg"><span style="color:#0563C1">wang_yaling@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Melissa Yeo</span></td>
+    <td class="tg-wogo"><a href="mailto:yeo_hui_kiang_melissa@moe.edu.sg"><span style="color:#0563C1">yeo_hui_kiang_melissa@moe.edu.sg</span></a></td>
   </tr>
   <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Harshini Ganapathy</span></td>
+    <td class="tg-wogo"><a href="mailto:harshini_ganapathy@moe.edu.sg"><span style="color:#0563C1">harshini_ganapathy@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Melody Tan</span></td>
+    <td class="tg-wogo"><a href="mailto:melody_tan_chiu_ling@moe.edu.sg"><span style="color:#0563C1">melody_tan_chiu_ling@moe.edu.sg</span></a></td>
+  </tr>
+   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Ms Chan Sew Yoon</span></td>
     <td class="tg-wogo"><a href="mailto:chan_sew_yoon@moe.edu.sg"><span style="color:#0563C1">chan_sew_yoon@moe.edu.sg</span></a></td>
   </tr>
@@ -84,40 +81,40 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Nurhanifah (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Nurhanifah (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:nurhanifah_hassan@moe.edu.sg"><span style="color:#0563C1">nurhanifah_hassan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr John Chew (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr John Chew (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:chew_yang_cheng_john@moe.edu.sg"><span style="color:#0563C1">chew_yang_cheng_john@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Zhang Dejun</span></td>
-    <td class="tg-wogo"><a href="mailto:zhang_dejun@moe.edu.sg"><span style="color:#0563C1">zhang_dejun@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mdm Cheah Yoke Yin</span></td>
     <td class="tg-wogo"><a href="mailto:cheah_yoke_yin@moe.edu.sg"><span style="color:#0563C1">cheah_yoke_yin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Ng Yingying</span></td>
-    <td class="tg-wogo"><a href="mailto:ng_yingying@moe.edu.sg"><span style="color:#0563C1">ng_yingying@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-7zkw"><span style="color:#282828">Miss Natalie Kee</span></td>
     <td class="tg-wogo"><a href="mailto:natalie_kee_hui_yi@moe.edu.sg"><span style="color:#0563C1">natalie_kee_hui_yi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Daniel Chan</span></td>
-    <td class="tg-wogo"><a href="mailto:Chan_Weng_Kin_Daniel@moe.edu.sg"><span style="color:#0563C1">Chan_Weng_Kin_Daniel@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Leelavathy</span></td>
+    <td class="tg-wogo"><a href="mailto:leelavathy_balakrishnan@moe.edu.sg"><span style="color:#0563C1">leelavathy_balakrishnan@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Tan Wee Ling</span></td>
+    <td class="tg-wogo"><a href="mailto:tan_wee_ling@moe.edu.sg"><span style="color:#0563C1">tan_wee_ling@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Chan Leng Leng</span></td>
+    <td class="tg-wogo"><a href="mailto:Lee_Leng_Leng@moe.edu.sg"><span style="color:#0563C1">Lee_Leng_Leng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mrs Jacelyn Kwan</span></td>
     <td class="tg-wogo"><a href="mailto:chia_pin_jhin@moe.edu.sg"><span style="color:#0563C1">chia_pin_jhin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Julie Yuan</span></td>
-    <td class="tg-dm87"><a href="mailto:Julie_Phoebe_Low@moe.edu.sg"><span style="color:#15C">Julie_Phoebe_Low@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Han Zhijin</span></td>
+    <td class="tg-dm87"><a href="mailto:han_zhijin@moe.edu.sg"><span style="color:#15C">han_zhijin@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -133,12 +130,12 @@ third_nav_title: CCA
 <td width="315"><strong>Email</strong></td>
 </tr>
 <tr>
-<td width="198">Mr Soh Wee Lik (OIC)</td>
+<td width="198">Mr Soh Wee Lik (IC)</td>
 <td width="315"><a href="mailto:soh_wee_lik_derrick@moe.edu.sg">soh_wee_lik_derrick@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td width="198">Mr Liu Lijia</td>
-<td width="315"><a href="mailto:liu_lijia@moe.edu.sg">liu_lijia@moe.edu.sg</a></td>
+<td width="198">Mr Muhd Khairuddin</td>
+<td width="315"><a href="mailto:muhammad_khairuddin@moe.edu.sg">muhammad_khairuddin@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td width="198">Mr Zamree</td>
@@ -169,11 +166,11 @@ third_nav_title: CCA
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Miss Jenny Ang (OIC)</span></td>
-    <td class="tg-wogo"><a href="mailto:jenny_ang@moe.edu.sg"><span style="color:#0563C1">jenny_ang@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Mrs Goh Wan Peng (IC)</span></td>
+    <td class="tg-wogo"><a href="mailto:ng_wan_peng@moe.edu.sg"><span style="color:#0563C1">ng_wan_peng@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Natasha (OIC)</span></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Natasha (IC)</span></td>
     <td class="tg-wogo"><a href="mailto:natasha_shamine_pannirsilvam@moe.edu.sg"><span style="color:#0563C1">natasha_shamine_pannirsilvam@moe.edu.sg</span></a></td>
   </tr>
   <tr>
@@ -181,24 +178,20 @@ third_nav_title: CCA
     <td class="tg-wogo"><a href="mailto:amanda_choo_xuan_yi@moe.edu.sg"><span style="color:#0563C1">amanda_choo_xuan_yi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Ng Wui Joo</span></td>
-    <td class="tg-wogo"><a href="mailto:chua_wui_joo@moe.edu.sg"><span style="color:#0563C1">chua_wui_joo@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Jenny Ang</span></td>
+    <td class="tg-wogo"><a href="mailto:jenny_ang@moe.edu.sg"><span style="color:#0563C1">jenny_ang@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Goh Wan Peng</span></td>
-    <td class="tg-wogo"><a href="mailto:ng_wan_peng@moe.edu.sg"><span style="color:#0563C1">ng_wan_peng@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Wang Yaling</span></td>
+    <td class="tg-wogo"><a href="mailto:wang_yaling@moe.edu.sg"><span style="color:#0563C1">wang_yaling@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Shanie Wu</span></td>
-    <td class="tg-wogo"><a href="mailto:wu_lin_ying@moe.edu.sg"><span style="color:#0563C1">wu_lin_ying@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
+   <tr>
     <td class="tg-7zkw"><span style="color:#282828">Mrs Sing-Ling Ping</span></td>
     <td class="tg-wogo"><a href="mailto:ling_ping@moe.edu.sg"><span style="color:#0563C1">ling_ping@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Sandra Hou</span></td>
-    <td class="tg-wogo"><a href="mailto:hou_may_wah_sandra@moe.edu.sg"><span style="color:#0563C1">hou_may_wah_sandra@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Shana Lim</span></td>
+    <td class="tg-wogo"><a href="mailto:lim_li_shan@moe.edu.sg"><span style="color:#0563C1">lim_li_shan@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>

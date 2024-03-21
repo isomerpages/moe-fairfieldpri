@@ -130,12 +130,12 @@ variant: markdown
 <td width="315"><strong>Email</strong></td>
 </tr>
 <tr>
-<td width="198">Mr Soh Wee Lik (OIC)</td>
+<td width="198">Mr Soh Wee Lik (IC)</td>
 <td width="315"><a href="mailto:soh_wee_lik_derrick@moe.edu.sg">soh_wee_lik_derrick@moe.edu.sg</a></td>
 </tr>
 <tr>
-<td width="198">Mr Liu Lijia</td>
-<td width="315"><a href="mailto:liu_lijia@moe.edu.sg">liu_lijia@moe.edu.sg</a></td>
+<td width="198">Mr Muhd Khairuddin</td>
+<td width="315"><a href="mailto:muhammad_khairuddin@moe.edu.sg">muhammad_khairuddin@moe.edu.sg</a></td>
 </tr>
 <tr>
 <td width="198">Mr Zamree</td>

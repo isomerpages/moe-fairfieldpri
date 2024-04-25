@@ -15,11 +15,11 @@ skills is also one of the key strategic thrusts in the MOE EdTech Masterplan
 2030.</p>
 <p><strong>Programme Overview</strong>
 </p>
-<p>Our existing Digital Literacy Programme was updated in 2023, starting
-with our enthusiastic Primary 1 students and has since expanded to other
-levels. The programme complements the existing use of tech-enabled teaching
-and learning in our classrooms. When students go through the updated Digital
-Literacy Programme, they will be exposed to all 9 digital competencies
+<p>&lt;br&gt;Our existing Digital Literacy Programme was updated in 2023,
+starting with our enthusiastic Primary 1 students and has since expanded
+to other levels. The programme complements the existing use of tech-enabled
+teaching and learning in our classrooms. When students go through the updated
+Digital Literacy Programme, they will be exposed to all 9 digital competencies
 under MOE’s digital literacy framework through the 6 years in Fairfield.
 This will ensure that every student benefits from a solid foundation in
 digital literacy.</p>

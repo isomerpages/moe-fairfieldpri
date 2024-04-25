@@ -14,30 +14,28 @@ competencies. The strengthening of students’ digital literacy and technologica
 skills is also one of the key strategic thrusts in the MOE EdTech Masterplan
 2030.</p>
 <p><strong>Programme Overview</strong>
-</p>
-<p>&lt;br&gt;Our existing Digital Literacy Programme was updated in 2023,
-starting with our enthusiastic Primary 1 students and has since expanded
-to other levels. The programme complements the existing use of tech-enabled
-teaching and learning in our classrooms. When students go through the updated
-Digital Literacy Programme, they will be exposed to all 9 digital competencies
+<br>Our existing Digital Literacy Programme was updated in 2023, starting
+with our enthusiastic Primary 1 students and has since expanded to other
+levels. The programme complements the existing use of tech-enabled teaching
+and learning in our classrooms. When students go through the updated Digital
+Literacy Programme, they will be exposed to all 9 digital competencies
 under MOE’s digital literacy framework through the 6 years in Fairfield.
 This will ensure that every student benefits from a solid foundation in
-digital literacy.&lt;/br&gt;</p>
+digital literacy.</p>
 <p><strong>Learning Platform</strong>
-</p>
-<p>The digital literacy modules are mainly assigned within the SLS (Student
+<br>The digital literacy modules are mainly assigned within the SLS (Student
 Learning Space) portal, where students can learn at their own pace, anytime
 and anywhere. These modules are thoughtfully designed to adopt a spiral
 approach, gradually building on technological skills and new media literacies.
 This method ensures that learning is progressive, with each level delving
-deeper into the digital world.</p>
-<p></p>
+deeper into the digital world.
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ICT1.jpg">
 </div>
-<p>Example of P1 digital literacy modules</p>
-<p></p>
-<p></p>
+<p><sup>Example of P1 digital literacy modules</sup>
+</p>
 <p><strong>Programme Highlights</strong>
 </p>
 <p>- <strong>Technological Skills:</strong> Students will learn essential technical
@@ -48,15 +46,13 @@ applications.</p>
 the implications of our online actions is crucial. Our modules on cyber
 etiquette, digital footprints, copyright awareness, and managing personal
 information aim to cultivate responsible digital citizens.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ICT2.jpg">
 </div>
-<p>9 Digital competencies categorised into MOE’s Find-Think-Apply-Create
-framework</p>
-<p><strong>Recognition and Achievement</strong>
+<p><sup>9 Digital competencies categorised into MOE’s Find-Think-Apply-Create framework</sup>
 </p>
-<p>We believe in celebrating our students' achievements. Upon completing
+<p><strong>Recognition and Achievement</strong>
+<br>We believe in celebrating our students' achievements. Upon completing
 all modules for their year group, students will be awarded a unique badge
 for their level. These badges not only recognize their hard work and dedication
 but also encourage a sense of pride in their digital literacy accomplishments.</p>
@@ -64,7 +60,8 @@ but also encourage a sense of pride in their digital literacy accomplishments.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ICT3.jpg">
 </div>
-<p>Digital Badges awarded to each level</p>
+<p><sup>Digital Badges awarded to each level</sup>
+</p>
 <p></p>
 <p>Thank you for visiting our Digital Literacy Programme page. We invite
 you to explore the Digital Literacy modules on SLS together with your child

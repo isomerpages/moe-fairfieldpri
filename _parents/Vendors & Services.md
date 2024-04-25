@@ -16,7 +16,7 @@ variant: markdown
 <br>Pacific Bookstores will be open for operations at our school from 9am – 12pm on the last Saturday of every month <strong>EXCEPT</strong> for the following month:
 June: 22 June 2024
 </p><h4><strong>School Dental Clinic</strong></h4>
-<p>Person to Contact:&nbsp;<br><strong>Ms Irene Ang</strong><br>Manager, Dental Therapy<br><br><strong>Ms Chang Wan Yi </strong><br>Dental Therapist</p>
+<p>Person to Contact:&nbsp;<br><strong>Ms Sheryl Gwee</strong><br>Higher Dental Therapist<br><br><strong>Ms Chang Wan Yi </strong><br>Senior Dental Therapist</p>
 <p><strong>Contact No</strong>:&nbsp;8764 7361 (Whatsapp)<br>Parent may Whatsapp to contact staff. Calling is discouraged.&nbsp;Phone will be switched on only during clinic's operating hours.</p>
 <p><strong>Dental Clinic Operating Hours</strong>:&nbsp;
 <br>Mondays, Wednesdays, Fridays 8am to 5pm 
@@ -36,14 +36,14 @@ June: 22 June 2024
 </tr>
 <tr>
 <td>1</td>
-<td><strong>Pei Tong Primary</strong><br>(Open on alternate Tuesdays, Wednesdays and Fridays from 8am to 530pm)</td>
+<td><strong>Pei Tong Primary</strong><br>(Open on alternate Mondays to Fridays from 8am to 530pm)</td>
 <td>8909 1679</td>
 <td>15, Clementi Ave 5, S(129857)</td>
 <td>Ms Gwee<br>Ms Tan</td>
 </tr>
 <tr>
 <td>2</td>
-<td><strong>Queenstown Primary</strong><br>(Open on alternate Tuesdays, Wednesdays and Fridays from 8am to 530pm)</td>
+<td><strong>Queenstown Primary</strong><br>(Open on alternate Mondays to Thursdays from 8am to 530pm)</td>
 <td>8909 2160</td>
 <td>310 Margaret Drive, S(149303)</td>
 <td>Mdm Chui</td>

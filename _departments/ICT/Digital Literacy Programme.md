@@ -63,5 +63,5 @@ but also encourage a sense of pride in their digital literacy accomplishments.</
 you to explore the Digital Literacy modules on SLS together with your child
 in their journey to becoming a digitally literate individual.
 <br>---
-<br>Learn more: <a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills" rel="noopener noreferrer nofollow" target="_blank">Digital literacy and technological skills | MOE</a> 
+<br>Learn more: <a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills" rel="noopener noreferrer nofollow" target="_blank">Digital literacy and technological skills | MOE</a>
 </p>

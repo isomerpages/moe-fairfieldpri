@@ -32,9 +32,9 @@ deeper into the digital world.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ICT1.jpg">
 </div>
-<p><sup>                    Example of P1 digital literacy modules</sup>
+<p><sup>Example of P1 digital literacy modules</sup>
 </p>
-<p><strong>Programme Highlights</strong>
+<p><strong>Programme Highlights</strong> 
 <br>- <strong>Technological Skills:</strong> Students will learn essential technical
 skills through modules such as touch typing, using a web browser, taking
 screenshots, and understanding the basic functions of Microsoft Office
@@ -46,7 +46,7 @@ information aim to cultivate responsible digital citizens.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ICT2.jpg">
 </div>
-<p><sup>                    9 Digital competencies categorised into MOE’s Find-Think-Apply-Create framework</sup>
+<p><sup>9 Digital competencies categorised into MOE’s Find-Think-Apply-Create framework</sup>
 </p>
 <p><strong>Recognition and Achievement</strong> 
 <br>We believe in celebrating our students' achievements. Upon completing
@@ -57,11 +57,11 @@ but also encourage a sense of pride in their digital literacy accomplishments.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/ICT3.jpg">
 </div>
-<p><sup>                    Digital Badges awarded to each level</sup>
+<p><sup>Digital Badges awarded to each level</sup>
 </p>
 <p>Thank you for visiting our Digital Literacy Programme page. We invite
 you to explore the Digital Literacy modules on SLS together with your child
 in their journey to becoming a digitally literate individual.
 <br>---
-<br>Learn more: <a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills" rel="noopener noreferrer nofollow" target="_blank">Digital literacy and technological skills | MOE</a> &lt;Mouse
-hover text: MOE page on digital literacy&gt;</p>
+<br>Learn more: <a href="https://www.moe.gov.sg/education-in-sg/educational-technology-journey/edtech-masterplan/digital-literacy-and-technological-skills" rel="noopener noreferrer nofollow" target="_blank">Digital literacy and technological skills | MOE</a> 
+</p>

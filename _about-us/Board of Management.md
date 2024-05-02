@@ -4,7 +4,7 @@ permalink: /about-us/board-of-management/
 description: ""
 variant: markdown
 ---
-![](/images/2024/FMS_BOM_2024__2_.jpg)
+![](/images/2024/FMS_BOM__1_.jpg)
 
 | Name | Designation | 
 | -------- | -------- | 
@@ -16,6 +16,6 @@ variant: markdown
 | Mdm Sandra Tan     | Member     | 
 | Mr Kelvin Ong     | Member     | 
 | Mr Peter Ho     | Member     | 
+| Ms Gracia Tan     | Member     | 
 | Mr Wee Tat Chuen     | Honorary Secretary     | 
-| Mrs Soh Mei Foong     | Assistant Honorary Secretary     | 
-
+| Mrs Soh Mei Foong     | Assistant Honorary Secretary     |

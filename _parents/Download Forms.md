@@ -2,15 +2,13 @@
 title: Download Forms
 permalink: /parents/download-forms/
 description: ""
+variant: markdown
 ---
-<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Parents who wish to apply as Parent Volunteers to our school can apply online via FORMSG link: <strong><a href="https://go.gov.sg/fmsp-parentvolunteerp12026intake">https://go.gov.sg/fmsp-parentvolunteerp12026intake</a></strong>
+<p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Application period for Parent Volunteers for Primary 1 <strong>2026</strong> intake (children born in <strong>2019</strong>) is now closed. 
+<br>Parents who have applied will be notified of the outcome <strong>via email by 30 June 2024.</strong>
 
-</p><p>Current application is open only for children born in <strong>2019.</strong></p>
-<p>Applications will close on <strong>31 May 2024.</strong></p>
 
-<p>Parents will be notified of the outcome via email by end <strong>June 2024.</strong></p>
-
-<p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2024 can apply online from October 2023 via FormSG link link:&nbsp;<strong><a href="https://go.gov.sg/fmsptransfer-admission2024">https://go.gov.sg/fmsptransfer-admission2024</a></strong></p>
+</p><p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2024 can apply online from October 2023 via FormSG link link:&nbsp;<strong><a href="https://go.gov.sg/fmsptransfer-admission2024">https://go.gov.sg/fmsptransfer-admission2024</a></strong></p>
 <p>We regret that only shortlisted candidates will be notified if there are vacancies.</p>
 <p><strong><u>Application for Leave of Absence (LOA)</u></strong></p>
 <p>i) Parents can apply LOA for their children online via FormSG link:&nbsp;<a target="" href="https://go.gov.sg/fmsp-leaveofabsence"><strong>https://go.gov.sg/fmsp-leaveofabsence</strong></a> based on&nbsp;<strong><u>only</u></strong>&nbsp;the following&nbsp;reasons:</p>

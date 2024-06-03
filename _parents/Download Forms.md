@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <p><strong><u>Parent Volunteer Application Form (40 hours)<br></u></strong>Application period for Parent Volunteers for Primary 1 <strong>2026</strong> intake (children born in <strong>2019</strong>) is now closed. 
-<br>Parents who have applied will be notified of the outcome <strong>via email by 30 June 2024</strong>
+<br>Parents who have applied will be notified of the outcome <strong>via email by 30 June 2024.</strong>
 
 
 </p><p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2024 can apply online from October 2023 via FormSG link link:&nbsp;<strong><a href="https://go.gov.sg/fmsptransfer-admission2024">https://go.gov.sg/fmsptransfer-admission2024</a></strong></p>

@@ -98,6 +98,10 @@ We give thanks for God's continued blessings!
     <td class="tg-7zkw"><span style="color:#282828">Mrs Ann Tham</span></td>
     <td class="tg-9v25"><a href="mailto:ann_tan_geok_lin@moe.edu.sg">ann_tan_geok_lin@moe.edu.sg</a></td>
   </tr>
+	<tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mdm Cindy Wong</span></td>
+    <td class="tg-9v25"><a href="mailto:wong_wai_foon_cindy@moe.edu.sg">wong_wai_foon_cindy@moe.edu.sg</a></td>
+  </tr>
 </tbody>
 </table>
 <p></p><section id="red-cross"><p></p>

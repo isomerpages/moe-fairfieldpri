@@ -113,8 +113,8 @@ variant: markdown
     <td class="tg-wogo"><a href="mailto:chia_pin_jhin@moe.edu.sg"><span style="color:#0563C1">chia_pin_jhin@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Han Zhijin</span></td>
-    <td class="tg-dm87"><a href="mailto:han_zhijin@moe.edu.sg"><span style="color:#15C">han_zhijin@moe.edu.sg</span></a></td>
+    <td class="tg-7zkw"><span style="color:#282828">Ms Shana Lim</span></td>
+    <td class="tg-dm87"><a href="mailto:lim_li_shan@moe.edu.sg"><span style="color:#15C">lim_li_shan@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>

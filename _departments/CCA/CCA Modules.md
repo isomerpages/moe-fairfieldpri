@@ -61,5 +61,9 @@ variant: markdown
     <td class="tg-7zkw"><span style="color:#282828">Ms Toh Hui Hwang</span></td>
     <td class="tg-wogo"><a href="mailto:toh_hui_hwang@moe.edu.sg"><span style="color:#0563C1">toh_hui_hwang@moe.edu.sg</span></a></td>
   </tr>
+	<tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Han Zhijin</span></td>
+    <td class="tg-wogo"><a href="mailto:han_zhijin@moe.edu.sg"><span style="color:#0563C1">han_zhijin@moe.edu.sg</span></a></td>
+  </tr>
 </tbody>
 </table>

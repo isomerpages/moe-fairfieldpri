@@ -189,9 +189,5 @@ variant: markdown
     <td class="tg-7zkw"><span style="color:#282828">Mrs Sing-Ling Ping</span></td>
     <td class="tg-wogo"><a href="mailto:ling_ping@moe.edu.sg"><span style="color:#0563C1">ling_ping@moe.edu.sg</span></a></td>
   </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Shana Lim</span></td>
-    <td class="tg-wogo"><a href="mailto:lim_li_shan@moe.edu.sg"><span style="color:#0563C1">lim_li_shan@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
+  </tbody>
 </table>

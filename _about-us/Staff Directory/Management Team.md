@@ -51,7 +51,7 @@ variant: markdown
 | Mother Tongue Language (Malay &amp; Tamil)    | Mr Zamree Bin Mustapha     | <a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a>     |
 | Co-Curricular Activities     | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a>     |
 | Information Communications Technology     | Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a>     |
-| Innovation &amp; Knowledge Management     | Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a>    |
+| Innovation &amp; Knowledge Management     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>    |
 | National Education &amp; Social Studies     | Ms Suria Md Shafiee     | <a href="mailto:suria_mohamed_shafiee@moe.edu.sg" target="">Email</a>     |
 | Student Well-Being     | Mr Liu Lijia     | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>     |
-| Student Leadership     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>     |
+| Student Leadership     | Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a>     |

@@ -14,8 +14,5 @@ sections:
         - title: NewsLink
           description: ""
           url: /parents/newslink/
-        - title: SLS
-          description: ""
-          url: https://www.learning.moe.edu.sg/
       background: /images/2023/bannerv4.gif
 ---

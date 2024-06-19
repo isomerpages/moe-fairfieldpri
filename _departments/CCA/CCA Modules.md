@@ -45,11 +45,7 @@ variant: markdown
     <td class="tg-7zkw"><span style="color:#282828">Mdm Kamariah</span></td>
     <td class="tg-wogo"><a href="mailto:kamariah_abd_rahim@moe.edu.sg"><span style="color:#0563C1">kamariah_abd_rahim@moe.edu.sg</span></a></td>
   </tr>
-   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Cindy Wong</span></td>
-    <td class="tg-wogo"><a href="mailto:wong_wai_foon_cindy@moe.edu.sg"><span style="color:#0563C1">wong_wai_foon_cindy@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
+     <tr>
     <td class="tg-7zkw"><span style="color:#282828">Ms Wang Mengfei</span></td>
     <td class="tg-wogo"><a href="mailto:wang_mengfei@moe.edu.sg"><span style="color:#0563C1">wang_mengfei@moe.edu.sg</span></a></td>
   </tr>
@@ -60,6 +56,10 @@ variant: markdown
 	<tr>
     <td class="tg-7zkw"><span style="color:#282828">Ms Toh Hui Hwang</span></td>
     <td class="tg-wogo"><a href="mailto:toh_hui_hwang@moe.edu.sg"><span style="color:#0563C1">toh_hui_hwang@moe.edu.sg</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-7zkw"><span style="color:#282828">Mr Han Zhijin</span></td>
+    <td class="tg-wogo"><a href="mailto:han_zhijin@moe.edu.sg"><span style="color:#0563C1">han_zhijin@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>

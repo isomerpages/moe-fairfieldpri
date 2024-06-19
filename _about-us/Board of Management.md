@@ -8,7 +8,7 @@ variant: markdown
 
 | Name | Designation | 
 | -------- | -------- | 
-| Mdm Low Suat Tin Joni     | Chairman     | 
+| Mrs Joni Ong     | Chairperson     | 
 | Ms Cho Pei Lin     | Treasurer     | 
 | Mr Richard Seow Hwa Sun     | Assistant Education Secretary     | 
 | Ms Kwok Wan Yee     | Member     | 

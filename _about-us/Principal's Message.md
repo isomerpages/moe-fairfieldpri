@@ -4,38 +4,30 @@ permalink: /about-us/principals-message/
 description: ""
 variant: tiptap
 ---
-<p>Dear Parents/Guardians,
-<br>
-<br>As we conclude an eventful Term 1, it marks a time of reflection and thanksgiving
-for how God has safely guided our school through the term. I would like
-to share some activities that have enriched our students’ school experience.&nbsp;
-<br>
-<br>We started Term 1 with our inaugural <strong>Start It Right!</strong> programme
-which ensured a smooth transition for our students across levels, building
-relationships among teachers and students in their form classes. This initiative
-dovetails nicely with our theme of the year, ‘<strong>Laying Strong Foundations</strong>’
-(Luke 6:47-48). During the term, we witnessed several events that exemplified
-Fairsian outcomes and Fairfield spirit, allowing students to embrace diversity
-by fostering strong connections and supporting one another through various
-activities. The <strong>Chinese New Year celebrations</strong> united our
-diverse student community as we celebrated the richness of traditions through
-student and teacher performances. To commemorate <strong>Total Defence Day, </strong>our
-students actively participated in water rationing. They demonstrated resilience
-and reflected on their collective role in the broader community and nation.
-Additionally, the <strong>Primary 5 Camp</strong> held at Sentosa was a fantastic
-adventure, fostering friendships, teamwork and character development among
-our students, who courageously stepped out of their comfort zones. I would
-like to thank the staff who have worked hard to plan and organise these
-enriching learning experiences for our students.&nbsp;
-<br>
-<br>I would also like to express my heartfelt gratitude for the warm welcome
-I received at the <strong>Meet-the-Parents</strong> sessions held in January.
-Your engagement and unwavering support during the sessions and throughout
-the term are critical for your child’s learning journey in school.&nbsp;
-<br>
-<br>As we eagerly await Term 2, may God continue to grant our students and
-staff the wisdom and strength to embrace another term filled with exciting
-and meaningful learning opportunities!</p>
+<p>Dear Parents/Guardians,</p>
+<p>As we conclude another successful term, I am filled with immense gratitude
+and pride. Our school has accomplished so much over the past few months,
+and it is all thanks to the unwavering support and dedication from each
+of our students, staff and of course, you.</p>
+<p>Together, we have seen our students enjoy school, thrive in their learning,
+and excel in extracurricular activities. The array of programmes and activities,
+many of which are included below as a throwback to the term, has contributed
+in helping our students achieve the Fairsian Outcomes of Mastering Self,
+Relating Well with Others, and Serving God and the Community. Your active
+participation in our programmes and activities, from volunteering at events
+to supporting your children's learning at home, has been invaluable. It
+truly takes a village to raise a child.</p>
+<p>As we look forward to the new term, I am excited about the learning experiences
+that lie ahead for our students. Our teachers have planned exciting programmes
+and activities that will continue to enhance our students' learning and
+foster their development.</p>
+<p>During this semester, the Primary 6 students will also be busy preparing
+for the PSLE. We will work together with you to walk this journey with
+our students to give them the necessary support and encouragement so that
+each of our students will perform their best at the national examination.</p>
+<p>You are an integral part of our school community and we thank you for
+your involvement and strong support.</p>
 <p>Serving with you,
-<br><strong>Mrs Soh Mei Foong</strong> 
+<br><strong>Mrs Soh Mei Foong</strong>
 <br>Principal</p>
+<p></p>

@@ -18,7 +18,7 @@ variant: markdown
 | Information Communications Technology    | Ms Chen Siyun    | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>     |
 | Character &amp; Citizenship Education (Covering)     | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>    |
 | Student Management    | Mdm Ng Pei Yoong   | <a href="mailto:ng_pei_yoong@moe.edu.sg" target="">Email</a>    |
-| School Staff Developer/Level Head English (Covering)     | Mdm Jeanne Teh     | <a href="mailto:teh_hsiao_chuin@moe.edu.sg" target="">Email</a>    |
+| School Staff Developer     | Mdm Jeanne Teh     | <a href="mailto:teh_hsiao_chuin@moe.edu.sg" target="">Email</a>    |
 | Special Educational Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |
 
 #### YEAR HEADS
@@ -41,7 +41,7 @@ variant: markdown
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Mathematics    | Ms Lim Li Shan     | <a href="mailto:lim_li_shan@moe.edu.sg" target="">Email</a>     |
+| Mathematics    | Ms Shana Lim     | <a href="mailto:lim_li_shan@moe.edu.sg" target="">Email</a>     |
 | Science     | Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">Email</a>     |
 
 #### SUBJECT HEADS

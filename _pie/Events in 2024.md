@@ -33,4 +33,17 @@ canteen and foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_6.jpg">
 </div>
+<p><strong>P3 &amp; P5 Swim Chaperone (16th January to 02nd May 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_7.jpg">
+</div>
+<p><strong>SSC Photo Taking (31st January &amp; 1st February 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_8.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_9.jpg">
+</div>
 <p></p>

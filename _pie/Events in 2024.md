@@ -16,8 +16,21 @@ parents by their respective classes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_2_jpg.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_3.jpg">
+</div>
+<p><strong>Chinese New Year Decoration &amp; Celebration (26 January 2024)</strong>
+</p>
+<p>PiE parents come together every year to decorate the school premises for
+Chinese New Year. This year, they enthusiastically covered the school hall,
+canteen and foyer with festive cheer.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_4.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_5.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_6.jpg">
 </div>
 <p></p>

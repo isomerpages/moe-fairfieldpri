@@ -20,7 +20,11 @@ variant: markdown
 
 ![](/images/PIE%20Events%202022/pie%202023.JPG)
 
-<p><em>PiE Committee 2024<br></em><b>Front row Left: Willy Lee, Liao Peiying (Chairperson), Sylvia Seah, Beatriz Chua<br><b> Behind row Left: Apple Wong, Caleb Tey, Darrell Tham</b></b></p><b>
-<h4><strong>Contact Us</strong></h4>
+<p><u><b>PiE Committee 2024</b></u>
+	<br>Front row Left: Liao Peiying <b>(Chairperson)</b>, Sylvia Seah, Beatriz Chua
+Back row Left:  Beatriz Chua, Darrell Tham, Apple Wong
+Front row Right: Devi Tan, Felicia Ang
 
-<p>Drop us an email at&nbsp;<a href="mailto:FMSP.pie@gmail.com">FMSP.pie@gmail.com</a></p></b>
+</p><h4><strong>Contact Us</strong></h4>
+
+<p>Drop us an email at&nbsp;<a href="mailto:FMSP.pie@gmail.com">FMSP.pie@gmail.com</a></p>

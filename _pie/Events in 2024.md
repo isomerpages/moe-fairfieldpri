@@ -4,7 +4,7 @@ permalink: /events-in-2024/
 variant: tiptap
 description: ""
 ---
-<p><strong>P1 Shepherding / P1 Parents Welcome Tea (3 January 2024)</strong>
+<p><strong>P1 Shepherding / P1 Parents Welcome Tea (3rd January 2024)</strong>
 </p>
 <p>PiE parents were all ready to extend a warm welcome to the new P1s and
 their parents into the Fairfield Family. Over the first three days of school,
@@ -33,7 +33,7 @@ canteen and foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_6.jpg">
 </div>
-<p><strong>P3 &amp; P5 Swim Chaperone (16th January to 02nd May 2024)</strong>
+<p><strong>P3 &amp; P5 Swim Chaperone (16th January to 2nd May 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_7.jpg">

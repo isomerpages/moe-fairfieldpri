@@ -36,7 +36,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mdm Kamariah Abdul Rahim</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Melody Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:melody_tan_chiu_ling@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
+<p><strong>Mdm Kamariah Abdul Rahim</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong><strong></strong><strong>&nbsp;</strong><strong><a href="mailto:" target=""></a><br></strong>Class 1G</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chua Huiman</strong>&nbsp;<strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
@@ -85,7 +85,7 @@ variant: markdown
 <p><strong>Mr John Chew</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Rena Tham</strong><strong>&nbsp;</strong><strong><a href="mailto:ho_tze_kim_rena@moe.edu.sg" target="">Email</a><br></strong>Class 2G</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Jasmeet Kaur</strong><strong>&nbsp;</strong><strong><a href="mailto:jasmeet_kaur_vij@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Joel Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:joel_lim_en-rui@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;2H</p>
+<p><strong>Mr Joel Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:joel_lim_en-rui@moe.edu.sg" target="">Email</a><br></strong><strong></strong><strong>&nbsp;</strong><strong><a href="mailto:" target=""></a><br></strong>Class&nbsp;2H</p>
 </td>
 </tr>
 <tr>

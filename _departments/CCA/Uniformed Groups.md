@@ -6,16 +6,11 @@ third_nav_title: CCA
 variant: markdown
 ---
 <h4><strong>Boys' Brigade</strong></h4>
-Formerly part of the 33rd Singapore Company which was founded in 1983 by Mr Jimmy Png, The 33J Boys' Brigade Singapore Company became independent in 2000. Under Mr David Chan, our founding Captain, we started a modular programme system, exposing our Boys in the areas of aesthetics, sport and character development among many others.
+The 33J Boys’ Brigade Singapore Company is one of the largest Junior Programme companies in Singapore. Across the 4 year programme, our Boys develop as servant leaders with character and compassion: caring and confident; resilient and responsible; thankful and truthful; and disciplined and driven — in word, thought and deed.
 
-  
+The programme cultivates the fruits of goodness and faithfulness in every Boy, to emerge as leaders in their own right. By building their individual capacities through personal mastery modules to communicate and collaborate with their peers, our Primary 3 and 4 grow Spiritually, Physically, Mentally and Emotionally. Our Primary 5 and 6 students take the helm alongside their teachers, seniors and officers to collaboratively cultivate the spirit of unity within Uniformed Groups in Fairfield. These experiences include our Annual Camps, P6 Graduation and Community Outreach events.
 
-In the recent years, the Boys have learnt soft skills through interactive sessions of comic-drawing, knots-tying and orienteering while also building character via highly-engaging activities like laser tag, combat archery, and fencing.
-
-  
-
-Our calling for this season is to partner with parents to mould Boys to be Leaders with Character, Servants with Compassion. We believe in empowering our Boys to think of themselves as HEROES who dare to stand up for what they believe in.&nbsp;<br>
-We give thanks for God's continued blessings!
+We partner with a multitude of stakeholders to be first for Boys. Join us to build the character and confidence of your child.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

@@ -18,12 +18,12 @@ variant: markdown
 
 <h4><strong>The Team</strong></h4>
 
-![](/images/PIE%20Events%202022/pie%202023.JPG)
+![](/images/2024/PIE_24_1.jpg)
 
 <p><u><b>PiE Committee 2024</b></u>
-	<br>Front row Left: Liao Peiying <b>(Chairperson)</b>, Sylvia Seah, Beatriz Chua
-Back row Left:  Beatriz Chua, Darrell Tham, Apple Wong
-Front row Right: Devi Tan, Felicia Ang
+<br>Front row Left: Liao Peiying <b>(Chairperson)</b>, Sylvia Seah, Beatriz Chua
+<br>Back row Left:  Beatriz Chua, Darrell Tham, Apple Wong
+<br>Front row Right: Devi Tan, Felicia Ang
 
 </p><h4><strong>Contact Us</strong></h4>
 

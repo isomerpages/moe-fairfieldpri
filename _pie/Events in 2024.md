@@ -67,4 +67,9 @@ canteen and foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_14.jpg">
 </div>
+<p><strong>Night of Stars 2024 Concert@ FMSP Performing Arts Studio (28th March 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_15.jpg">
+</div>
 <p></p>

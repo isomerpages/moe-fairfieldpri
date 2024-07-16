@@ -52,10 +52,10 @@ canteen and foyer with festive cheer.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_10.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_12.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_12.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2024/PIE_24_11.jpg">
 </div>
 <p><strong>P3 Supermarket Trip (21st March 2024)</strong>
 </p>

@@ -1,6 +1,6 @@
 ---
 title: Events in 2024
-permalink: /events-in-2024/
+permalink: /pie/events-in-2024/
 variant: tiptap
 description: ""
 ---
@@ -52,10 +52,10 @@ canteen and foyer with festive cheer.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_10.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_12.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_12.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/2024/PIE_24_11.jpg">
 </div>
 <p><strong>P3 Supermarket Trip (21st March 2024)</strong>
 </p>
@@ -70,13 +70,13 @@ canteen and foyer with festive cheer.</p>
 <p><strong>Night of Stars 2024 Concert@ FMSP Performing Arts Studio (28th March 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_15.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/PIE_24_15.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_16.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_17b.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2024/PIE_24_17b.jpg">
 </div>
 <p><strong>International Friendship Day (5th April 2024)</strong>
 </p>

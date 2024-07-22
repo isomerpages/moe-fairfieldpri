@@ -57,14 +57,12 @@ links:
     sublinks:
       - title: About Us
         url: /pie/about-us
+      - title: Events in 2024
+        url: /pie/events-in-2024/
+      - title: Events in 2023
+        url: /pie/events-in-2023/
       - title: Events in 2022
-        url: /pie/events-in-2022/
-      - title: Events in 2021
-        url: /pie/events-in-2021
-      - title: Events in 2020
-        url: /pie/events-in-2020
-      - title: Events in 2019
-        url: /pie/events-in-2019
+        url: /pie/events-in-2022
       - title: Ongoing programmes
         url: /pie/ongoing-programmes
       - title: PiE Connect
@@ -72,7 +70,7 @@ links:
       - title: Family@Fairfield
         url: /pie/family-at-fairfield
       - title: Sign up for PiE
-        url: https://docs.google.com/forms/d/e/1FAIpQLSetWgMsYuLE2KEGjdb-cb4UYGO2Xe_Ng4DDMm99j1u_Y2UaiA/viewform
+        url: https://tinyurl.com/pie-eventsreg2024
   - title: Alumni
     url: https://fairfieldalumni.org.sg/
     sublinks:

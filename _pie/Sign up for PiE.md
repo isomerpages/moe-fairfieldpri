@@ -2,5 +2,6 @@
 title: Sign up for PiE
 permalink: /pie/sign-up-for-pie/
 description: ""
+variant: markdown
 ---
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSetWgMsYuLE2KEGjdb-cb4UYGO2Xe_Ng4DDMm99j1u_Y2UaiA/viewform">External Link</a>
+<a href="https://tinyurl.com/pie-eventsreg2024">External Link</a>

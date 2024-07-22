@@ -9,7 +9,6 @@ variant: markdown
 [https://go.gov.sg/fairfield-ce136rates-founders-day-2024](https://go.gov.sg/fairfield-ce136rates-founders-day-2024)
 
 *You may refer to the video guide on how to type your well wishes on Padlet:*
-
 [https://youtu.be/jUj--W2C9so](https://youtu.be/jUj--W2C9so)
 
 **Meet-the-Parent Session 2024**

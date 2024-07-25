@@ -7,6 +7,7 @@ variant: markdown
 **Fairfield Ce136rates! Founder's Day 136**
 <br>Please click the below to share your messages of congratulations, memories and well wishes on our school's Padlet:
 [https://go.gov.sg/fairfield-ce136rates-founders-day-2024](https://go.gov.sg/fairfield-ce136rates-founders-day-2024)
+
 (*You may refer to the video guide on how to type your well wishes on Padlet:*
 [https://youtu.be/jUj--W2C9so](https://youtu.be/jUj--W2C9so))
 

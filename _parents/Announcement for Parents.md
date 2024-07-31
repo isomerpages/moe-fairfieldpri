@@ -8,8 +8,8 @@ variant: markdown
 <br>Please click below to share your messages of congratulations, memories and well wishes on our school's Padlet:
 [https://go.gov.sg/fairfield-ce136rates-founders-day-2024](https://go.gov.sg/fairfield-ce136rates-founders-day-2024)
 
-(*You may refer to the video guide on how to type your well wishes on Padlet:*
-[https://youtu.be/jUj--W2C9so](https://youtu.be/jUj--W2C9so))
+*You may refer to the video guide on how to type your well wishes on Padlet:*
+[https://youtu.be/jUj--W2C9so](https://youtu.be/jUj--W2C9so)
 
 You can click below for the programme sheet:
 [136 Founder's Day Programme Sheet](/files/2024/2024_Founders_Day_Programme_Sheet_for_Website_2a.pdf)

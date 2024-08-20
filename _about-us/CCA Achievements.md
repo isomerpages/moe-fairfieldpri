@@ -36,8 +36,8 @@ variant: tiptap
 <p>National Tiered Round: Senior Division</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3rd Position</p>
-<p>(Girls)</p>
+<p>3rd&nbsp;Position
+<br>(Girls)</p>
 </td>
 </tr>
 <tr>

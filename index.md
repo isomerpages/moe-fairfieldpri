@@ -14,5 +14,5 @@ sections:
         - title: NewsLink
           description: ""
           url: /parents/newslink/
-      background: /images/2024/136th_founders_day_banner_small_v3.jpg
+      background: /images/2024/T32024.gif
 ---

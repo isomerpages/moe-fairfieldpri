@@ -36,7 +36,8 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mdm Kamariah Abdul Rahim</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong><strong></strong><strong>&nbsp;</strong><strong><a href="mailto:" target=""></a><br></strong>Class 1G</p>
+<p><strong>Mdm Kamariah Abdul Rahim</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong>
+<strong>Mrs Jennifer Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_jennifer_a@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chua Huiman</strong>&nbsp;<strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
@@ -145,7 +146,7 @@ variant: markdown
 <p><strong>Mr Zamree Mustapha</strong><strong>&nbsp;</strong><strong><a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Angeline Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:chow_lye_ngor@moe.edu.sg" target="">Email</a><br></strong>Class 4A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mdm Png Bee Hiong</strong><strong>&nbsp;</strong><strong><a href="mailto:png_bee_hiong@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Jenny Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:jenny_ang@moe.edu.sg" target="">Email</a><br></strong>Class 4B</p>
+<p><strong>Ms Jenny Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:jenny_ang@moe.edu.sg" target="">Email</a><br></strong>Class 4B</p>
 </td>
 </tr>
 <tr>

@@ -4,6 +4,11 @@ permalink: /parents/announcements/
 description: ""
 variant: markdown
 ---
+**P1 Orientation (Intake 2025)**
+<br>P1 (2025) Parents/Guardians, you may download the slides from the orientation briefing that was held on 8 November, by clicking on the link below:
+<br>[P1 (2025) Orientation slides](/files/2024/P1_Orientation_2025_Intake.pdf)
+
+
 **Fairfield Ce136rates! Founder's Day 136**
 <br>Please click below to share your messages of congratulations, memories and well wishes on our school's Padlet:
 [https://go.gov.sg/fairfield-ce136rates-founders-day-2024](https://go.gov.sg/fairfield-ce136rates-founders-day-2024)
@@ -13,15 +18,6 @@ variant: markdown
 
 You can click below for the programme sheet:
 [136 Founder's Day Programme Sheet](/files/2024/2024_Founders_Day_Programme_Sheet_for_Website_2a.pdf)
-
-**Meet-the-Parent Session 2024**
-<br>Thank you to all parents/guardians for attending the recent Meet-the-Parent (MTP) session held in January 2024. You may retrieve the slides here for your reference. Thank you!
-
-[2024 Meet the Parents slides (Lower Primary)](/files/2024/2024_FMSP_MTP_LP__For_Parents_.pdf)
-
-[2024 Meet the Parents slides (Middle Primary)](/files/2024/2024_FMSP_MTP_MP__For_Parents_.pdf)
-
-[2024 Meet the Parents slides (Upper Primary)](/files/2024/2024_FMSP_MTP_UP__For_Parents_.pdf)
 
 **NewsLink**
 <br>To read the termly NewsLink, please click here:

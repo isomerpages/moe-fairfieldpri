@@ -7,7 +7,6 @@ variant: markdown
 ---
 | Name | Designation | Email |
 | -------- | -------- | -------- |
-| Mrs Yeo-Tan Shiao Ying     | Administration Manager     | <a href="mailto:Tan_Shiao_ying@schools.gov.sg" target="">Email</a>     |
 | Ms Rachel Lee     | Administration Manager     | <a href="mailto:Rachel_Lee@schools.gov.sg" target="">Email</a>     |
 | Mr Seet Eng Kiat     | Administration Executive     | <a href="mailto:Seet_Eng_Kiat@schools.gov.sg" target="">Email</a>     |
 | Ms Jenny Lui     | Administration Executive    | <a href="mailto:lui_yuen_lan@schools.gov.sg" target="">Email</a>     |

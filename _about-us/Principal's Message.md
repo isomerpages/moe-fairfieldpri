@@ -101,6 +101,6 @@ building an even stronger home-school partnership in the new year.</p>
 <p>My staff and I would like to wish you and your family a very Happy New
 Year filled with Love, Peace and Success.</p>
 <p>Serving with you,
-<br>Mrs Soh Mei Foong
+<br><strong>Mrs Soh Mei Foong</strong> 
 <br>Principal</p>
 <p></p>

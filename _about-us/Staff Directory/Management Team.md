@@ -32,7 +32,7 @@ variant: markdown
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| Lower Primary     | Miss Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a>     |
+| Lower Primary     | Ms Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a>     |
 | Middle Primary     | Mrs Lee Siu Marn    | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a>     |
 | Upper Primary     | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a>     |
 

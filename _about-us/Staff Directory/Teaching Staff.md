@@ -12,40 +12,40 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mr Fu Siqiang</strong><strong>&nbsp;</strong><strong><a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Iris Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:tay_wan_peng_iris@moe.edu.sg" target="">Email</a><br></strong>Class 1A</p>
+<p><strong>Mrs Sing-Ling Ping</strong><strong>&nbsp;</strong><strong><a href="mailto:ling_ping@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Shanie Wu</strong><strong>&nbsp;</strong><strong><a href="mailto:wu_lin_ying@moe.edu.sg" target="">Email</a><br></strong>Class 1A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mr Daniel Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:Chan_Weng_Kin_Daniel@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Goh Wan Peng</strong><strong>&nbsp;</strong><strong><a href="mailto:ng_wan_peng@moe.edu.sg" target="">Email</a><br></strong>Class 1B</p>
-</td>
-</tr>
-<tr>
-<td style="width: 50%;">
-<p><strong>Mr Chan Ta Hoong</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_ta_hoong@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Teo Hui Fang</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a><br></strong>Class 1C</p>
-</td>
-<td style="width: 50%;">
-<p><strong>Mr Kenneth Ong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_kai_min_kenneth@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chan Sew Yoon</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a><br></strong>Class 1D</p>
+<p><strong>Ms Jenny Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:jenny_ang@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Ng Kah Mun</strong><strong>&nbsp;</strong><strong><a href="mailto:ng_kah_mun@moe.edu.sg" target="">Email</a><br></strong>Class 1B</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Yaw Siok Ching</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_siok_ching@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Wang Mengfei</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_mengfei@moe.edu.sg" target="">Email</a><br></strong>Class 1E</p>
+<p><strong>Mrs Serena Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Cheryl Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">Email</a><br></strong>Class 1C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Shana Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_li_shan@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Tay Yee Won</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_yee_won@moe.edu.sg" target="">Email</a><br></strong>Class 1F</p>
-</td>
-</tr>
-<tr>
-<td style="width: 50%;">
-<p><strong>Mdm Kamariah Abdul Rahim</strong><strong>&nbsp;</strong><strong><a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong>
-<strong>Mrs Jennifer Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_jennifer_a@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
-</td>
-<td style="width: 50%;">
-<p><strong>Mrs Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chua Huiman</strong>&nbsp;<strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
+<p><strong>Mrs Chan Hwee Binn</strong><strong>&nbsp;</strong><strong><a href="mailto:seah_hwee_binn@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Melissa Timmer</strong><strong>&nbsp;</strong><strong><a href="mailto:" target="">Email</a><br></strong>Class 1D</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Kavitha Deen</strong><strong>&nbsp;</strong><strong><a href="mailto:kavitha_selvam@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Teh Jing Hurng</strong><strong>&nbsp;</strong><strong><a href="mailto:teh_jing_hurng@moe.edu.sg" target="">Email</a><br></strong>Class 1J</p>
+<p><strong>Mr William Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:ang_kia_wei_william@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Rena Tham</strong><strong>&nbsp;</strong><strong><a href="mailto:ho_tze_kim_rena@moe.edu.sg" target="">Email</a><br></strong>Class 1E</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Mrs Lim Wei Wei</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Wong Yek Yue</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_yek_yue@moe.edu.sg" target="">Email</a><br></strong>Class 1F</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Mr Abdul Hadi Baka</strong><strong>&nbsp;</strong><strong><a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">Email</a><br></strong>
+<strong>Mrs Angie Chng</strong><strong>&nbsp;</strong><strong><a href="mailto:chng_kim_leng_doris@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Mrs Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Tiffany Ong</strong>&nbsp;<strong><a href="mailto:ong_bee_hoon@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Ms Sun Xue</strong><strong>&nbsp;</strong><strong><a href="mailto:sun_xue@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Sieow Je Yun</strong><strong>&nbsp;</strong><strong><a href="mailto:sieow_je_yun@moe.edu.sg" target="">Email</a><br></strong>Class 1J</p>
 </td>
 <td style="width: 50%;">&nbsp;</td>
 </tr>

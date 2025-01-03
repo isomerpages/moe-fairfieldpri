@@ -143,31 +143,31 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mr Zamree Mustapha</strong><strong>&nbsp;</strong><strong><a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Angeline Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:chow_lye_ngor@moe.edu.sg" target="">Email</a><br></strong>Class 4A</p>
+<p><strong>Mrs Julie Yuan</strong><strong>&nbsp;</strong><strong><a href="mailto:julie_phoebe_low@moe.edu.s" target="">Email</a><br></strong><strong>Ms Harshini Ganapathy</strong><strong>&nbsp;</strong><strong><a href="mailto:harshini_ganapathy@moe.edu.sg" target="">Email</a><br></strong>Class 4A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Jenny Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:jenny_ang@moe.edu.sg" target="">Email</a><br></strong>Class 4B</p>
-</td>
-</tr>
-<tr>
-<td style="width: 50%;">
-<p><strong>Mdm Esther Thon</strong><strong>&nbsp;</strong><strong><a href="mailto:thon_sian_fei@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Sandra Hou</strong><strong>&nbsp;</strong><strong><a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a><br></strong>Class 4C</p>
-</td>
-<td style="width: 50%;">
-<p><strong>Mr On Tai Jim</strong><strong>&nbsp;</strong><strong><a href="mailto:on_tai_jim@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Cecilia Lee</strong><strong>&nbsp;</strong><strong><a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a><br></strong>Class 4D</p>
+<p><strong>Mr John Chew</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Angeline Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:chow_lye_ngor@moe.edu.sg" target="">Email</a><br></strong>Class 4B</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Cheryl Wong</strong><strong>&nbsp;<a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Nurhanifah Hassan</strong><strong>&nbsp;</strong><strong><a href="mailto:nurhanifah_hassan@moe.edu.sg" target="">Email</a><br></strong>Class 4E</p>
+<p><strong>Mrs Lee Siu Marn</strong><strong>&nbsp;</strong><strong><a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Sun Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:Sun_Ling@moe.edu.sg" target="">Email</a><br></strong>Class 4C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mdm Shanie Wu</strong><strong>&nbsp;</strong><strong><a href="mailto:wu_lin_ying@moe.edu.sg" target="">Email</a><br></strong><strong>Mr William Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:ang_kia_wei_william@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;4F</p>
+<p><strong>Mrs Jacquelin Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_su_hwee_jacquelin@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Claire Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:claire_ling_peck_yan@moe.edu.sg" target="">Email</a><br></strong>Class 4D</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Julia Sa</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Cindy Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_wai_foon_cindy@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;4G</p>
+<p><strong>Mrs Ann Tham</strong><strong>&nbsp;<a href="mailto:ann_tan_geok_lin@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Ng Wui Joo</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_wui_joo@moe.edu.sg" target="">Email</a><br></strong>Class 4E</p>
+</td>
+<td style="width: 50%;">
+<p><strong>Ms Michelle Yap</strong><strong>&nbsp;</strong><strong><a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Mallika Habeeb</strong><strong>&nbsp;</strong><strong><a href="mailto:mallika_begum@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;4F</p>
+</td>
+</tr>
+<tr>
+<td style="width: 50%;">
+<p><strong>Mdm Chan Man Pui</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_man_pui@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Soh Wee Lik</strong><strong>&nbsp;</strong><strong><a href="mailto:soh_wee_lik_derrick@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;4G</p>
 </td>
 <td style="width: 50%;">&nbsp;</td>
 </tr>

@@ -36,7 +36,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mr Abdul Hadi Baka</strong><strong>&nbsp;</strong><strong><a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">Email</a><br></strong>
+<p><strong>Mr Abdul Hadi Bakar</strong><strong>&nbsp;</strong><strong><a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">Email</a><br></strong>
 <strong>Mrs Angie Chng</strong><strong>&nbsp;</strong><strong><a href="mailto:chng_kim_leng_doris@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
 </td>
 <td style="width: 50%;">

@@ -37,7 +37,7 @@ variant: markdown
 <tr>
 <td style="width: 50%;">
 <p><strong>Mr Abdul Hadi Bakar</strong><strong>&nbsp;</strong><strong><a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">Email</a><br></strong>
-<strong>Mrs Angie Chng</strong><strong>&nbsp;</strong><strong><a href="mailto:chng_kim_leng_doris@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
+<strong>Mrs Angie Chng</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_wui_min_angie@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Tiffany Ong</strong>&nbsp;<strong><a href="mailto:ong_bee_hoon@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>

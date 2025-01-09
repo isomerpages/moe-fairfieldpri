@@ -94,10 +94,11 @@ Mdm Jeanne Teh on her appointment as Vice-Principal in Anglo-Chinese School
 15 December 2024 as Vice-Principal (Education). Prior to his appointment
 in our school, Mr Kng was the Deputy Director (Media Design for Learning)
 in MOE.</p>
-<p>Please take time to read through the information shared in this NewsLink
-issue so that you can support your children better in having a good school
-experience. Thank you once again for your support and we look forward to
-building an even stronger home-school partnership in the new year.</p>
+<p>Please take time to read through the information shared in our Term 1
+NewsLink issue so that you can support your children better in having a
+good school experience. Thank you once again for your support and we look
+forward to building an even stronger home-school partnership in the new
+year.</p>
 <p>My staff and I would like to wish you and your family a very Happy New
 Year filled with Love, Peace and Success.</p>
 <p>Serving with you,

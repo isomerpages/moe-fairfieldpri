@@ -168,74 +168,74 @@ canteen and foyer with festive cheer.</p>
 <p><strong>P3 Length, Mass &amp; Volume Activity (17th to 23rd September 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202513.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202513.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202514.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202514.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202515.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202515.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202516.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202516.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202518.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202518.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202517.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202517.jpg">
 </div>
 <p><strong>Children’s Day (4th October 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202519.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202519.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202520.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202520.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202521.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202521.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202522.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202522.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202523.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202523.jpg">
 </div>
 <p><strong>&nbsp;Snack Tasting Booth For Deepavali&nbsp; (28th October 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202524.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202524.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202525.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202525.jpg">
 </div>
 <p><strong>Embracing Diversity &amp; Empathy (29th October to 1st Nov 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202526.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202526.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202527.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202527.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202528.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202528.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202529.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202529.jpg">
 </div>
 <p><strong>P6 Grad-Tea-Tude (14th Nov 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202530.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202530.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202531.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202531.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202532.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202532.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202533.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202533.jpg">
 </div>
 <p></p>

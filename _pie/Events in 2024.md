@@ -134,10 +134,10 @@ canteen and foyer with festive cheer.</p>
 <p><strong>Racial Harmony Day (19th July 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20254.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20254.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20255.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20255.jpg">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20257.jpg">

@@ -134,36 +134,36 @@ canteen and foyer with festive cheer.</p>
 <p><strong>Racial Harmony Day (19th July 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20254.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20254.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20255.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20255.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20257.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20257.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20256.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20256.jpg">
 </div>
 <p><strong>Teachers’ Day Celebration&nbsp; (28th August 2024)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20258.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20258.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20259.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20259.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202510.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202510.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202511.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202511.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202511a.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202511a.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202512.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202512.jpg">
 </div>
 <p><strong>P3 Length, Mass &amp; Volume Activity (17th to 23rd September 2024)</strong>
 </p>

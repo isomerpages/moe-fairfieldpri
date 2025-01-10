@@ -14,19 +14,24 @@ ideas come to life!&nbsp;</p>
 <p>Email us at&nbsp;<a href="mailto:FMSP.pie@gmail.com" rel="noopener noreferrer nofollow" target="_blank">FMSP.pie@gmail.com</a>
 </p>
 <h4><strong>Past Activities</strong></h4>
-<p><strong>Badminton Smash &amp; Bond Session – 19 Feb 2019</strong>
+<p><strong>Engagement Walk (23 Febuary 2024)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Engagement Walk (23 Ferbuary 2024)" src="/images/2025/Pie/Pieconnect20251.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Engagement Walk (23 February 2024)" src="/images/2025/Pie/Pieconnect20252.jpg">
+</div>
+<p><strong>Engagement Walk (29 April 2024)&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Engagement Walk (23rd February 2024)" src="/images/2025/Pie/Pieconnect20251.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Engagement Walk (29 April 2024)" src="/images/2025/Pie/Pieconnect20253.jpg">
 </div>
-<p><strong>Nature Walk @ Bukit Timah Nature Reserve – 26 March 2019&nbsp;</strong>
+<p><strong>Movie with Fairfield Family (7 November 2024)</strong>
 </p>
-<p><strong>Crochet &amp; Coffee Session – 27 May 2019</strong>
-</p>
-<p><strong>Nature Walk @ Labrador Nature Reserve – 11 July 2019</strong>
-</p>
-<p><strong>TreeTop Walk – 28 August 2019</strong>
-</p>
-<p><strong>FMSP Parent &amp; Kids’ Terrarium Workshop – 7 November 2019</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Movie with Fairfield Family (7 November 2024)" src="/images/2025/Pie/Pieconnect20254.jpg">
+</div>
+<p></p>
 <p></p>

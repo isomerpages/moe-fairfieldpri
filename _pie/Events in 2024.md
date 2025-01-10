@@ -118,4 +118,6 @@ canteen and foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_27.jpg">
 </div>
+<p><strong>P6 Chinese Oral Support (26th June 2024 to 31st July 2024)</strong>
+</p>
 <p></p>

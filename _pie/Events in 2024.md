@@ -118,4 +118,124 @@ canteen and foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_27.jpg">
 </div>
+<p><strong>P6 Chinese Oral Support (26th June 2024 to 31st July 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20252.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20251.jpg">
+</div>
+<p><strong>Arts Excite! Art Exhibition (22nd to 26th July 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20253.jpg">
+</div>
+<p><strong>Racial Harmony Day (19th July 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20254.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20255.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20257.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20256.jpg">
+</div>
+<p><strong>Teachers’ Day Celebration&nbsp; (28th August 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20258.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie20259.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202510.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202511.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202511a.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202512.jpg">
+</div>
+<p><strong>P3 Length, Mass &amp; Volume Activity (17th to 23rd September 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202513.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202514.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202515.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202516.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202518.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202517.jpg">
+</div>
+<p><strong>Children’s Day (4th October 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202519.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202520.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202521.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202522.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202523.jpg">
+</div>
+<p><strong>&nbsp;Snack Tasting Booth For Deepavali&nbsp; (28th October 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202524.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202525.jpg">
+</div>
+<p><strong>Embracing Diversity &amp; Empathy (29th October to 1st Nov 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202526.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202527.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202528.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202529.jpg">
+</div>
+<p><strong>P6 Grad-Tea-Tude (14th Nov 2024)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202530.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202531.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202532.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025/Pie/Pie202533.jpg">
+</div>
 <p></p>

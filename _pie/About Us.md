@@ -20,10 +20,8 @@ variant: markdown
 
 ![](/images/2024/PIE_24_1.jpg)
 
-<p><u><b>PiE Committee 2024</b></u>
-<br>Front row Left: Liao Peiying <b>(Chairperson)</b>, Sylvia Seah, Beatriz Chua
-<br>Back row Left:  Beatriz Chua, Darrell Tham, Apple Wong
-<br>Front row Right: Devi Tan, Felicia Ang
+<p><u><b>PiE Committee 2025</b></u>
+<br>From Left : Apple Wong, Devi Tan, Adrienne Tan, Felicia Ang(Vice-Chairperson), Liao Peiying (Chairperson), Priscilla Koh, Darrell Tham
 
 </p><h4><strong>Contact Us</strong></h4>
 

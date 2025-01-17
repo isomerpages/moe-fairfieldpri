@@ -21,7 +21,7 @@ variant: markdown
 ![](/images/2025/Pie/Pie202534.jpg)
 
 <p><u><b>PiE Committee 2025</b></u>
-<br>From Left : Apple Wong, Devi Tan, Adrienne Tan, Felicia Ang(Vice-Chairperson), Liao Peiying (Chairperson), Priscilla Koh, Darrell Tham
+<br>From Left: Apple Wong, Devi Tan, Adrienne Tan, Felicia Ang (Vice-Chairperson), Liao Peiying (Chairperson), Priscilla Koh, Darrell Tham
 
 </p><h4><strong>Contact Us</strong></h4>
 

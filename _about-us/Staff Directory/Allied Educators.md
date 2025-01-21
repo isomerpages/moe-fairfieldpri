@@ -12,4 +12,3 @@ variant: markdown
 | Mr Choy Wei Thai     | SEN Officer     | <a href="mailto:choy_wei_thai@moe.edu.sg" target="">Email</a>     |
 | Mdm Hariyani     | SEN Officer    | <a href="mailto:hariyani_sarmin_a@moe.edu.sg" target="">Email</a>     |
 | Ms Tan Yen Yen     | SEN Officer    | <a href="mailto:tan_yen_yen@moe.edu.sg" target="">Email</a>    |
-| Ms Leelavathy     | AED T&amp;L     | <a href="mailto:leelavathy_balakrishnan@moe.edu.sg" target="">Email</a>     |

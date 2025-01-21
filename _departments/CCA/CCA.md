@@ -76,7 +76,7 @@ variant: markdown
 </table>
 
 **Training schedule:**
-![](/images/2023/cca%20dept%20trainingdays.JPG)
+![](/images/2025/CCA_20251.jpg)
 &nbsp;\*Visual &amp; Performing Arts <br>
 #Applicable to School Team (Sports)
 

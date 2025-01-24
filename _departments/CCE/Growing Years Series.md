@@ -116,6 +116,5 @@ variant: markdown
 </tbody></table>
 <h4><strong>Information for Parents</strong></h4><p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p><p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form.</p>
 This form is downloadable [here](/files/2025/2025_SeD_Annex_A.pdf)
-[](/files/2025/2025_SeD_Annex_A.pdf)
 <p>The completed opt-out form is to be submitted by&nbsp;<strong><u>21/02/2025.</u></strong></p>
 <p>10. Parents can contact the school at 67788431 or&nbsp;<a href="mailto:fmsp@moe.edu.sg">fmsp@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.&nbsp;</p>

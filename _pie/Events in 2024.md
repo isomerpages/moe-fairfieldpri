@@ -110,11 +110,8 @@ canteen and foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_25.jpg">
 </div>
-<p><strong>Welcome Team 3 (24th June 2024)</strong>
+<p><strong>Welcome Term 3 (24th June 2024)</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_26.jpg">
-</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024/PIE_24_27.jpg">
 </div>

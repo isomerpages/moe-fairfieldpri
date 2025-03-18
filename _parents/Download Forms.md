@@ -7,7 +7,7 @@ variant: markdown
 <p></p><p><strong><u>Application Form for Transfer and Admission<br></u></strong>Parents who wish to transfer their child/ward to our school in 2025 can apply online from October 2024 via FormSG link link:&nbsp;<strong><a href="https://go.gov.sg/fmsptransfer-admission2025">https://go.gov.sg/fmsptransfer-admission2025</a></strong></p>
 <p>We regret that only shortlisted candidates will be notified if there are vacancies.</p>
 <p><strong><u>Application for Leave of Absence (LOA)</u></strong></p>
-<p>i) Parents can apply LOA for their children online via FormSG link:&nbsp;<a target="" href="https://go.gov.sg/fmsp-leaveofabsence"><strong>https://go.gov.sg/fmsp-leaveofabsence</strong></a> based on&nbsp;<strong><u>only</u></strong>&nbsp;the following&nbsp;reasons:</p>
+<p>i) Parents can apply LOA for their children online via FormSG link:&nbsp;<a target="" href="https://go.gov.sg/fmsploa"><strong>https://go.gov.sg/fmsploa</strong></a> based on&nbsp;<strong><u>only</u></strong>&nbsp;the following&nbsp;reasons:</p>
 <ul>
 <li>Parents are on overseas posting; OR</li>
 <li>Parents are attending to their business overseas; OR</li>

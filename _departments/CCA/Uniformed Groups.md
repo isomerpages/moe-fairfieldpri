@@ -28,6 +28,16 @@ We partner with a multitude of stakeholders to be first for Boys. Join us to bui
 <h4><strong>Girls' Brigade</strong></h4>
 <p>At Girls’ Brigade in the 3<sup>rd</sup>&nbsp;Primary Company, girls aged 9-12 years old will spend time having much fun and learning new skills, attitudes and knowledge through activity-based programmes. A GB girl will go through the S.T.A. R. (<strong>S</strong>ervice,&nbsp;<strong>T</strong>reasure,&nbsp;<strong>A</strong>dventure and&nbsp;<strong>R</strong>esponsibility) badgework programme and learn about her own strengths and weaknesses yet be empowered to help others through words and actions and will also be given opportunities to take on new and unknown challenges. For example, a GB Girl can attain the Creator, Artiste, Professional and Handy Girl Adventure badges over her 4 years in GB.</p></section>
 <p>Our teachers and officers create platforms where our well-crafted syllabus encourages the girls to explore the world around them and have a sense of discipline while cultivating a heart of service through practical workshops, learning journeys, camps, drill sessions and a variety of activities. GB girls will be given many opportunities in their leadership journey as GB Singapore is committed to developing every Girl into a leader. We hope each girl will leave GB having learnt the values of Reverence, Respect and Responsibility.</p>
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Miss Cheryl Wong (IC)     | wong_cheng_yi_cheryl@moe.edu.sg     |
+| Ms Claire Ling (IC)     | claire_ling_peck_yan@moe.edu.sg     |
+| Mrs Angeline Lim Phua     | chow_lye_ngor@moe.edu.sg     |
+| Ms Sieow Je Yun     | sieow_je_yun@moe.edu.sg     |
+| Ms Amanda Choo     | amanda_choo_xuan_yi@moe.edu.sg     |
+| Mrs Michelle Tan     | ng_sook_ling@moe.edu.sg     |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

@@ -76,10 +76,7 @@ variant: markdown
 </table>
 
 **Training schedule:**
-![](/images/2025/CCA_20251.jpg)
-&nbsp;\*Visual &amp; Performing Arts <br>
-#Applicable to School Team (Sports)
-
+![](/images/2025/CCA_Schedule_Website.jpg)
 [Click here for the Training Schedule for Semester 1](/files/2025/CCA_Schedule_Website.pdf)
 
 **Change of CCA**

@@ -38,9 +38,6 @@ Through the choir practices, students learn to apply musical skills to create an
 
 <p></p><section id="concert-band"><p></p>
 <h4><strong>Concert Band</strong></h4>
-<p>The Band CCA aims to arouse and sustain students’ interest in music and cultivate the joy and excitement of playing together as a group. Students are given access to a variety of woodwind, brass and percussion instruments. They will also build up their knowledge in music theory by playing in an orchestral environment.&nbsp;</p></section>
-<p>The Band is helmed by professionally trained musicians and approved instructors who also have a deep passion for teaching and sharing their love for Music. We hope students will build a lifelong love for performing and become great instrumentalists. It is also our wish that being in the band would impart in them leadership skills and important values like teamwork, respect, responsibility and resilience.</p>
-
 The FMSP Concert Band is more than just a CCA— it’s a vibrant community where students grow as musicians, leaders, and lifelong appreciators of the arts. We believe in fostering discipline, teamwork and artistic expression, guiding young instrumentalists to develop not only their technical skills but also a deep, enduring passion for music.  
 
 The band is made up of three key sections, each contributing its own unique voice to our collective sound:  
@@ -65,37 +62,16 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 
 <p></p><section id="handbell-ensemble"><p></p>
 <h4><strong>Handbell Ensemble</strong></h4>
-<p>The FMS(P) Handbell Ensemble was established in 2009 and comprises a team of passionate Primary Three to Six ringers. During practice sessions, ringers appreciate music from diverse cultures, enhance their musical aptitude and acquire technical skills of handling and ringing of bells.</p></section>
-<p>They also cultivate values such as empathy and respect in their interactions with one another. Performing in school and public venues gives ringers the opportunity to build their confidence in public performances.</p>
+The FMSP Handbell Ensemble, established in 2009, comprises a vibrant group of passionate ringers from Primary Three to Six. Through engaging practice sessions, our students explore music from various cultures, build musical sensitivity, and develop the technical skills of handbell ringing.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9v25{background-color:#FFF;color:#414CA0;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
-    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Ang Bee Chin (IC)</span></td>
-    <td class="tg-9v25"><a href="mailto:ang_bee_chin@moe.edu.sg">ang_bee_chin@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Chan Man Pui (IC)</span></td>
-    <td class="tg-9v25"><a href="mailto:chan_man_pui@moe.edu.sg">chan_man_pui@moe.edu.sg</a></td>
-  </tr>
-</tbody>
-</table>
+More than just music, the ensemble experience nurtures values such as empathy, respect, and teamwork. Performing at school events and public venues also allows our ringers to grow in confidence and develop a strong stage presence.
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Ms Ang Bee Chin (IC)     | ang_bee_chin@moe.edu.sg     |
+| Ms Liew Yi Shing (IC)     | liew_yi_shing@moe.edu.sg     |
+
+
 <p></p><section id="visual-arts-club"><p></p>
 <h4><strong>Visual Arts Club</strong></h4>
 <p>The Visual Arts Club&nbsp;serves as a platform for members to express their artistic flair. We strongly value every member’s artistic talent and welcome students who are passionate about art.&nbsp;We aim to arouse and engage students’ interest in the visual arts with various mediums like ceramics, digital illustrations and animation, lino-prints, painting and drawing.</p></section>
@@ -125,4 +101,4 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 <td width="281"><a href="mailto:nurul_amilia_roshamil@moe.edu.sg">nurul_amilia_roshamil@moe.edu.sg</a></td>
 </tr>
 </tbody>
-</table>
+</table></section></section>

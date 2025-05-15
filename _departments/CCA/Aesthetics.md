@@ -16,7 +16,7 @@ Beyond the studio, our passionate instructors offer opportunities for dancers to
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-|  Mdm Shanie Wu (IC)    | wu_lin_ying@moe.edu.sg     |
+| Mdm Shanie Wu (IC)    | wu_lin_ying@moe.edu.sg     |
 | Ms Chiu Kit Ying (IC)     | chiu_kit_ying@moe.edu.sg     |
 | Ms Pang Xin     | pang_xin@moe.edu.sg     |
 | Mdm Chan Man Pui     | chan_man_pui@moe.edu.sg     |
@@ -31,8 +31,8 @@ Through the choir practices, students learn to apply musical skills to create an
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-|  Mrs Yaw Siok Ching (IC)    | on_tai_jim@moe.edu.sg     |
-| Ms Chiu Kit Ying (IC)     | tan_siok_ching@moe.edu.sg     |
+| Mr On Tai Jim (IC)    | on_tai_jim@moe.edu.sg     |
+| Mrs Yaw Siok Ching (IC)    | tan_siok_ching@moe.edu.sg     |
 | Ms Tan Yee Won     | tan_yee_won@moe.edu.sg     |
 | Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
 
@@ -40,6 +40,39 @@ Through the choir practices, students learn to apply musical skills to create an
 <h4><strong>Concert Band</strong></h4>
 <p>The Band CCA aims to arouse and sustain students’ interest in music and cultivate the joy and excitement of playing together as a group. Students are given access to a variety of woodwind, brass and percussion instruments. They will also build up their knowledge in music theory by playing in an orchestral environment.&nbsp;</p></section>
 <p>The Band is helmed by professionally trained musicians and approved instructors who also have a deep passion for teaching and sharing their love for Music. We hope students will build a lifelong love for performing and become great instrumentalists. It is also our wish that being in the band would impart in them leadership skills and important values like teamwork, respect, responsibility and resilience.</p>
+
+The FMSP Concert Band is more than just a CCA— it’s a vibrant community where students grow as musicians, leaders, and lifelong appreciators of the arts. We believe in fostering discipline, teamwork and artistic expression, guiding young instrumentalists to develop not only their technical skills but also a deep, enduring passion for music.  
+
+The band is made up of three key sections, each contributing its own unique voice to our collective sound:  
+**Woodwinds** – Flutes, clarinets, and saxophones bring melody, agility, and expressive color to our performances.  
+**Brass** – Trumpets, trombones, french horns, euphoniums and tubas provide power, brilliance, and rich harmonic depth.  
+**Percussion**– From snare drums to marimbas, our percussionists drive the rhythm, add texture, and enhance the band’s dynamic energy.  
+
+Helmed by professionally-trained and MOE-approved instructors, our dedicated conductors and tutors bring both expertise and enthusiasm to every practice. Their deep passion for teaching ensures that students receive quality guidance while cultivating a genuine love for music.  
+
+Through rehearsals, performances, and shared dedication, our members learn the value of perseverance, mutual support, and the joy of creating music together. Whether on stage at school events or in competitions, the FMSP Concert Band strives for excellence while nurturing a love for music that lasts far beyond their school years.
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Mrs Serena Chan (IC)    | chew_mei_jun_serena@moe.edu.sg     |
+| Ms Geetha (IC)    | geetha_rajendran@moe.edu.sg     |
+| Mr Sooraj     | tan_yee_won@moe.edu.sg     |
+| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

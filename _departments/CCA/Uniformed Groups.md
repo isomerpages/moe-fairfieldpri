@@ -11,46 +11,19 @@ The 33J Boys’ Brigade Singapore Company is one of the largest Junior Programme
 The programme cultivates the fruits of goodness and faithfulness in every Boy, to emerge as leaders in their own right. By building their individual capacities through personal mastery modules to communicate and collaborate with their peers, our Primary 3 and 4 grow Spiritually, Physically, Mentally and Emotionally. Our Primary 5 and 6 students take the helm alongside their teachers, seniors and officers to collaboratively cultivate the spirit of unity within Uniformed Groups in Fairfield. These experiences include our Annual Camps, P6 Graduation and Community Outreach events.
 
 We partner with a multitude of stakeholders to be first for Boys. Join us to build the character and confidence of your child.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-wogo{background-color:#FFF;color:#0563C1;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
-    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Miss Chua Huiman (IC)</span></td>
-    <td class="tg-wogo"><a href="mailto:chua_huiman@moe.edu.sg"><span style="color:#0563C1">chua_huiman@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Raymond Chan (IC)</span></td>
-    <td class="tg-wogo"><a href="mailto:chan_kangshun_raymond@moe.edu.sg"><span style="color:#0563C1">chan_kangshun_raymond@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Arvie Guaring</span></td>
-    <td class="tg-wogo"><a href="mailto:guaring_arvie_jean_balon@moe.edu.sg"><span style="color:#0563C1">guaring_arvie_jean_balon@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Mavis Yeo</span></td>
-    <td class="tg-wogo"><a href="mailto:yeo_bee_koon_mavis@moe.edu.sg"><span style="color:#0563C1">yeo_bee_koon_mavis@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Teh Jing Hurng</span></td>
-    <td class="tg-wogo"><a href="mailto:teh_jing_hurng@moe.edu.sg"><span style="color:#0563C1">teh_jing_hurng@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+
+
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Mr Raymond Chan (IC)     | chan_kangshun_raymond@moe.edu.sg     |
+| Miss Chua Huiman (IC)     | chua_huiman@moe.edu.sg     |
+| Ms Arvie Guaring     | guaring_arvie_jean_balon@moe.edu.sg     |
+| Ms Mavis Yeo     | yeo_bee_koon_mavis@moe.edu.sg    |
+| Mr Teh Jing Hurng     | teh_jing_hurng@moe.edu.sg     |
+
+
+
 <p></p><section id="girls-brigade"><p></p>
 <h4><strong>Girls' Brigade</strong></h4>
 <p>At Girls’ Brigade in the 3<sup>rd</sup>&nbsp;Primary Company, girls aged 9-12 years old will spend time having much fun and learning new skills, attitudes and knowledge through activity-based programmes. A GB girl will go through the S.T.A. R. (<strong>S</strong>ervice,&nbsp;<strong>T</strong>reasure,&nbsp;<strong>A</strong>dventure and&nbsp;<strong>R</strong>esponsibility) badgework programme and learn about her own strengths and weaknesses yet be empowered to help others through words and actions and will also be given opportunities to take on new and unknown challenges. For example, a GB Girl can attain the Creator, Artiste, Professional and Handy Girl Adventure badges over her 4 years in GB.</p></section>
@@ -127,3 +100,13 @@ We partner with a multitude of stakeholders to be first for Boys. Join us to bui
   </tr>
 </tbody>
 </table>
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |
+| Text     | Text     |

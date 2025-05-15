@@ -53,8 +53,24 @@ variant: markdown
 
 <p></p><section id="volleyball"><p></p>
 <h4><strong>Volleyball</strong></h4>
-<p>The volleyball training programme aims to provide a vibrant and enriching experience for our students. With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience and communication through this competitive sport. Students develop their hand-eye coordination, footwork, and agility skills through physical training.</p></section>
-<p>During our training and competitions, the students worked together which fostered camaraderie in the team. It was heartening to see our young players display sportsmanship during the game.</p>
+
+The volleyball CCA aims to provide a vibrant and enriching experience for our students. Students develop their hand-eye coordination, footwork, and agility skills through physical training. 
+
+With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience, effective communication and good sportsmanship. Students will learn values such as Respect, Integrity, Excellence and Sportsmanship. 
+
+Through participation in the National School Games, the students have the opportunity to display the skills they have learned and strengthen the camaraderie of the team.
+	
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Ms Natasha (IC)     | natasha_shamine_pannirsilvam@moe.edu.sg     |
+| Mrs Goh Wan Peng (IC)     | ng_wan_peng@moe.edu.sg     |
+| Ms Jenny Ang     | jenny_ang@moe.edu.sg     |
+| Ms Wang Yaling     | wang_yaling@moe.edu.sg     |
+| Mrs Ng Wui Joo     | chua_wui_joo@moe.edu.sg     |
+| Ms Amelia Goh     | goh_tyen_hui_amelia@moe.edu.sg     |
+| Mrs Melissa Timmer     | melissa_timmer@moe.edu.sg     |
+| Mrs Sing-Ling Ping     | ling_ping@moe.edu.sg     |
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -111,4 +127,4 @@ variant: markdown
 | Text     | Text     |
 | Text     | Text     |
 | Text     | Text     |
-| Text     | Text     |
+| Text     | Text     |</section>

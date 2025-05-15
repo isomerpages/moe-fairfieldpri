@@ -6,10 +6,23 @@ third_nav_title: CCA
 variant: markdown
 ---
 <h4><strong>Fairfield Dance</strong></h4>
-<p>Our dancers are exposed to learning various types of traditional dances which are then performed during major school events, such as the Chinese New Year Celebration.&nbsp;</p>
-<p>During our weekly training sessions, dancers will be coached to develop flexibility and techniques as part of the dance curriculum.&nbsp;</p>
-<p>These dance training sessions also help to build good rapport between seniors and juniors as they train and learn alongside each other.&nbsp;</p>
-<p>Our teachers and instructors provide opportunities of performances at various platforms. By exposing them to performing, we aim to develop in them leadership skills and important values like teamwork, care, responsibility and resilience.</p>
+At Fairfield Dance, we embrace diversity and welcome students with a wide range of interests and backgrounds. Our programme encourages dancers to explore and celebrate an exciting variety of genres — from contemporary and modern to cultural and fusion styles. Through this rich exposure, we aim to spark creativity, promote inclusiveness, and nurture a deeper appreciation for the art of movement.
+
+Weekly training sessions focus on building strong technique and flexibility, guided by a structured and supportive dance curriculum.
+
+Beyond the studio, our passionate instructors offer opportunities for dancers to perform on a range of platforms. These performances are more than just showcases — they’re powerful learning experiences that help students grow as leaders and team players, while developing important values like care, responsibility, and resilience.
+
+
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+|  Mdm Shanie Wu (IC)    | wu_lin_ying@moe.edu.sg     |
+| Ms Chiu Kit Ying (IC)     | chiu_kit_ying@moe.edu.sg     |
+| Ms Pang Xin     | pang_xin@moe.edu.sg     |
+| Mdm Chan Man Pui     | chan_man_pui@moe.edu.sg     |
+
+
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

@@ -21,40 +21,6 @@ Beyond the studio, our passionate instructors offer opportunities for dancers to
 | Ms Pang Xin     | pang_xin@moe.edu.sg     |
 | Mdm Chan Man Pui     | chan_man_pui@moe.edu.sg     |
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9v25{background-color:#FFF;color:#414CA0;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
-    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Chiu Kit Ying (IC)</span></td>
-    <td class="tg-9v25"><a href="mailto:chiu_kit_ying@moe.edu.sg">chiu_kit_ying@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Liew Yi Shing (IC)</span></td>
-    <td class="tg-9v25"><a href="mailto:liew_yi_shing@moe.edu.sg">liew_yi_shing@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Shanie Wu</span></td>
-    <td class="tg-9v25"><a href="mailto:wu_lin_ying@moe.edu.sg">wu_lin_ying@moe.edu.sg</a></td>
-  </tr>
-</tbody>
-</table>
 <p></p><section id="choir"><p></p>
 <h4><strong>Choir</strong></h4></section>
 <p>Fairfield Methodist School (Primary) Choir is made up of passionate girls and boys who simply delight in singing. With the dedication and commitment of our Choral Instructors, Ms Susanna Pua (Senior), Mrs Stephenie Ong (Junior) and our choir teachers, our senior choir achieved the Certificate of Distinction for SYF since 2014.</p>

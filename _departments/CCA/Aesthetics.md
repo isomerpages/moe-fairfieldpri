@@ -34,7 +34,7 @@ Through the choir practices, students learn to apply musical skills to create an
 | Mr On Tai Jim (IC)    | on_tai_jim@moe.edu.sg     |
 | Mrs Yaw Siok Ching (IC)    | tan_siok_ching@moe.edu.sg     |
 | Ms Tan Yee Won     | tan_yee_won@moe.edu.sg     |
-| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg     |
 
 <p></p><section id="concert-band"><p></p>
 <h4><strong>Concert Band</strong></h4>
@@ -56,14 +56,12 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 | -------- | -------- |
 | Mrs Serena Chan (IC)    | chew_mei_jun_serena@moe.edu.sg     |
 | Ms Geetha (IC)    | geetha_rajendran@moe.edu.sg     |
-| Mr Sooraj     | tan_yee_won@moe.edu.sg     |
-| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
-| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
-| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
-| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
-| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
-| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
-| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+| Mr Sooraj     | sooraj_prabhodachandran@moe.edu.sg     |
+| Mdm Zhang Luyao     | zhang_luyao@moe.edu.sg     |
+| Mrs Lee Li Tang     | tang_li_tang@moe.edu.sg     |
+| Mrs Lee Siu Marn     | leong_siu_marn@moe.edu.sg     |
+| Mr Kenneth Kueh     | kenneth_kueh@moe.edu.sg     |
+| Mrs Chan Hwee Binn     | seah_hwee_bin@moe.edu.sg     |
 
 
 

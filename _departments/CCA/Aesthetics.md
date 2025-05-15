@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-<h4><strong>Chinese Dance</strong></h4>
+<h4><strong>Fairfield Dance</strong></h4>
 <p>Our dancers are exposed to learning various types of traditional dances which are then performed during major school events, such as the Chinese New Year Celebration.&nbsp;</p>
 <p>During our weekly training sessions, dancers will be coached to develop flexibility and techniques as part of the dance curriculum.&nbsp;</p>
 <p>These dance training sessions also help to build good rapport between seniors and juniors as they train and learn alongside each other.&nbsp;</p>

@@ -63,6 +63,7 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 
 <p></p><section id="handbell-ensemble"><p></p>
 <h4><strong>Handbell Ensemble</strong></h4>
+
 The FMSP Handbell Ensemble, established in 2009, comprises a vibrant group of passionate ringers from Primary Three to Six. Through engaging practice sessions, our students explore music from various cultures, build musical sensitivity, and develop the technical skills of handbell ringing.
 
 More than just music, the ensemble experience nurtures values such as empathy, respect, and teamwork. Performing at school events and public venues also allows our ringers to grow in confidence and develop a strong stage presence.

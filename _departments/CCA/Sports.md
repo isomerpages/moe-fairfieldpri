@@ -43,26 +43,14 @@ variant: markdown
 <p>Football is a team sport which encourages team spirit and camaraderie. Our goal is to train students the football skills and at the same time enjoy playing the sport.</p></section>
 <p>We participate in football competitions and arrange friendly matches with other schools whenever possible. From this, we hope our players will gain valuable experience and to improve their skills.</p>
 <p>The students undergo training under the guidance of our dedicated coach. They are also nurtured by our committed CCA teachers. With these, we aim to inculcate resilience and a spirit of excellence in our players.</p>
-<table>
-<tbody>
-<tr>
-<td width="198"><strong>Teachers-in-Charge</strong></td>
-<td width="315"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="198">Mr Soh Wee Lik (IC)</td>
-<td width="315"><a href="mailto:soh_wee_lik_derrick@moe.edu.sg">soh_wee_lik_derrick@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="198">Mr Muhd Khairuddin</td>
-<td width="315"><a href="mailto:muhammad_khairuddin@moe.edu.sg">muhammad_khairuddin@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="198">Mr Zamree</td>
-<td width="315"><a href="mailto:zamree_mustapha@moe.edu.sg">zamree_mustapha@moe.edu.sg</a></td>
-</tr>
-</tbody>
-</table>
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Mr Soh Wee Lik (IC)    | soh_wee_lik_derrick@moe.edu.sg     |
+| Mr Kenneth Ong     | ong_kai_min_kenneth@moe.edu.sg      |
+| Mr Zamree     | zamree_mustapha@moe.edu.sg    |
+
+
 <p></p><section id="volleyball"><p></p>
 <h4><strong>Volleyball</strong></h4>
 <p>The volleyball training programme aims to provide a vibrant and enriching experience for our students. With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience and communication through this competitive sport. Students develop their hand-eye coordination, footwork, and agility skills through physical training.</p></section>

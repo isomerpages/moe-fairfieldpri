@@ -20,4 +20,3 @@ By participating in diverse modules across these domains, students are developed
 | Mrs Rachel Ang     | tee_foong_chew@moe.edu.sg     |
 | Mr Han Zhijin     | han_zhijin@moe.edu.sg     |
 | Ms Sun Xue      | sun_xue@moe.edu.sg     |
-

@@ -80,6 +80,8 @@ variant: markdown
 &nbsp;\*Visual &amp; Performing Arts <br>
 #Applicable to School Team (Sports)
 
+[Click here for the Training Schedule for Semester 1](/files/2025/CCA_Schedule_Website.pdf)
+
 **Change of CCA**
 
 Your child is encouraged to stay in the CCA for the year. Please note that all requests will be considered on case-by-case basis.

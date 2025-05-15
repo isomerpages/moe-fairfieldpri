@@ -79,6 +79,9 @@ variant: markdown
 ![](/images/2025/CCA_Schedule_Website.jpg)
 [Click here for the Training Schedule for Semester 1](/files/2025/CCA_Schedule_Website.pdf)
 
+
+![](/images/CCA%20Dept.jpeg)
+
 **Change of CCA**
 
 Your child is encouraged to stay in the CCA for the year. Please note that all requests will be considered on case-by-case basis.
@@ -86,5 +89,3 @@ Your child is encouraged to stay in the CCA for the year. Please note that all r
 The link ([https://form.gov.sg/62955381b2800a0012215d50](https://form.gov.sg/62955381b2800a0012215d50)) to submit the request for the change of CCA will only open in Term 4.&nbsp;
 
 Any new CCA trials for the requested change is conducted in Term 4 between week 8 and 10. CCA transfer will take effect in January the following year.
-
-![](/images/CCA%20Dept.jpeg)

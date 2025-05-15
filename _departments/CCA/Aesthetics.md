@@ -29,30 +29,13 @@ Our choir is designed to enhance the musical, creative and expressive qualities 
 
 Through the choir practices, students learn to apply musical skills to create and experience music as an ensemble. Values, like Respect and Serving and Giving, are also inculcated during CCA practice sessions.
 
-<table>
-<tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Mr On Tai Jim (IC)</td>
-<td width="327"><a href="mailto:on_tai_jim@moe.edu.sg">on_tai_jim@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Yaw Siok Ching (IC)</td>
-<td width="327"><a href="mailto:tan_siok_ching@moe.edu.sg">tan_siok_ching@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Tan Yee Won</td>
-<td width="327"><a href="mailto:tan_yee_won@moe.edu.sg">tan_yee_won@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Chen Li Chuan</td>
-<td width="327"><a href="mailto:chen_li_chuan@moe.edu.sg">chen_li_chuan@moe.edu.sg</a></td>
-</tr>
-</tbody>
-</table>
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+|  Mrs Yaw Siok Ching (IC)    | on_tai_jim@moe.edu.sg     |
+| Ms Chiu Kit Ying (IC)     | tan_siok_ching@moe.edu.sg     |
+| Ms Tan Yee Won     | tan_yee_won@moe.edu.sg     |
+| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg    |
+
 <p></p><section id="concert-band"><p></p>
 <h4><strong>Concert Band</strong></h4>
 <p>The Band CCA aims to arouse and sustain students’ interest in music and cultivate the joy and excitement of playing together as a group. Students are given access to a variety of woodwind, brass and percussion instruments. They will also build up their knowledge in music theory by playing in an orchestral environment.&nbsp;</p></section>

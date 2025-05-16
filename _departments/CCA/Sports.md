@@ -14,14 +14,14 @@ Students will learn values such as Respect, Integrity, Excellence and Sportsmans
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr Chan Ta Hoong (IC)     | <a href="mailto:chan_ta_hoong@moe.edu.s" target="">chan_ta_hoong@moe.edu.sg</a>     |
+| Mr Chan Ta Hoong (IC)     | <a href="mailto:chan_ta_hoong@moe.edu.sg" target="">chan_ta_hoong@moe.edu.sg</a>     |
 | Mr Ng Kah Mun (IC)     | <a href="mailto:ng_kah_mun@moe.edu.sg" target="">ng_kah_mun@moe.edu.sg</a>     |
 | Ms Melissa Yeo     | <a href="mailto:yeo_hui_kiang_melissa@moe.edu.sg" target="">yeo_hui_kiang_melissa@moe.edu.sg</a>     |
 | Ms Harshini Ganapathy     | <a href="mailto:harshini_ganapathy@moe.edu.sg" target="">harshini_ganapathy@moe.edu.sg</a>     |
 | Mr Tan Hue     | <a href="mailto:tan_hue_a@moe.edu.sg" target="">tan_hue_a@moe.edu.sg</a>     |
 | Mrs Angie Chng     | <a href="mailto:lim_wui_min_angie@moe.edu.sg" target="">lim_wui_min_angie@moe.edu.sg</a>     |
 | Ms Nor Fazylla    | <a href="mailto:nor_fazylla_mohamed_sanusi@moe.edu.sg" target="">nor_fazylla_mohamed_sanusi@moe.edu.sg</a>    |
-| Ms Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sgg" target="">chan_sew_yoon@moe.edu.sg</a>     |
+| Ms Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">chan_sew_yoon@moe.edu.sg</a>     |
 
 <p></p><section id="basketball"><p></p>
 <h4><strong>Basketball</strong></h4>
@@ -31,13 +31,13 @@ Students will learn values such as Respect, Integrity, Excellence and Sportsmans
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr John Chew (IC)     | chew_yang_cheng_john@moe.edu.sg     |
-| Ms Tan Wee Ling (IC)     | tan_wee_ling@moe.edu.sg    |
-| Miss Natalie Kee     | natalie_kee_hui_yi@moe.edu.sg     |
-| Ms Chan Leng Leng     | Lee_Leng_Leng@moe.edu.sg    |
-| Ms Shana Lim     | lim_li_shan@moe.edu.sg    |
-| Mrs Joy Malik    | joy_amisha_keshyap@moe.edu.sg     |
-| Mrs Julia Sa     | lim_mei_chia_julia@moe.edu.sg    |
+| Mr John Chew (IC)     | <a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">chew_yang_cheng_john@moe.edu.sg</a>     |
+| Ms Tan Wee Ling (IC)     | <a href="mailto:tan_wee_ling@moe.edu.sg" target="">tan_wee_ling@moe.edu.sg</a>    |
+| Miss Natalie Kee     | <a href="mailto:natalie_kee_hui_yi@moe.edu.sg" target="">natalie_kee_hui_yi@moe.edu.sg</a>     |
+| Ms Chan Leng Leng     | <a href="mailto:Lee_Leng_Leng@moe.edu.sg" target="">Lee_Leng_Leng@moe.edu.sg</a>    |
+| Ms Shana Lim     | <a href="mailto:lim_li_shan@moe.edu.sg" target="">lim_li_shan@moe.edu.sg</a>    |
+| Mrs Joy Malik    | <a href="mailto:joy_amisha_keshyap@moe.edu.sg" target="">joy_amisha_keshyap@moe.edu.sg</a>     |
+| Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">lim_mei_chia_julia@moe.edu.sg</a>    |
 
 <p></p><section id="football"><p></p>
 <h4><strong>Football</strong></h4>

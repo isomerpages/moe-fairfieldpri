@@ -52,14 +52,14 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mrs Serena Chan (IC)    | chew_mei_jun_serena@moe.edu.sg     |
-| Ms Geetha (IC)    | geetha_rajendran@moe.edu.sg     |
-| Mr Sooraj     | sooraj_prabhodachandran@moe.edu.sg     |
-| Mdm Zhang Luyao     | zhang_luyao@moe.edu.sg     |
-| Mrs Lee Li Tang     | tang_li_tang@moe.edu.sg     |
-| Mrs Lee Siu Marn     | leong_siu_marn@moe.edu.sg     |
-| Mr Kenneth Kueh     | kenneth_kueh@moe.edu.sg     |
-| Mrs Chan Hwee Binn     | seah_hwee_bin@moe.edu.sg     |
+| Mrs Serena Chan (IC)    | <a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">chew_mei_jun_serena@moe.edu.sg</a>     |
+| Ms Geetha (IC)    | <a href="mailto:sooraj_prabhodachandran@moe.edu.sgg" target="">geetha_rajendran@moe.edu.sg</a>     |
+| Mr Sooraj     | <a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">sooraj_prabhodachandran@moe.edu.sg</a>     |
+| Mdm Zhang Luyao     | <a href="mailto:zhang_luyao@moe.edu.sg" target="">zhang_luyao@moe.edu.sg</a>     |
+| Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">tang_li_tang@moe.edu.sg</a>     |
+| Mrs Lee Siu Marn     | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">leong_siu_marn@moe.edu.sg</a>     |
+| Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">kenneth_kueh@moe.edu.sg</a>     |
+| Mrs Chan Hwee Binn     | <a href="mailto:seah_hwee_bin@moe.edu.sg" target="">seah_hwee_bin@moe.edu.sg</a>     |
 
 
 <h4><strong>Handbell Ensemble</strong></h4>

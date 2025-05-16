@@ -48,7 +48,7 @@ The band is made up of three key sections, each contributing its own unique voic
 
 Helmed by professionally-trained and MOE-approved instructors, our dedicated conductors and tutors bring both expertise and enthusiasm to every practice. Their deep passion for teaching ensures that students receive quality guidance while cultivating a genuine love for music.  
 
-Through rehearsals, performances, and shared dedication, our members learn the value of perseverance, mutual support, and the joy of creating music together. Whether on stage at school events or in competitions, the FMSP Concert Band strives for excellence while nurturing a love for music that lasts far beyond their school years.
+Through rehearsals, performances, and shared dedication, our members learn the value of perseverance, mutual support, and the joy of creating music together. Whether on stage at school events or in competitions, the FMSP Concert Band strives for excellence while nurturing a love for music that lasts far beyond their school years. </section>
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
@@ -89,4 +89,4 @@ The Visual Arts Club will strive to continue to be a place where young artists c
 | Mdm Ching Yuk Ling (IC)     | ching_yuk_ling@moe.edu.sg     |
 | Miss Regina Tay (IC)     | tay_chin-na_regina@moe.edu.sg    |
 | Mr Wong Yek Yue     | wong_yek_yue@moe.edu.sg     |
-| Miss Amilia    | nurul_amilia_roshamil@moe.edu.sg    |</section>
+| Miss Amilia    | nurul_amilia_roshamil@moe.edu.sg    |

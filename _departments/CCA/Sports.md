@@ -8,9 +8,7 @@ variant: markdown
 <h4><strong>Badminton</strong></h4>
 The Badminton CCA provides students with the opportunity to improve their badminton skills such as footwork, overhead strikes, speed, accuracy, control and fitness.
 
-Students will learn values such as Respect, Integrity, Excellence and Sportsmanship. Students will also learn self-discipline and perseverance through the training sessions. They will have the chance to be selected to represent the school at the National School Games. Through participation in the competitions, we hope our students improve their skills and strengthen their team spirit.<p></p>
-
-
+Students will learn values such as Respect, Integrity, Excellence and Sportsmanship. Students will also learn self-discipline and perseverance through the training sessions. They will have the chance to be selected to represent the school at the National School Games. Through participation in the competitions, we hope our students improve their skills and strengthen their team spirit.
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |

@@ -31,10 +31,10 @@ Through the choir practices, students learn to apply musical skills to create an
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr On Tai Jim (IC)    | on_tai_jim@moe.edu.sg     |
-| Mrs Yaw Siok Ching (IC)    | tan_siok_ching@moe.edu.sg     |
-| Ms Tan Yee Won     | tan_yee_won@moe.edu.sg     |
-| Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg     |
+| Mr On Tai Jim (IC)    | <a href="mailto:on_tai_jim@moe.edu.sg" target="">on_tai_jim@moe.edu.sg</a>     |
+| Mrs Yaw Siok Ching (IC)    | <a href="mailto:tan_siok_ching@moe.edu.sg" target="">tan_siok_ching@moe.edu.sg</a>     |
+| Ms Tan Yee Won     | <a href="mailto:tan_yee_won@moe.edu.sg" target="">tan_yee_won@moe.edu.sg</a>     |
+| Ms Chen Li Chuan     | <a href="mailto:chen_li_chuan@moe.edu.sg" target="">chen_li_chuan@moe.edu.sg</a>     |
 
 
 <h4><strong>Concert Band</strong></h4>

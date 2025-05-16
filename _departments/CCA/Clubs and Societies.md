@@ -15,9 +15,9 @@ Besides technical skills, STEM education builds and encourages problem solving s
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mrs Joy Au     | tham_kar_yee@moe.edu.sg      |
-| Mrs Goh Xin Yi     | soh_xinyi@moe.edu.sg     |
-| Mrs Jessica Loh     | teo_yiying_jessica@moe.edu.sg     |
+| Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">tham_kar_yee@moe.edu.sg</a>      |
+| Mrs Goh Xin Yi     | <a href="mailto:soh_xinyi@moe.edu.sg" target="">soh_xinyi@moe.edu.sg</a>     |
+| Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">teo_yiying_jessica@moe.edu.sg</a>     |
 
 <p></p><section id="christian-fellowship"><p></p>
 <h4><strong>Christian Fellowship
@@ -31,5 +31,5 @@ Besides technical skills, STEM education builds and encourages problem solving s
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mrs Joyce Seet     | joyceseet@hotmail.com     |
-| Mdm Lim Yen Peng     | yenpeng47@yahoo.com.sg     |
+| Mrs Joyce Seet     | <a href="mailto:joyceseet@hotmail.com" target="">joyceseet@hotmail.com</a>     |
+| Mdm Lim Yen Peng     | <a href="mailto:yenpeng47@yahoo.com.sg" target="">yenpeng47@yahoo.com.sg</a>     |

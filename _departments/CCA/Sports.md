@@ -53,7 +53,7 @@ Students will learn values such as Respect, Integrity, Excellence and Sportsmans
 
 
 <p></p><section id="volleyball"><p></p>
-<h4><strong>Volleyball</strong></h4>
+<h4><strong>Volleyball</strong></h4></section>
 
 The volleyball CCA aims to provide a vibrant and enriching experience for our students. Students develop their hand-eye coordination, footwork, and agility skills through physical training. 
 
@@ -70,4 +70,4 @@ Through participation in the National School Games, the students have the opport
 | Mrs Ng Wui Joo     | chua_wui_joo@moe.edu.sg     |
 | Ms Amelia Goh     | goh_tyen_hui_amelia@moe.edu.sg     |
 | Mrs Melissa Timmer     | melissa_timmer@moe.edu.sg     |
-| Mrs Sing-Ling Ping     | ling_ping@moe.edu.sg     |</section>
+| Mrs Sing-Ling Ping     | ling_ping@moe.edu.sg     |

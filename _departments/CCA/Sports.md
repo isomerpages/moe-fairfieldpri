@@ -57,9 +57,9 @@ Students will learn values such as Respect, Integrity, Excellence and Sportsmans
 
 The volleyball CCA aims to provide a vibrant and enriching experience for our students. Students develop their hand-eye coordination, footwork, and agility skills through physical training. 
 
-With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience, effective communication and good sportsmanship. Students will learn values such as Respect, Integrity, Excellence and Sportsmanship.</section> 
+With a dedicated team of teachers and coaches, students learn valuable skills such as teamwork, resilience, effective communication and good sportsmanship. Students will learn values such as Respect, Integrity, Excellence and Sportsmanship.
 
-Through participation in the National School Games, the students have the opportunity to display the skills they have learned and strengthen the camaraderie of the team.
+Through participation in the National School Games, the students have the opportunity to display the skills they have learned and strengthen the camaraderie of the team. </section> 
 	
 | Teachers-in-Charge | Email |
 | -------- | -------- |

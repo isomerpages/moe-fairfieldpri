@@ -15,10 +15,10 @@ Beyond the studio, our passionate instructors offer opportunities for dancers to
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mdm Shanie Wu (IC)    | wu_lin_ying@moe.edu.sg     |
-| Ms Chiu Kit Ying (IC)     | chiu_kit_ying@moe.edu.sg     |
-| Ms Pang Xin     | pang_xin@moe.edu.sg     |
-| Mdm Chan Man Pui     | chan_man_pui@moe.edu.sg     |
+| Mdm Shanie Wu (IC)    | <a href="mailto:wu_lin_ying@moe.edu.sg" target="">wu_lin_ying@moe.edu.sg</a>     |
+| Ms Chiu Kit Ying (IC)     | <a href="mailto:chiu_kit_ying@moe.edu.sg" target="">chiu_kit_ying@moe.edu.sg</a>     |
+| Ms Pang Xin     | <a href="mailto:pang_xin@moe.edu.sg" target="">pang_xin@moe.edu.sg</a>     |
+| Mdm Chan Man Pui     | <a href="mailto:chan_man_pui@moe.edu.sgg" target="">chan_man_pui@moe.edu.sg</a>     |
 
 
 <h4><strong>Choir</strong></h4>

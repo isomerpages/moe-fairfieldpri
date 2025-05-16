@@ -50,7 +50,6 @@ Students will learn values such as Respect, Integrity, Excellence and Sportsmans
 | Mr Zamree     | <a href="mailto:zamree_mustapha@moe.edu.sg" target="">zamree_mustapha@moe.edu.sg</a>    |
 
 
-
 <h4><strong>Volleyball</strong></h4>
 
 The volleyball CCA aims to provide a vibrant and enriching experience for our students. Students develop their hand-eye coordination, footwork, and agility skills through physical training. 
@@ -61,11 +60,11 @@ Through participation in the National School Games, the students have the opport
 	
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Ms Natasha (IC)     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">natasha_shamine_pannirsilvam@moe.edu.sg</a>     |
-| Mrs Goh Wan Peng (IC)     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">ng_wan_peng@moe.edu.sg</a>     |
-| Ms Jenny Ang     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">jenny_ang@moe.edu.sg</a>     |
-| Ms Wang Yaling     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">wang_yaling@moe.edu.sg</a>     |
-| Mrs Ng Wui Joo     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">chua_wui_joo@moe.edu.sg</a>     |
-| Ms Amelia Goh     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">goh_tyen_hui_amelia@moe.edu.sg</a>     |
-| Mrs Melissa Timmer     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">melissa_timmer@moe.edu.sg</a>     |
-| Mrs Sing-Ling Ping     | <a href="mailto:sofia_gita_parkash@moe.edu.sg" target="">ling_ping@moe.edu.sg</a>     |
+| Ms Natasha (IC)     | <a href="mailto:natasha_shamine_pannirsilvam@moe.edu.sg" target="">natasha_shamine_pannirsilvam@moe.edu.sg</a>     |
+| Mrs Goh Wan Peng (IC)     | <a href="mailto:ng_wan_peng@moe.edu.sg" target="">ng_wan_peng@moe.edu.sg</a>     |
+| Ms Jenny Ang     | <a href="mailto:jenny_ang@moe.edu.sgg" target="">jenny_ang@moe.edu.sg</a>     |
+| Ms Wang Yaling     | <a href="mailto:wang_yaling@moe.edu.sg" target="">wang_yaling@moe.edu.sg</a>     |
+| Mrs Ng Wui Joo     | <a href="mailto:chua_wui_joo@moe.edu.sg" target="">chua_wui_joo@moe.edu.sg</a>     |
+| Ms Amelia Goh     | <a href="mailto:goh_tyen_hui_amelia@moe.edu.sg" target="">goh_tyen_hui_amelia@moe.edu.sg</a>     |
+| Mrs Melissa Timmer     | <a href="mailto:melissa_timmer@moe.edu.sg" target="">melissa_timmer@moe.edu.sg</a>     |
+| Mrs Sing-Ling Ping     | <a href="mailto:ling_ping@moe.edu.sg" target="">ling_ping@moe.edu.sg</a>     |

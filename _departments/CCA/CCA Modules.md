@@ -5,18 +5,18 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-CCA Modules provide students with opportunities to explore and deepen their interests through a wide range of knowledge-based and skills-based activities conducted throughout the year. These modules are guided by the LEAPS framework, which encompasses four key domains: Enrichment, Physical, Aesthetics, and Leadership & Service.
+CCA Modules provide students with opportunities to explore and deepen their interests through a wide range of knowledge-based and skills-based activities conducted throughout the year. These modules are guided by the LEAPS framework, which encompasses four key domains: Enrichment, Physical, Aesthetics, and Leadership &amp; Service.
 
 By participating in diverse modules across these domains, students are developed holistically—building a strong foundation for lifelong learning and personal growth.
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr Hadi (IC)     | abdul_hadi_bakar@moe.edu.sg     |
-| Mdm Esther Thon (IC)     | thon_sian_fei@moe.edu.sg     |
-| Mrs Iris Tan     | tay_wan_peng_iris@moe.edu.sg     |
-| Mrs Deen     | kavitha_selvam@moe.edu.sg     |
-| Mdm Kamariah     | kamariah_abd_rahim@moe.edu.sg     |
-| Ms Wang Mengfei     | wang_mengfei@moe.edu.sg     |
-| Mrs Rachel Ang     | tee_foong_chew@moe.edu.sg     |
-| Mr Han Zhijin     | han_zhijin@moe.edu.sg     |
-| Ms Sun Xue      | sun_xue@moe.edu.sg     |
+| Mr Hadi (IC)     | <a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">abdul_hadi_bakar@moe.edu.sg</a>     |
+| Mdm Esther Thon (IC)     | <a href="mailto:thon_sian_fei@moe.edu.sg" target="">thon_sian_fei@moe.edu.sg</a>     |
+| Mrs Iris Tan     | <a href="mailto:tay_wan_peng_iris@moe.edu.s" target="">tay_wan_peng_iris@moe.edu.sg</a>     |
+| Mrs Deen     | <a href="mailto:kavitha_selvam@moe.edu.sg" target="">kavitha_selvam@moe.edu.sg</a>     |
+| Mdm Kamariah     | <a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">kamariah_abd_rahim@moe.edu.sg</a>     |
+| Ms Wang Mengfei     | <a href="mailto:wang_mengfei@moe.edu.sg" target="">wang_mengfei@moe.edu.sg</a>     |
+| Mrs Rachel Ang     | <a href="mailto:tee_foong_chew@moe.edu.sg" target="">tee_foong_chew@moe.edu.sg</a>     |
+| Mr Han Zhijin     | <a href="mailto:han_zhijin@moe.edu.sg" target="">han_zhijin@moe.edu.sg</a>     |
+| Ms Sun Xue      | <a href="mailto:sun_xue@moe.edu.sg" target="">sun_xue@moe.edu.sg</a>     |

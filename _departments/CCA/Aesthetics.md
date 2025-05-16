@@ -5,196 +5,88 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-<h4><strong>Chinese Dance</strong></h4>
-<p>Our dancers are exposed to learning various types of traditional dances which are then performed during major school events, such as the Chinese New Year Celebration.&nbsp;</p>
-<p>During our weekly training sessions, dancers will be coached to develop flexibility and techniques as part of the dance curriculum.&nbsp;</p>
-<p>These dance training sessions also help to build good rapport between seniors and juniors as they train and learn alongside each other.&nbsp;</p>
-<p>Our teachers and instructors provide opportunities of performances at various platforms. By exposing them to performing, we aim to develop in them leadership skills and important values like teamwork, care, responsibility and resilience.</p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9v25{background-color:#FFF;color:#414CA0;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
-    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Chiu Kit Ying (IC)</span></td>
-    <td class="tg-9v25"><a href="mailto:chiu_kit_ying@moe.edu.sg">chiu_kit_ying@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Liew Yi Shing (IC)</span></td>
-    <td class="tg-9v25"><a href="mailto:liew_yi_shing@moe.edu.sg">liew_yi_shing@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Shanie Wu</span></td>
-    <td class="tg-9v25"><a href="mailto:wu_lin_ying@moe.edu.sg">wu_lin_ying@moe.edu.sg</a></td>
-  </tr>
-</tbody>
-</table>
-<p></p><section id="choir"><p></p>
-<h4><strong>Choir</strong></h4></section>
-<p>Fairfield Methodist School (Primary) Choir is made up of passionate girls and boys who simply delight in singing. With the dedication and commitment of our Choral Instructors, Ms Susanna Pua (Senior), Mrs Stephenie Ong (Junior) and our choir teachers, our senior choir achieved the Certificate of Distinction for SYF since 2014.</p>
-<p>Our choir is designed to enhance the musical, creative and expressive qualities of our members’ voices. It is comprised of the Junior Choir (P3) and the Senior Choir (P4 to P6). Despite the pandemic, our choir had the opportunity to perform virtually during Honours Day and worked in partnership with the Esplanade in sharing their voices with the wider community, through the song “Voices – A Festival of Song and Journeying with Song – A Choral Soundscape”.</p>
-<p>Through the choir practices, students learn to apply musical skills to create and experience music as an ensemble. Values, like Respect and Serving and Giving, are also inculcated during CCA practice sessions.</p>
-<table>
-<tbody>
-<tr>
-<td width="186"><strong>Teachers-in-Charge</strong></td>
-<td width="327"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="186">Mr On Tai Jim (IC)</td>
-<td width="327"><a href="mailto:on_tai_jim@moe.edu.sg">on_tai_jim@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Mrs Yaw Siok Ching (IC)</td>
-<td width="327"><a href="mailto:tan_siok_ching@moe.edu.sg">tan_siok_ching@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Tan Yee Won</td>
-<td width="327"><a href="mailto:tan_yee_won@moe.edu.sg">tan_yee_won@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="186">Ms Chen Li Chuan</td>
-<td width="327"><a href="mailto:chen_li_chuan@moe.edu.sg">chen_li_chuan@moe.edu.sg</a></td>
-</tr>
-</tbody>
-</table>
-<p></p><section id="concert-band"><p></p>
+<h4><strong>Fairfield Dance</strong></h4>
+
+At Fairfield Dance, we embrace diversity and welcome students with a wide range of interests and backgrounds. Our programme encourages dancers to explore and celebrate an exciting variety of genres — from contemporary and modern to cultural and fusion styles. Through this rich exposure, we aim to spark creativity, promote inclusiveness, and nurture a deeper appreciation for the art of movement.
+
+Weekly training sessions focus on building strong technique and flexibility, guided by a structured and supportive dance curriculum.
+
+Beyond the studio, our passionate instructors offer opportunities for dancers to perform on a range of platforms. These performances are more than just showcases — they’re powerful learning experiences that help students grow as leaders and team players, while developing important values like care, responsibility, and resilience.
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Mdm Shanie Wu (IC)    | <a href="mailto:wu_lin_ying@moe.edu.sg" target="">wu_lin_ying@moe.edu.sg</a>     |
+| Ms Chiu Kit Ying (IC)     | <a href="mailto:chiu_kit_ying@moe.edu.sg" target="">chiu_kit_ying@moe.edu.sg</a>     |
+| Ms Pang Xin     | <a href="mailto:pang_xin@moe.edu.sg" target="">pang_xin@moe.edu.sg</a>     |
+| Mdm Chan Man Pui     | <a href="mailto:chan_man_pui@moe.edu.sg" target="">chan_man_pui@moe.edu.sg</a>     |
+
+
+<h4><strong>Choir</strong></h4>
+
+Fairfield Methodist School (Primary) Choir is made up of passionate girls and boys who simply delight in singing. With the dedication and commitment of our Choral Instructor, Ms Susanna Pua, and our choir teachers, our senior choir achieved the Certificate of Distinction for SYF since 2014.
+
+Our choir is designed to enhance the musical, creative and expressive qualities of our members’ voices. Despite the pandemic, our choir had the opportunity to perform virtually during Honours Day and worked in partnership with the Esplanade in sharing their voices with the wider community, through the song “Voices – A Festival of Song and Journeying with Song – A Choral Soundscape”.
+
+Through the choir practices, students learn to apply musical skills to create and experience music as an ensemble. Values, like Respect and Serving and Giving, are also inculcated during CCA practice sessions. 
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Mr On Tai Jim (IC)    | <a href="mailto:on_tai_jim@moe.edu.sg" target="">on_tai_jim@moe.edu.sg</a>     |
+| Mrs Yaw Siok Ching (IC)    | <a href="mailto:tan_siok_ching@moe.edu.sg" target="">tan_siok_ching@moe.edu.sg</a>     |
+| Ms Tan Yee Won     | <a href="mailto:tan_yee_won@moe.edu.sg" target="">tan_yee_won@moe.edu.sg</a>     |
+| Ms Chen Li Chuan     | <a href="mailto:chen_li_chuan@moe.edu.sg" target="">chen_li_chuan@moe.edu.sg</a>     |
+
+
 <h4><strong>Concert Band</strong></h4>
-<p>The Band CCA aims to arouse and sustain students’ interest in music and cultivate the joy and excitement of playing together as a group. Students are given access to a variety of woodwind, brass and percussion instruments. They will also build up their knowledge in music theory by playing in an orchestral environment.&nbsp;</p></section>
-<p>The Band is helmed by professionally trained musicians and approved instructors who also have a deep passion for teaching and sharing their love for Music. We hope students will build a lifelong love for performing and become great instrumentalists. It is also our wish that being in the band would impart in them leadership skills and important values like teamwork, respect, responsibility and resilience.</p>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-wogo{background-color:#FFF;color:#0563C1;text-align:left;text-decoration:underline;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
-    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Serena Chan (IC)</span></td>
-    <td class="tg-wogo"><a href="mailto:chew_mei_jun_serena@moe.edu.sg"><span style="color:#0563C1">chew_mei_jun_serena@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Kenneth Ong (IC)</span></td>
-    <td class="tg-wogo"><a href="mailto:ong_kai_min_kenneth@moe.edu.sg"><span style="color:#0563C1">ong_kai_min_kenneth@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Geetha</span></td>
-    <td class="tg-wogo"><a href="mailto:geetha_rajendran@moe.edu.sg"><span style="color:#0563C1">geetha_rajendran@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Sun Ling</span></td>
-    <td class="tg-wogo"><a href="mailto:sun_ling@moe.edu.sg"><span style="color:#0563C1">sun_ling@moe.edu.sg</span></a></td>
-  </tr>
-   <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Sooraj</span></td>
-    <td class="tg-wogo"><a href="mailto:sooraj_prabhodachandran@moe.edu.sg"><span style="color:#0563C1">sooraj_prabhodachandran@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Chan Leng Leng</span></td>
-    <td class="tg-wogo"><a href="mailto:lee_leng_leng@moe.edu.sg"><span style="color:#0563C1">lee_leng_leng@moe.edu.sg</span></a></td>
-  </tr>
-    <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mr Kenneth Kueh</span></td>
-    <td class="tg-wogo"><a href="mailto:kenneth_kueh@moe.edu.sg"><span style="color:#0563C1">kenneth_kueh@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Lee Siu Marn</span></td>
-    <td class="tg-wogo"><a href="mailto:leong_siu_marn@moe.edu.sg"><span style="color:#0563C1">leong_siu_marn@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mrs Lee Li Tang</span></td>
-    <td class="tg-wogo"><a href="mailto:tang_li_tang@moe.edu.sg"><span style="color:#0563C1">tang_li_tang@moe.edu.sg</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Miss Suria</span></td>
-    <td class="tg-wogo"><a href="mailto:suria_mohamed_shafiee@moe.edu.sg"><span style="color:#0563C1">suria_mohamed_shafiee@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
-<p></p><section id="handbell-ensemble"><p></p>
+
+The FMSP Concert Band is more than just a CCA— it’s a vibrant community where students grow as musicians, leaders, and lifelong appreciators of the arts. We believe in fostering discipline, teamwork and artistic expression, guiding young instrumentalists to develop not only their technical skills but also a deep, enduring passion for music.  
+
+The band is made up of three key sections, each contributing its own unique voice to our collective sound:  
+**Woodwinds** – Flutes, clarinets, and saxophones bring melody, agility, and expressive color to our performances.  
+**Brass** – Trumpets, trombones, french horns, euphoniums and tubas provide power, brilliance, and rich harmonic depth.  
+**Percussion**– From snare drums to marimbas, our percussionists drive the rhythm, add texture, and enhance the band’s dynamic energy.  
+
+Helmed by professionally-trained and MOE-approved instructors, our dedicated conductors and tutors bring both expertise and enthusiasm to every practice. Their deep passion for teaching ensures that students receive quality guidance while cultivating a genuine love for music.  
+
+Through rehearsals, performances, and shared dedication, our members learn the value of perseverance, mutual support, and the joy of creating music together. Whether on stage at school events or in competitions, the FMSP Concert Band strives for excellence while nurturing a love for music that lasts far beyond their school years. 
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Mrs Serena Chan (IC)    | <a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">chew_mei_jun_serena@moe.edu.sg</a>     |
+| Ms Geetha (IC)    | <a href="mailto:sooraj_prabhodachandran@moe.edu.sgg" target="">geetha_rajendran@moe.edu.sg</a>     |
+| Mr Sooraj     | <a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">sooraj_prabhodachandran@moe.edu.sg</a>     |
+| Mdm Zhang Luyao     | <a href="mailto:zhang_luyao@moe.edu.sg" target="">zhang_luyao@moe.edu.sg</a>     |
+| Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">tang_li_tang@moe.edu.sg</a>     |
+| Mrs Lee Siu Marn     | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">leong_siu_marn@moe.edu.sg</a>     |
+| Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">kenneth_kueh@moe.edu.sg</a>     |
+| Mrs Chan Hwee Binn     | <a href="mailto:seah_hwee_bin@moe.edu.sg" target="">seah_hwee_bin@moe.edu.sg</a>     |
+
+
 <h4><strong>Handbell Ensemble</strong></h4>
-<p>The FMS(P) Handbell Ensemble was established in 2009 and comprises a team of passionate Primary Three to Six ringers. During practice sessions, ringers appreciate music from diverse cultures, enhance their musical aptitude and acquire technical skills of handling and ringing of bells.</p></section>
-<p>They also cultivate values such as empathy and respect in their interactions with one another. Performing in school and public venues gives ringers the opportunity to build their confidence in public performances.</p>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9v25{background-color:#FFF;color:#414CA0;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-7zkw{background-color:#FFF;color:#282828;text-align:left;vertical-align:top}
-.tg .tg-hr73{background-color:#FFF;color:#282828;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-hr73"><span style="color:#282828">Teachers-in-Charge</span></th>
-    <th class="tg-hr73"><span style="color:#282828">Email</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Ms Ang Bee Chin (IC)</span></td>
-    <td class="tg-9v25"><a href="mailto:ang_bee_chin@moe.edu.sg">ang_bee_chin@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-7zkw"><span style="color:#282828">Mdm Chan Man Pui (IC)</span></td>
-    <td class="tg-9v25"><a href="mailto:chan_man_pui@moe.edu.sg">chan_man_pui@moe.edu.sg</a></td>
-  </tr>
-</tbody>
-</table>
-<p></p><section id="visual-arts-club"><p></p>
+The FMSP Handbell Ensemble, established in 2009, comprises a vibrant group of passionate ringers from Primary Three to Six. Through engaging practice sessions, our students explore music from various cultures, build musical sensitivity, and develop the technical skills of handbell ringing.
+
+More than just music, the ensemble experience nurtures values such as empathy, respect, and teamwork. Performing at school events and public venues also allows our ringers to grow in confidence and develop a strong stage presence. 
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Ms Ang Bee Chin (IC)     | <a href="mailto:ang_bee_chin@moe.edu.sg" target="">ang_bee_chin@moe.edu.sg</a>     |
+| Ms Liew Yi Shing (IC)     | <a href="mailto:liew_yi_shing@moe.edu.sg" target="">liew_yi_shing@moe.edu.sg</a>     |
+
+
+
 <h4><strong>Visual Arts Club</strong></h4>
-<p>The Visual Arts Club&nbsp;serves as a platform for members to express their artistic flair. We strongly value every member’s artistic talent and welcome students who are passionate about art.&nbsp;We aim to arouse and engage students’ interest in the visual arts with various mediums like ceramics, digital illustrations and animation, lino-prints, painting and drawing.</p></section>
-<p>We have participated in many events, such as Draw My Stamp Story Art Competition and the Singapore Youth Festival (SYF) with artworks exhibited at the National Gallery Singapore. We have also actively partner with our community like HDB and Grace Orchard School, to create artworks together. Through these projects, we have developed our technical competency to complete them efficiently as well as learning to collaborate with one other.</p>
-<p>The Visual Arts Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts. Through competition and collaboration,&nbsp;we aim to inculcate in them leadership skills and important values like teamwork, care, responsibility, and resilience.</p>
 
-<table>
-<tbody>
-<tr>
-<td width="210"><strong>Teachers-in-Charge</strong></td>
-<td width="281"><strong>Email</strong></td>
-</tr>
-<tr>
-<td width="210">Mdm Ching Yuk Ling (IC)</td>
-<td width="281"><a href="mailto:ching_yuk_ling@moe.edu.sg">ching_yuk_ling@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="210">Miss Regina Tay (IC)</td>
-<td width="281"><a href="mailto:tay_chin-na_regina@moe.edu.sg">tay_chin-na_regina@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="210">Mr Wong Yek Yue</td>
-<td width="281"><a href="mailto:wong_yek_yue@moe.edu.sg">wong_yek_yue@moe.edu.sg</a></td>
-</tr>
-<tr>
-<td width="210">Miss Amilia</td>
-<td width="281"><a href="mailto:nurul_amilia_roshamil@moe.edu.sg">nurul_amilia_roshamil@moe.edu.sg</a></td>
-</tr>
-</tbody>
-</table>
+The Visual Arts Club serves as a platform for members to express their artistic flair. We strongly value every member’s artistic talent and welcome students who are passionate about art. We aim to arouse and engage students’ interest in the visual arts with various mediums like ceramics, digital illustrations and animation, lino-prints, painting and drawing.
+
+We have participated in many events, such as Draw My Stamp Story Art Competition and the Singapore Youth Festival (SYF) with artworks exhibited at the National Gallery Singapore. We have also actively partner with our community like HDB and Grace Orchard School, to create artworks together. Through these projects, we have developed our technical competency to complete them efficiently as well as learning to collaborate with one other.
+
+The Visual Arts Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts. Through competition and collaboration, we aim to inculcate in them leadership skills and important values like teamwork, care, responsibility, and resilience.
+
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Mdm Ching Yuk Ling (IC)     | <a href="mailto:ching_yuk_ling@moe.edu.sg" target="">ching_yuk_ling@moe.edu.sg</a>     |
+| Miss Regina Tay (IC)     | <a href="mailto:tay_chin-na_regina@moe.edu.sg" target="">tay_chin-na_regina@moe.edu.sg</a>    |
+| Mr Wong Yek Yue     | <a href="mailto:wong_yek_yue@moe.edu.sg" target="">wong_yek_yue@moe.edu.sg</a>     |
+| Miss Amilia    | <a href="mailto:nurul_amilia_roshamil@moe.edu.sg" target="">nurul_amilia_roshamil@moe.edu.sg</a>    |

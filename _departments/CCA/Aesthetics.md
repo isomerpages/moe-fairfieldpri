@@ -81,7 +81,7 @@ The Visual Arts Club serves as a platform for members to express their artistic 
 
 We have participated in many events, such as Draw My Stamp Story Art Competition and the Singapore Youth Festival (SYF) with artworks exhibited at the National Gallery Singapore. We have also actively partner with our community like HDB and Grace Orchard School, to create artworks together. Through these projects, we have developed our technical competency to complete them efficiently as well as learning to collaborate with one other.
 
-The Visual Arts Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts. Through competition and collaboration, we aim to inculcate in them leadership skills and important values like teamwork, care, responsibility, and resilience.
+The Visual Arts Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts. Through competition and collaboration, we aim to inculcate in them leadership skills and important values like teamwork, care, responsibility, and resilience.</section>
 
 
 | Teachers-in-Charge | Email |
@@ -89,5 +89,4 @@ The Visual Arts Club will strive to continue to be a place where young artists c
 | Mdm Ching Yuk Ling (IC)     | ching_yuk_ling@moe.edu.sg     |
 | Miss Regina Tay (IC)     | tay_chin-na_regina@moe.edu.sg    |
 | Mr Wong Yek Yue     | wong_yek_yue@moe.edu.sg     |
-| Miss Amilia    | nurul_amilia_roshamil@moe.edu.sg    |
-</section></section></section>
+| Miss Amilia    | nurul_amilia_roshamil@moe.edu.sg    |</section></section>

@@ -53,7 +53,7 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 | Teachers-in-Charge | Email |
 | -------- | -------- |
 | Mrs Serena Chan (IC)    | <a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">chew_mei_jun_serena@moe.edu.sg</a>     |
-| Ms Geetha (IC)    | <a href="mailto:sooraj_prabhodachandran@moe.edu.sgg" target="">geetha_rajendran@moe.edu.sg</a>     |
+| Ms Geetha (IC)    | <a href="mailto:geetha_rajendran@moe.edu.sg" target="">geetha_rajendran@moe.edu.sg</a>     |
 | Mr Sooraj     | <a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">sooraj_prabhodachandran@moe.edu.sg</a>     |
 | Mdm Zhang Luyao     | <a href="mailto:zhang_luyao@moe.edu.sg" target="">zhang_luyao@moe.edu.sg</a>     |
 | Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">tang_li_tang@moe.edu.sg</a>     |

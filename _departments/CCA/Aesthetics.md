@@ -20,8 +20,8 @@ Beyond the studio, our passionate instructors offer opportunities for dancers to
 | Ms Pang Xin     | pang_xin@moe.edu.sg     |
 | Mdm Chan Man Pui     | chan_man_pui@moe.edu.sg     |
 
-<p></p><section id="choir"><p></p>
-<h4><strong>Choir</strong></h4></section>
+
+<h4><strong>Choir</strong></h4>
 
 Fairfield Methodist School (Primary) Choir is made up of passionate girls and boys who simply delight in singing. With the dedication and commitment of our Choral Instructor, Ms Susanna Pua, and our choir teachers, our senior choir achieved the Certificate of Distinction for SYF since 2014.
 
@@ -36,7 +36,7 @@ Through the choir practices, students learn to apply musical skills to create an
 | Ms Tan Yee Won     | tan_yee_won@moe.edu.sg     |
 | Ms Chen Li Chuan     | chen_li_chuan@moe.edu.sg     |
 
-<p></p><section id="concert-band"><p></p>
+
 <h4><strong>Concert Band</strong></h4>
 
 The FMSP Concert Band is more than just a CCA— it’s a vibrant community where students grow as musicians, leaders, and lifelong appreciators of the arts. We believe in fostering discipline, teamwork and artistic expression, guiding young instrumentalists to develop not only their technical skills but also a deep, enduring passion for music.  
@@ -48,7 +48,7 @@ The band is made up of three key sections, each contributing its own unique voic
 
 Helmed by professionally-trained and MOE-approved instructors, our dedicated conductors and tutors bring both expertise and enthusiasm to every practice. Their deep passion for teaching ensures that students receive quality guidance while cultivating a genuine love for music.  
 
-Through rehearsals, performances, and shared dedication, our members learn the value of perseverance, mutual support, and the joy of creating music together. Whether on stage at school events or in competitions, the FMSP Concert Band strives for excellence while nurturing a love for music that lasts far beyond their school years. </section>
+Through rehearsals, performances, and shared dedication, our members learn the value of perseverance, mutual support, and the joy of creating music together. Whether on stage at school events or in competitions, the FMSP Concert Band strives for excellence while nurturing a love for music that lasts far beyond their school years. 
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
@@ -61,12 +61,12 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 | Mr Kenneth Kueh     | kenneth_kueh@moe.edu.sg     |
 | Mrs Chan Hwee Binn     | seah_hwee_bin@moe.edu.sg     |
 
-<p></p><section id="handbell-ensemble"><p></p>
+
 <h4><strong>Handbell Ensemble</strong></h4>
 
 The FMSP Handbell Ensemble, established in 2009, comprises a vibrant group of passionate ringers from Primary Three to Six. Through engaging practice sessions, our students explore music from various cultures, build musical sensitivity, and develop the technical skills of handbell ringing.
 
-More than just music, the ensemble experience nurtures values such as empathy, respect, and teamwork. Performing at school events and public venues also allows our ringers to grow in confidence and develop a strong stage presence. </section>
+More than just music, the ensemble experience nurtures values such as empathy, respect, and teamwork. Performing at school events and public venues also allows our ringers to grow in confidence and develop a strong stage presence. 
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
@@ -74,14 +74,14 @@ More than just music, the ensemble experience nurtures values such as empathy, r
 | Ms Liew Yi Shing (IC)     | liew_yi_shing@moe.edu.sg     |
 
 
-<p></p><section id="visual-arts-club"><p></p>
+
 <h4><strong>Visual Arts Club</strong></h4>
 
 The Visual Arts Club serves as a platform for members to express their artistic flair. We strongly value every member’s artistic talent and welcome students who are passionate about art. We aim to arouse and engage students’ interest in the visual arts with various mediums like ceramics, digital illustrations and animation, lino-prints, painting and drawing.
 
 We have participated in many events, such as Draw My Stamp Story Art Competition and the Singapore Youth Festival (SYF) with artworks exhibited at the National Gallery Singapore. We have also actively partner with our community like HDB and Grace Orchard School, to create artworks together. Through these projects, we have developed our technical competency to complete them efficiently as well as learning to collaborate with one other.
 
-The Visual Arts Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts. Through competition and collaboration, we aim to inculcate in them leadership skills and important values like teamwork, care, responsibility, and resilience.</section>
+The Visual Arts Club will strive to continue to be a place where young artists can grow and hone their skills in the creative arts. Through competition and collaboration, we aim to inculcate in them leadership skills and important values like teamwork, care, responsibility, and resilience.
 
 
 | Teachers-in-Charge | Email |

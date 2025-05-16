@@ -27,7 +27,7 @@ Fairfield Methodist School (Primary) Choir is made up of passionate girls and bo
 
 Our choir is designed to enhance the musical, creative and expressive qualities of our members’ voices. Despite the pandemic, our choir had the opportunity to perform virtually during Honours Day and worked in partnership with the Esplanade in sharing their voices with the wider community, through the song “Voices – A Festival of Song and Journeying with Song – A Choral Soundscape”.
 
-Through the choir practices, students learn to apply musical skills to create and experience music as an ensemble. Values, like Respect and Serving and Giving, are also inculcated during CCA practice sessions.
+Through the choir practices, students learn to apply musical skills to create and experience music as an ensemble. Values, like Respect and Serving and Giving, are also inculcated during CCA practice sessions. 
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
@@ -66,7 +66,7 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 
 The FMSP Handbell Ensemble, established in 2009, comprises a vibrant group of passionate ringers from Primary Three to Six. Through engaging practice sessions, our students explore music from various cultures, build musical sensitivity, and develop the technical skills of handbell ringing.
 
-More than just music, the ensemble experience nurtures values such as empathy, respect, and teamwork. Performing at school events and public venues also allows our ringers to grow in confidence and develop a strong stage presence.
+More than just music, the ensemble experience nurtures values such as empathy, respect, and teamwork. Performing at school events and public venues also allows our ringers to grow in confidence and develop a strong stage presence. </section>
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
@@ -89,4 +89,4 @@ The Visual Arts Club will strive to continue to be a place where young artists c
 | Mdm Ching Yuk Ling (IC)     | ching_yuk_ling@moe.edu.sg     |
 | Miss Regina Tay (IC)     | tay_chin-na_regina@moe.edu.sg    |
 | Mr Wong Yek Yue     | wong_yek_yue@moe.edu.sg     |
-| Miss Amilia    | nurul_amilia_roshamil@moe.edu.sg    |</section></section>
+| Miss Amilia    | nurul_amilia_roshamil@moe.edu.sg    |</section>

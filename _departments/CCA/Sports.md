@@ -13,14 +13,14 @@ variant: markdown
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr Chan Ta Hoong (IC)     | chan_ta_hoong@moe.edu.sg     |
-| Mr Ng Kah Mun (IC)     | ng_kah_mun@moe.edu.sg     |
-| Ms Melissa Yeo     | yeo_hui_kiang_melissa@moe.edu.sg     |
-| Ms Harshini Ganapathy     | harshini_ganapathy@moe.edu.sg     |
-| Mr Tan Hue     | tan_hue_a@moe.edu.sg     |
-| Mrs Angie Chng     | lim_wui_min_angie@moe.edu.sg     |
-| Ms Nor Fazylla    | nor_fazylla_mohamed_sanusi@moe.edu.sg    |
-| Ms Chan Sew Yoon     | chan_sew_yoon@moe.edu.sg     |
+| Mr Chan Ta Hoong (IC)     | <a href="mailto:chan_ta_hoong@moe.edu.s" target="">chan_ta_hoong@moe.edu.sg</a>     |
+| Mr Ng Kah Mun (IC)     | <a href="mailto:ng_kah_mun@moe.edu.sg" target="">ng_kah_mun@moe.edu.sg</a>     |
+| Ms Melissa Yeo     | <a href="mailto:yeo_hui_kiang_melissa@moe.edu.sg" target="">yeo_hui_kiang_melissa@moe.edu.sg</a>     |
+| Ms Harshini Ganapathy     | <a href="mailto:harshini_ganapathy@moe.edu.sg" target="">harshini_ganapathy@moe.edu.sg</a>     |
+| Mr Tan Hue     | <a href="mailto:tan_hue_a@moe.edu.sg" target="">tan_hue_a@moe.edu.sg</a>     |
+| Mrs Angie Chng     | <a href="mailto:lim_wui_min_angie@moe.edu.sg" target="">lim_wui_min_angie@moe.edu.sg</a>     |
+| Ms Nor Fazylla    | <a href="mailto:nor_fazylla_mohamed_sanusi@moe.edu.sg" target="">nor_fazylla_mohamed_sanusi@moe.edu.sg</a>    |
+| Ms Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sgg" target="">chan_sew_yoon@moe.edu.sg</a>     |
 
 <p></p><section id="basketball"><p></p>
 <h4><strong>Basketball</strong></h4>

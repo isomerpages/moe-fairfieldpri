@@ -47,9 +47,9 @@ Students will learn values such as Respect, Integrity, Excellence and Sportsmans
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr Soh Wee Lik (IC)    | soh_wee_lik_derrick@moe.edu.sg     |
-| Mr Kenneth Ong     | ong_kai_min_kenneth@moe.edu.sg      |
-| Mr Zamree     | zamree_mustapha@moe.edu.sg    |
+| Mr Soh Wee Lik (IC)    | <a href="mailto:soh_wee_lik_derrick@moe.edu.sg" target="">soh_wee_lik_derrick@moe.edu.sg</a>     |
+| Mr Kenneth Ong     | <a href="mailto:ong_kai_min_kenneth@moe.edu.sg" target="">ong_kai_min_kenneth@moe.edu.sg</a>      |
+| Mr Zamree     | <a href="mailto:zamree_mustapha@moe.edu.sg" target="">zamree_mustapha@moe.edu.sg</a>    |
 
 
 <p></p><section id="volleyball"><p></p>

@@ -13,7 +13,7 @@ By participating in diverse modules across these domains, students are developed
 | -------- | -------- |
 | Mr Hadi (IC)     | <a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">abdul_hadi_bakar@moe.edu.sg</a>     |
 | Mdm Esther Thon (IC)     | <a href="mailto:thon_sian_fei@moe.edu.sg" target="">thon_sian_fei@moe.edu.sg</a>     |
-| Mrs Iris Tan     | <a href="mailto:tay_wan_peng_iris@moe.edu.s" target="">tay_wan_peng_iris@moe.edu.sg</a>     |
+| Mrs Iris Tan     | <a href="mailto:tay_wan_peng_iris@moe.edu.sg" target="">tay_wan_peng_iris@moe.edu.sg</a>     |
 | Mrs Deen     | <a href="mailto:kavitha_selvam@moe.edu.sg" target="">kavitha_selvam@moe.edu.sg</a>     |
 | Mdm Kamariah     | <a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">kamariah_abd_rahim@moe.edu.sg</a>     |
 | Ms Wang Mengfei     | <a href="mailto:wang_mengfei@moe.edu.sg" target="">wang_mengfei@moe.edu.sg</a>     |

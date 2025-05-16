@@ -70,8 +70,8 @@ More than just music, the ensemble experience nurtures values such as empathy, r
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Ms Ang Bee Chin (IC)     | ang_bee_chin@moe.edu.sg     |
-| Ms Liew Yi Shing (IC)     | liew_yi_shing@moe.edu.sg     |
+| Ms Ang Bee Chin (IC)     | <a href="mailto:ang_bee_chin@moe.edu.sg" target="">ang_bee_chin@moe.edu.sg</a>     |
+| Ms Liew Yi Shing (IC)     | <a href="mailto:liew_yi_shing@moe.edu.sg" target="">liew_yi_shing@moe.edu.sg</a>     |
 
 
 
@@ -86,7 +86,7 @@ The Visual Arts Club will strive to continue to be a place where young artists c
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mdm Ching Yuk Ling (IC)     | ching_yuk_ling@moe.edu.sg     |
-| Miss Regina Tay (IC)     | tay_chin-na_regina@moe.edu.sg    |
-| Mr Wong Yek Yue     | wong_yek_yue@moe.edu.sg     |
-| Miss Amilia    | nurul_amilia_roshamil@moe.edu.sg    |
+| Mdm Ching Yuk Ling (IC)     | <a href="mailto:ching_yuk_ling@moe.edu.sg" target="">ching_yuk_ling@moe.edu.sg</a>     |
+| Miss Regina Tay (IC)     | <a href="mailto:tay_chin-na_regina@moe.edu.sg" target="">tay_chin-na_regina@moe.edu.sg</a>    |
+| Mr Wong Yek Yue     | <a href="mailto:wong_yek_yue@moe.edu.sg" target="">wong_yek_yue@moe.edu.sg</a>     |
+| Miss Amilia    | <a href="mailto:nurul_amilia_roshamil@moe.edu.sg" target="">nurul_amilia_roshamil@moe.edu.sg</a>    |

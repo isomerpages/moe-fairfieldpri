@@ -75,8 +75,8 @@ variant: markdown
 </tbody>
 </table>
 
-**Training schedule:**
-![](/images/2025/CCA_Schedule_Website.jpg)
+
+
 [Click here for the Training Schedule for Semester 1](/files/2025/CCA_Schedule_Website.pdf)
 
 

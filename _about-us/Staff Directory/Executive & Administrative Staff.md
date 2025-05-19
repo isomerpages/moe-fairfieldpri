@@ -16,5 +16,8 @@ variant: markdown
 | Mrs Serene Oon    | Operations Manager    | <a href="mailto:serene_sing_ching_lan@schools.gov.sg" target="">Email</a>     |
 | Mr Elfian     | ICT Manager     | <a href="mailto:elfian_abdul_hadi@schools.gov.sg" target="">Email</a>    |
 | Mr Zakki    | ICT Associate   | <a href="mailto:zakki_b_adali@schools.gov.sg" target="">Email</a>    |
-| Mr Fitri     | Desktop Engineer     | 
-| Mr Amirul     | Desktop Engineer     |
+| Mdm Goh Lay Leng     | OSO     | 
+| Mdm Chiang Phek Geok     | OSO     |
+| Mdm Shanti     | OSO     |
+| Mdm Jamelah     | OSO     |
+| Ms Siti Aziemah     | Librarian     |

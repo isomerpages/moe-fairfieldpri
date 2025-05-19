@@ -33,7 +33,7 @@ We partner with a multitude of stakeholders to be first for Boys. Join us to bui
 | -------- | -------- |
 | Miss Cheryl Wong (IC)     | <a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">wong_cheng_yi_cheryl@moe.edu.sg</a>     |
 | Ms Claire Ling (IC)     | <a href="mailto:claire_ling_peck_yan@moe.edu.sg" target="">claire_ling_peck_yan@moe.edu.sg</a>     |
-| Mrs Angeline Lim Phua     | <a href="mailto:chow_lye_ngor@moe.edu.sg" target="">chow_lye_ngor@moe.edu.sg</a>     |
+| Mrs Angeline Lim     | <a href="mailto:chow_lye_ngor@moe.edu.sg" target="">chow_lye_ngor@moe.edu.sg</a>     |
 | Ms Sieow Je Yun     | <a href="mailto:sieow_je_yun@moe.edu.sg" target="">sieow_je_yun@moe.edu.sg</a>     |
 | Ms Amanda Choo     | <a href="mailto:amanda_choo_xuan_yi@moe.edu.sg" target="">amanda_choo_xuan_yi@moe.edu.sg</a>     |
 | Mrs Michelle Tan     | <a href="mailto:ng_sook_ling@moe.edu.sg" target="">ng_sook_ling@moe.edu.sg</a>     |

@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Accounts/Accounts.md
-      - Accounts/.keep
       - School Rules.md
+      - Accounts/.keep
+      - Accounts/Accounts.md
       - Home–Based Learning.md
       - Student Learning Space.md
       - Useful Links.md

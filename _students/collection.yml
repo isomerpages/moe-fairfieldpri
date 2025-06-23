@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Rules.md
+      - Accounts/Others.md
       - Accounts/.keep
       - Accounts/Student Learning Space.md
       - Accounts/Microsoft Teams.md

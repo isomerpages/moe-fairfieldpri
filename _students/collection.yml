@@ -2,8 +2,8 @@ collections:
   students:
     output: true
     order:
-      - Student Learning Space (SLS)/Accounts.md
-      - Student Learning Space (SLS)/.keep
+      - Accounts/Accounts.md
+      - Accounts/.keep
       - School Rules.md
       - Home–Based Learning.md
       - Student Learning Space.md

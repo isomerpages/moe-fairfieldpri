@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Home–Based Learning.md
       - School Rules.md
+      - Home–Based Learning.md
       - Student Learning Space.md
       - Useful Links.md

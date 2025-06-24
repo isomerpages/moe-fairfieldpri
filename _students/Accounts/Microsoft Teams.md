@@ -24,7 +24,7 @@ by downloading the app.</p>
 <p>You may refer to the guide below to reset your password. Students are
 encouraged to set their own alternative email address to reset passwords
 with parents.</p>
-<p><a href="https://www.fmsp.moe.edu.sg/files/Change%20of%20password%20for%20Teams%20for%20website.pdf" rel="noopener noreferrer nofollow" target="_blank">Change of password for Teams for website.pdf</a> 
+<p><a href="https://www.fmsp.moe.edu.sg/files/Change%20of%20password%20for%20Teams%20for%20website.pdf" rel="noopener noreferrer nofollow" target="_blank">Change of password for Teams for website.pdf</a>
 </p>
 <p>If the self-reset doesn’t work, you can contact your Form Teacher for
 help.</p>

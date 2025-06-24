@@ -2,7 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Home–Based Learning.md
       - School Rules.md
-      - Student Learning Space.md
+      - Accounts/.keep
+      - Accounts/Student Learning Space.md
+      - Accounts/Microsoft Teams.md
+      - Accounts/Others.md
       - Useful Links.md

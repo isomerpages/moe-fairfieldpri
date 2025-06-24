@@ -5,3 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Accounts
 ---
+<h2>Other accounts</h2>
+<p>The school provides accounts for other websites too, for Math and Mother
+Tongue. Please refer to your <u>student handbook</u> for the username and
+password for all other accounts.</p>
+<p>To <u>reset your password</u> for other accounts, do contact your <strong>subject teacher</strong>.</p>
+<p>&nbsp;</p>

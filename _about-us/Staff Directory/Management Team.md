@@ -15,7 +15,7 @@ variant: markdown
 | Mother Tongue Language     | Mdm Teo Hui Fang    | <a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a>     |
 | Physical Education and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a>    |
 | Information Communications Technology &amp; Innovation, and Aesthetics    | Ms Michelle Yap     | <a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a>    | 
-| Character &amp; Citizenship Education (Covering)     | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>    |
+| Character &amp; Citizenship Education     | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>    |
 | Student Management (Covering)    | Mr Liu Lijia   | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>    |
 | School Staff Developer     | Ms Chen Siyun     | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>    |
 | Special Educational Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |
@@ -26,7 +26,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Lower Primary     | Mrs Lim Wei Wei     | <a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a>     |
 | Middle Primary     | Mrs Cecilia Peralta-Lee    | <a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a>     |
-| Upper Primary (Covering)    | Mrs Jacelyn Kwan     | <a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a>     |
+| Upper Primary    | Mrs Jacelyn Kwan     | <a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a>     |
 
 #### ASSISTANT YEAR HEADS
 

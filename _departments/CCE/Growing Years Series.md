@@ -75,7 +75,7 @@ variant: markdown
 <p>In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.</p>
 <p><i>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</i></p>
 </td>
-<td>Term 3 Week 2</td>
+<td>Term 3 Week 9</td>
 </tr>
 </tbody>
 </table>

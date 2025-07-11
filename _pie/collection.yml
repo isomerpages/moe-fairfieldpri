@@ -2,9 +2,9 @@ collections:
   pie:
     output: true
     order:
-      - Events in 2025.md
       - PiE.md
       - About Us.md
+      - Events in 2025.md
       - Events in 2024.md
       - Events in 2023.md
       - Ongoing Programmes.md

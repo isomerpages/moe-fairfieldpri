@@ -53,16 +53,16 @@ links:
   - title: Students
     collection: students
   - title: PiE
-    url: /pie
+    url: /pie/
     sublinks:
       - title: About Us
         url: /pie/about-us
+      - title: Events in 2025
+        url: /pie/events-in-2025/
       - title: Events in 2024
         url: /pie/events-in-2024/
       - title: Events in 2023
         url: /pie/events-in-2023/
-      - title: Events in 2022
-        url: /pie/events-in-2022
       - title: Ongoing programmes
         url: /pie/ongoing-programmes
       - title: PiE Connect

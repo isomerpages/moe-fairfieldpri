@@ -1,6 +1,6 @@
 ---
 title: Events in 2025
-permalink: /events-in-2025/
+permalink: /pie/events-in-2025/
 variant: tiptap
 description: ""
 ---

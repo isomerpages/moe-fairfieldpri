@@ -14,3 +14,11 @@ parents were also initiated into primary school life and the Fairfield
 culture with a Parenting Talk. This was followed by networking among the
 parents by their respective classes.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem12.jpg">
+</div>
+<p></p>

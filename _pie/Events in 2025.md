@@ -37,3 +37,24 @@ foyer with festive cheer.</p>
 <p></p>
 <p><strong>P1 Library Orientation (7 February 2025)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem17.jpg">
+</div>
+<p></p>
+<p><strong>P1 &amp; P6 SSC Photo Taking (10 &amp; 11 February 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem18.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem19.jpg">
+</div>
+<p></p>
+<p><strong>P1 Pal Touch Typing (3 March to 4 April 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem110.jpg">
+</div>
+<p></p>
+<p><strong>P4 &amp; P6 Sports Carnival (14 March 2025)</strong>
+</p>

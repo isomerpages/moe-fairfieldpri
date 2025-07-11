@@ -29,3 +29,6 @@ foyer with festive cheer.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem15.jpg">
 </div>
 <p></p>
+<p><strong>P3 Swim Chaperone (20 January to 29 April 2025)</strong>
+</p>
+<p></p>

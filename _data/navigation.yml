@@ -52,8 +52,8 @@ links:
         url: /parents/moe-guidelines-for-school-home-partnership/
   - title: Students
     collection: students
-  - title: PiE
-    url: /pie
+  - title: Events in 2025
+    url: /pie/events-in-2025/
     sublinks:
       - title: About Us
         url: /pie/about-us
@@ -61,8 +61,6 @@ links:
         url: /pie/events-in-2024/
       - title: Events in 2023
         url: /pie/events-in-2023/
-      - title: Events in 2022
-        url: /pie/events-in-2022
       - title: Ongoing programmes
         url: /pie/ongoing-programmes
       - title: PiE Connect
@@ -71,6 +69,8 @@ links:
         url: /pie/family-at-fairfield
       - title: Sign up for PiE
         url: https://tinyurl.com/pie-eventsReg2025
+      - title: New submenu
+        url: /permalink
   - title: Alumni
     url: https://fairfieldalumni.org.sg/
     sublinks:

@@ -58,3 +58,58 @@ foyer with festive cheer.</p>
 <p></p>
 <p><strong>P4 &amp; P6 Sports Carnival (14 March 2025)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem111.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem112.jpg">
+</div>
+<p></p>
+<p><strong>P3 Supermarket Trip (27 March to 25 April 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem113.jpg">
+</div>
+<p></p>
+<p><strong>Makers@Heart Recess Program (Every Friday Term 2 to Term 4 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem114.jpg">
+</div>
+<p></p>
+<p><strong>P3 Swim Carnival (28 &amp; 29 April 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem115.jpg">
+</div>
+<p></p>
+<p><strong>P6 Chinese Oral Support Group (29 April 2025 to 24 July 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem116.jpg">
+</div>
+<p></p>
+<p><strong>P4 &amp; P6 NAPFA (05 May to 16 May 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem117.jpg">
+</div>
+<p></p>
+<p><strong>Arts Excite Concert (15 May 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem118.jpg">
+</div>
+<p></p>
+<p><strong>Mother Tongue Fortnight Recess (27 May 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem119.jpg">
+</div>
+<p></p>
+<p><strong>Koobits Recess Activity (28 May 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem120.jpg">
+</div>
+<p></p>

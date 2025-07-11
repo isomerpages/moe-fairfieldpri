@@ -4,7 +4,7 @@ permalink: /events-in-2025/
 variant: tiptap
 description: ""
 ---
-<p><strong>P1 Shepherding / P1 Parents Welcome Tea (03, 06 and 07 January 2025)</strong>
+<p><strong>P1 Shepherding / P1 Parents Welcome Tea (3rd, 6th and 7th January 2025)</strong>
 </p>
 <p>PiE parents were all ready to extend a warm welcome to the new P1s and
 their parents into the Fairfield Family. Over the first three days of school,

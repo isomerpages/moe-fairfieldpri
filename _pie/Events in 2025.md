@@ -35,3 +35,5 @@ foyer with festive cheer.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem16.jpg">
 </div>
 <p></p>
+<p><strong>P1 Library Orientation (7 February 2025)</strong>
+</p>

@@ -14,5 +14,5 @@ sections:
         - title: NewsLink
           description: ""
           url: /parents/newslink/
-      background: /images/2025/Banner_T3_2025.gif
+      background: /images/2025/Banner_T3_2025_v2.gif
 ---

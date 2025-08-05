@@ -11,7 +11,7 @@ variant: markdown
 <ul>
 <li>Parents are on overseas posting; OR</li>
 <li>Parents are attending to their business overseas; OR</li>
-<li>Parents are going overseas for a company-related training/further studies.&nbsp;</li>
+<li>Parents are going overseas for a company-related training&nbsp;</li>
 </ul>
 <p>ii) Parents can submit the LOA application form and supporting documents such as Overseas Posting Letter by the company, overseas school admission letter, overseas residential address etc. via FormSG as shown above to the school’s General Office.</p>
 <p>iii) Please apply at least one month prior to planned departure date to allow ample time for processing.</p>

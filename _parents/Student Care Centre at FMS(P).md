@@ -9,4 +9,3 @@ variant: markdown
 <p>To find out more about the SCC, please refer to the following document:<br><a href="/files/2025/2026_Student_Care_Centre_FMS_P__FAQs" target="">2026 Student Care Centre@FMS(P) FAQs</a></p>
 <p>Should you wish to provide feedback or have queries, please email&nbsp;<a href="mailto:fmsp@moe.edu.sg" target="">fmsp@moe.edu.sg</a>&nbsp;and cc the School SCC Liaisons, Mrs Lim Wei Wei at&nbsp;<a href="mailto:chua_wei_wei@moe.edu.sg" target="">chua_wei_wei@moe.edu.sg</a> and Ms Chan Sew Yoon at&nbsp;<a href="mailto:chan_sew_yoon@moe.edu.sg" target="">chan_sew_yoon@moe.edu.sg</a></p>
 
-[test](/files/2025/2026_SCC_FMS_P__Application_Letter.pdf)

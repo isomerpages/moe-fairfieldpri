@@ -61,4 +61,3 @@ and development.</p>
 <p>Serving with you,
 <br><strong>Mrs Soh Mei Foong</strong>
 <br>Principal</p>
-<p></p>

@@ -5,50 +5,60 @@ description: ""
 variant: tiptap
 ---
 <p>Dear Parents and Guardians,</p>
-<p>Term 2 has been a vibrant celebration of learning, growth, and community
-spirit at Fairfield. From our Arts Excite! concert showcasing our students'
-artistic talents, to the meaningful celebration of International Friendship
-Day, and the engaging Mother Tongue Language Fortnight activities, our
-students have embraced diverse opportunities to develop both their competencies
-and character. I am particularly heartened to see our students demonstrating
-resilience, creativity, and teamwork across these various platforms.</p>
-<p>Our 2025 theme ‘Love is in the Sunshine’ has truly come alive through
-the generous spirit of our Fairfield community. The overwhelming response
-to both the Methodist Welfare Services Hong Bao Donation Drive, where we
-contributed 15% of the national collection, and the Methodist Walk, where
-we exceeded our fundraising target, reflects our community's deep commitment
-to serving others. These achievements are more than just numbers – they
-are powerful learning moments that help our students understand the importance
-of empathy and social responsibility. I am especially proud of how our
-Primary 4 students represented our school at the Methodist Walk, displaying
-exemplary behaviour and supporting one another throughout the journey.</p>
-<p>As we continue to focus on building a positive school tone this year,
-I am encouraged to see our students increasingly embracing values of respect,
-integrity, and empathy in their daily interactions. Whether it's through
-their participation in Earth Week activities, demonstrating cyber wellness
-awareness, or supporting their peers during various school events, our
-students are learning that true excellence encompasses both academic achievement
-and character development.</p>
-<p>As we journey into Term 3, we seek to further strengthen our partnership
-with parents in nurturing our students' character and social-emotional
-development. A positive school tone is built on daily choices and interactions,
-and every member of our community plays a vital role. We encourage parents
-to engage in regular conversations with your children about showing kindness,
-managing emotions well, and making responsible choices. When our students
-see these values modelled consistently both at home and in school, they
-are better equipped to develop into resilient individuals who can relate
-well to others and contribute positively to the community. Together, we
-can create an environment where every Fairsian feels safe, respected, and
-empowered to be their best self.</p>
-<p>I would like to express my heartfelt appreciation to our dedicated teachers
-who have worked tirelessly to design and deliver enriching learning experiences,
-and to our parent community for your unwavering support in nurturing our
-students to be future-ready individuals who serve God and the community
-with purpose and joy.</p>
-<p><em>&nbsp;“Therefore encourage one another and build one another up, just as you are doing.”&nbsp; 1 Thessalonians 5:11</em>
+<p>As we conclude Term 3 and welcome Term 4, I am delighted to share with
+you the remarkable journey our students have embarked on this term.</p>
+<p><strong>Celebrating Term 3 Achievements</strong>
+<br>Term 3 has been truly event-packed, with our students demonstrating outstanding
+achievements across diverse areas. From co-curricular activities (CCA)
+spanning various categories—the arts, NSG (National School Games), uniformed
+groups, to songwriting and various students’ performances at school events—our
+Fairsians have showcased competencies that extend far beyond technical
+skills. They have embodied diligence, resilience, creativity, and teamwork
+in everything they do.</p>
+<p>However, what fills me with the greatest pride is witnessing our students
+demonstrate kindness and love through their service to the community and
+God. Through our Makers and Sustainability programme, we have nurtured
+in them the importance of caring for our earth and practising sustainable
+living. Our students have enthusiastically participated in Makers@Heart
+recess programmes, breathing new life into recycled items while exercising
+their creativity.</p>
+<p>In celebration of Founder's Day, our students, with tremendous support
+from parents, contributed generously through our OAKS (Our Acts of Kindness
+and Service) programme. This year, we extended our giving beyond our support
+staff to include migrant workers through ItsRainingRaincoats. It was truly
+heartwarming to witness our students expressing appreciation not only through
+physical gifts but also through heartfelt messages they penned themselves.
+Indeed, our students have beautifully exemplified our 2025 theme: ‘Love
+is in the Sunshine’!</p>
+<p><strong>Gratitude to Our Parents-in-Education</strong>
+<br>The enriching activities and programmes that have taken our students beyond
+classroom walls this term would not have been possible without the unwavering
+support of our Partners-in-Education (PiE). From diverse recess programmes
+to learning journeys outside school, your generous contribution of time
+and effort has truly enriched the school experience for all Fairsians.
+Some of our PiE dedicate so much time to supporting us that it resembles
+full-time work! A special mention goes to the group of PiE who set up an
+alfresco-style café one morning to prepare breakfast for our staff in celebration
+of Teachers’ Day. Thank you for making our teachers feel genuinely loved
+and valued.</p>
+<p><strong>Looking Ahead to Term 4</strong>
+<br>As we enter Term 4, the final term of the school year, our focus will
+shift to supporting our students through various academic assessments,
+including the PSLE (Primary School Leaving Examination) for our graduating
+cohort. During this period, we must be mindful not to add unnecessary stress
+through unrealistic expectations. Instead, we recognise that each and every
+child is ‘a gift from God’—unique, with individual needs and aspirations.
+We will love and support them with this understanding at heart.</p>
+<p>Whilst we provide our unwavering support, we also recognise the importance
+of helping our children take ownership of their learning and achievements.
+As we embrace the challenges that Term 4 assessments will bring, we hold
+fast to the assurance that God's grace will be sufficient for our children
+and for us as we journey alongside them.</p>
+<p><strong>Jeremiah 29:11</strong> - <em>"For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, to give you hope and a future."</em>
 </p>
+<p>Thank you for your continued partnership in nurturing our students' growth
+and development.</p>
 <p>Serving with you,
 <br><strong>Mrs Soh Mei Foong</strong>
 <br>Principal</p>
-<p></p>
 <p></p>

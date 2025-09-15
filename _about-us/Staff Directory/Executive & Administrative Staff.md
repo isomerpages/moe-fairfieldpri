@@ -9,7 +9,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Ms Rachel Lee     | Administration Manager     | <a href="mailto:Rachel_Lee@schools.gov.sg" target="">Email</a>     |
 | Ms Jenny Lui     | Administration Manager    | <a href="mailto:lui_yuen_lan@schools.gov.sg" target="">Email</a>     |
-| Mr Seet Eng Kiat     | Administration Executive     | <a href="mailto:Seet_Eng_Kiat@schools.gov.sg" target="">Email</a>     |
+| Mr Xue Yingjie     | Administration Executive     | <a href="mailto:Seet_Eng_Kiat@schools.gov.sg" target="">Email</a>     |
 | Mdm Rozdiyah     | CSO    | <a href="mailto:Rozdiyah_Harun@schools.gov.sg" target="">Email</a>    |
 | Ms Elisabeth     | CSO    | <a href="mailto:elisabeth_lily@schools.gov.sg" target="">Email</a>    |
 | Mr Liew Chin Leong     | Operations Manager     | <a href="mailto:liew_chin_leong@schools.gov.sg" target="">Email</a>     |

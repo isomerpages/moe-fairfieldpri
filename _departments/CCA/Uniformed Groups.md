@@ -6,6 +6,7 @@ third_nav_title: CCA
 variant: markdown
 ---
 <h4><strong>Boys' Brigade</strong></h4>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube-nocookie.com/embed/8sSYr4FCuRU?si=8xz-15VwnuIL-JnV" height="315" width="800"></iframe>
 The 33J Boys’ Brigade Singapore Company is one of the largest Junior Programme companies in Singapore. Across the 4 year programme, our Boys develop as servant leaders with character and compassion: caring and confident; resilient and responsible; thankful and truthful; and disciplined and driven — in word, thought and deed.
 
 The programme cultivates the fruits of goodness and faithfulness in every Boy, to emerge as leaders in their own right. By building their individual capacities through personal mastery modules to communicate and collaborate with their peers, our Primary 3 and 4 grow Spiritually, Physically, Mentally and Emotionally. Our Primary 5 and 6 students take the helm alongside their teachers, seniors and officers to collaboratively cultivate the spirit of unity within Uniformed Groups in Fairfield. These experiences include our Annual Camps, P6 Graduation and Community Outreach events.

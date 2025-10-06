@@ -5,6 +5,8 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/F0il_juOC48?si=8NdR3lHwdQqVT-cE" height="315" width="800"></iframe>
+
 CCA Modules provide students with opportunities to explore and deepen their interests through a wide range of knowledge-based and skills-based activities conducted throughout the year. These modules are guided by the LEAPS framework, which encompasses four key domains: Enrichment, Physical, Aesthetics, and Leadership &amp; Service.
 
 By participating in diverse modules across these domains, students are developed holistically—building a strong foundation for lifelong learning and personal growth.

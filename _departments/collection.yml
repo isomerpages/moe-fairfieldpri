@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - FRAP/Ambassadors.md
       - FRAP/.keep
       - English Language.md
       - Mathematics.md

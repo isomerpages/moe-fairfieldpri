@@ -2,8 +2,6 @@ collections:
   departments:
     output: true
     order:
-      - FRAP/Ambassadors.md
-      - FRAP/.keep
       - English Language.md
       - Mathematics.md
       - Science.md
@@ -33,3 +31,5 @@ collections:
       - CCA/Uniformed Groups.md
       - CCA/CCA Modules.md
       - CCA/Clubs and Societies.md
+      - FRAP/.keep
+      - FRAP/Ambassadors.md

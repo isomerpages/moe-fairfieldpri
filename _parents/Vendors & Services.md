@@ -7,7 +7,7 @@ variant: markdown
 <h4><strong>School Bookshop</strong></h4>
 <p><strong>Pacific Bookstores Pte Ltd</strong></p><strong>Operating hours:</strong>
 <br>Mondays, Tuesdays, Thursdays, Fridays: 8.30am to 3.30pm (school days)<br>Wednesdays: 8.30am to 2.30pm (school days)<br>Lunch hour: 12.00pm to 12.30pm (closed)
-<p><strong>Contact No:</strong> 86002038 (Whatsapp)
+<p><strong>Contact No:</strong> 94792810 (Whatsapp)
 <br>You may Whatsapp to contact staff. Calling is discouraged. Phone will be switched on only during bookshop’s operating hours. </p>
 <p>Please contact the Head Office when the school bookshop is closed.</p><strong>Head Office Phone :</strong> 6464 0111
 <br><strong>Head Office Fax:</strong> 6464 0110

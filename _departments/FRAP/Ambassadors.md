@@ -25,6 +25,9 @@ third_nav_title: FRAP
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025/FRAP/1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/FRAP/2.jpg">
+</div>
 <p></p>
 <h2><strong><u>Special Interest Projects</u></strong></h2>
 <p></p>

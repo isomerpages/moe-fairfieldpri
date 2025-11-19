@@ -29,9 +29,17 @@ third_nav_title: FRAP
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c1fmRrzdBI4?si=O-MG4UFXKdy1LSip"></iframe>
 </div>
 <h2><strong><u>Videos</u></strong></h2>
-<p>Under construction</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aU0hGUVJodg?si=2N-48EuqSVM8WMNg"></iframe>
+</div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fsaJSqLgHDA?si=SXaBC-iMB9s0mpVL"></iframe>
+</div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zbyZPrn6f84?si=sOTOZw_yqdSycZSS"></iframe>
+</div>
 <h2><strong><u>Stills &amp; Captions</u></strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2025/FRAP/1.jpg">

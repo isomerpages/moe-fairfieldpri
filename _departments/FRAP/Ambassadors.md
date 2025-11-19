@@ -17,6 +17,17 @@ third_nav_title: FRAP
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/a7Bq8hjNuCg?si=OQWdbA_kmE1XbuAi"></iframe>
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/zRkVqLkBDRY?si=eEDhijqTrM0UW7-T"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/F6QjeQcvyzQ?si=JqndWfsV_4yNsmna"></iframe>
+</div>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/c1fmRrzdBI4?si=O-MG4UFXKdy1LSip"></iframe>
+</div>
 <h2><strong><u>Videos</u></strong></h2>
 <p>Under construction</p>
 <p></p>

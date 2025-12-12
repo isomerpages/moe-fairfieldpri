@@ -8,5 +8,6 @@ variant: markdown
 | Name | Designation | Email |
 | -------- | -------- | -------- |
 Mrs Soh Mei Foong     | Principal     | <a href="mailto:fmsp@moe.edu.sg" target="">Email</a>     |
-| Mrs Yap Tsui Lan     | Vice-Principal     | <a href="mailto:fmsp@moe.edu.sg" target="">Email</a>     |
-| Mr Tony Kng     | Vice-Principal     | <a href="mailto:fmsp@moe.edu.sg" target="">Email</a>     |
+| Mrs Yap Tsui Lan     | Vice-Principal    | <a href="mailto:fmsp@moe.edu.sg" target="">Email</a>     |
+| Mr Tony Kng     | Vice-Principal    | <a href="mailto:fmsp@moe.edu.sg" target="">Email</a>     |
+| Mr &nbsp;Boh Hong Jik     | Vice-Principal (Administration)    | <a href="mailto:fmsp@moe.edu.sg" target="">Email</a>     |

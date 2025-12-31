@@ -5,59 +5,72 @@ description: ""
 variant: tiptap
 ---
 <p>Dear Parents and Guardians,</p>
-<p>As we conclude Term 3 and welcome Term 4, I am delighted to share with
-you the remarkable journey our students have embarked on this term.</p>
-<p><strong>Celebrating Term 3 Achievements</strong>
-<br>Term 3 has been truly event-packed, with our students demonstrating outstanding
-achievements across diverse areas. From co-curricular activities (CCA)
-spanning various categories—the arts, NSG (National School Games), uniformed
-groups, to songwriting and various students’ performances at school events—our
-Fairsians have showcased competencies that extend far beyond technical
-skills. They have embodied diligence, resilience, creativity, and teamwork
-in everything they do.</p>
-<p>However, what fills me with the greatest pride is witnessing our students
-demonstrate kindness and love through their service to the community and
-God. Through our Makers and Sustainability programme, we have nurtured
-in them the importance of caring for our earth and practising sustainable
-living. Our students have enthusiastically participated in Makers@Heart
-recess programmes, breathing new life into recycled items while exercising
-their creativity.</p>
-<p>In celebration of Founder's Day, our students, with tremendous support
-from parents, contributed generously through our OAKS (Our Acts of Kindness
-and Service) programme. This year, we extended our giving beyond our support
-staff to include migrant workers through ItsRainingRaincoats. It was truly
-heartwarming to witness our students expressing appreciation not only through
-physical gifts but also through heartfelt messages they penned themselves.
-Indeed, our students have beautifully exemplified our 2025 theme: ‘Love
-is in the Sunshine’!</p>
-<p><strong>Gratitude to Our Parents-in-Education</strong>
-<br>The enriching activities and programmes that have taken our students beyond
-classroom walls this term would not have been possible without the unwavering
-support of our Partners-in-Education (PiE). From diverse recess programmes
-to learning journeys outside school, your generous contribution of time
-and effort has truly enriched the school experience for all Fairsians.
-Some of our PiE dedicate so much time to supporting us that it resembles
-full-time work! A special mention goes to the group of PiE who set up an
-alfresco-style café one morning to prepare breakfast for our staff in celebration
-of Teachers’ Day. Thank you for making our teachers feel genuinely loved
-and valued.</p>
-<p><strong>Looking Ahead to Term 4</strong>
-<br>As we enter Term 4, the final term of the school year, our focus will
-shift to supporting our students through various academic assessments,
-including the PSLE (Primary School Leaving Examination) for our graduating
-cohort. During this period, we must be mindful not to add unnecessary stress
-through unrealistic expectations. Instead, we recognise that each and every
-child is ‘a gift from God’—unique, with individual needs and aspirations.
-We will love and support them with this understanding at heart.</p>
-<p>Whilst we provide our unwavering support, we also recognise the importance
-of helping our children take ownership of their learning and achievements.
-As we embrace the challenges that Term 4 assessments will bring, we hold
-fast to the assurance that God's grace will be sufficient for our children
-and for us as we journey alongside them.</p>
-<p><strong>Jeremiah 29:11</strong> - <em>"For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, to give you hope and a future."</em>
+<p><strong>‘Strong and Courageous’ for 2026</strong>
 </p>
-<p>Thank you for your continued partnership in nurturing our students' growth
-and development.</p>
+<p>As we welcome the new year, I am delighted to share with you our theme
+for 2026: ‘Strong and Courageous’ drawn from 2 Timothy 1:7 ‘For God gave
+us a spirit not of fear but of power and love and self-control.’ This theme
+builds naturally upon our theme for 2025, ‘Love is in the Sunshine’, which
+focused on God's love and protection, and our students exercising their
+love for parents, siblings, teachers and friends.</p>
+<p><strong>Why ‘Strong and Courageous’ for 2026?</strong>
+</p>
+<p>Building on the foundation of knowing God's love, the theme of ‘Strong
+and Courageous’ now calls our students to step forward with confidence
+and courage. In today's complex world, our students face numerous challenges
+as they navigate their learning journey, build relationships and develop
+their character. However, God has not given us a spirit of fear. Instead,
+He has given us power, love and self-control. This means our students can
+face any challenges with courage.</p>
+<p><strong>What does ‘Strong and Courageous’ look like?</strong>
+</p>
+<p>When our students face a difficult test or struggle to understand a new
+topic, they can be strong and courageous. They do not need to fear because
+they are empowered and can take ownership to keep trying and to overcome
+challenges. With this courage, they can stay hopeful and positive even
+when learning feels hard.</p>
+<p>As our students meet new classmates or teachers, they can be strong and
+courageous in choosing to love others. This means having the courage to
+get to know people who might be different from them. It means being empathetic
+towards them so that they will continue to learn from others' views and
+perspectives. When it is not always easy to be kind and understanding,
+they can still choose to do so. When our students do that, they help build
+a caring and loving school where everyone feels welcome.</p>
+<p>With lessons in school and parents’ loving support at home, our students
+can be strong and courageous to be more discerning in their choice of words
+and actions. God has given them self-control, which means they can exercise
+self-discipline and take charge of their own learning. They can choose
+to work hard, play well and help others. They can be wise about how they
+spend their time and careful about how they treat people.</p>
+<p><strong>Changes in the Fairfield Family</strong>
+</p>
+<p>As we start this new year, we also acknowledge some important changes
+to our school community. We say goodbye to some wonderful teachers who
+have served our school well:</p>
+<p>Mrs Julie Yuan (Head of Department/Special Educational Needs)
+<br>Mrs Goh Xinyi (Senior Teacher/Science)
+<br>Miss Sofia Parkash (Head of Department/English Languafe)
+<br>Mrs Tay Shu Yi (Head of Department/Science)
+<br>Ms Arvie Guaring (Teacher)
+<br>Mr Chan Ta Hoong (Teacher)</p>
+<p>We thank God for their faithful service and pray for His blessings as
+they begin new chapters in their lives.</p>
+<p>At the same time, we warmly welcome new members to our Fairfield family:</p>
+<p>Mr Boh Hong Jik, as Vice-Principal Administration
+<br>Ms Francesca Wah, as Head of Department/English Language
+<br>Mr Peter Chutatape, Lead Teacher/English Language
+<br>Ms Angeline Chua, Teacher
+<br>Mrs Dorcas Chan, Teacher</p>
+<p><strong>Our Partnership</strong>
+</p>
+<p>As we embark on this exciting year together, we need your continued support
+and partnership to ensure our students enjoy a meaningful learning journey
+in school. Please encourage our students to be strong and courageous even
+at home. Remind them that God loves them and has equipped them with everything
+they need. Together, we can help them grow into young people who enjoy
+learning, have confidence, and are hopeful about the future.</p>
+<p>My colleagues and I would like to wish you Happy New Year and have a blessed
+2026 ahead! We look forward to working with you.</p>
 <p>Serving with you,
 <br><strong>Mrs Soh Mei Foong</strong>
 <br>Principal</p>

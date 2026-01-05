@@ -113,15 +113,15 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Chen Siyun</strong><strong>&nbsp;</strong><strong><a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Tan Hue</strong><strong>&nbsp;</strong><strong><a href="mailto:" target="">Email</a><br></strong>Class 3C</p>
+<p><strong>Ms Harshini Ganapathy</strong><strong>&nbsp;</strong><strong><a href="mailto:harshini_ganapathy@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Ann Tham</strong><strong>&nbsp;</strong><strong><a href="mailto:ann_tan_geok_lin@moe.edu.sg" target="">Email</a><br></strong>Class 3C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Goh Xinyi</strong><strong>&nbsp;</strong><strong><a href="mailto:soh_xinyi@moe.edu.sg" target="">Email</a><br></strong><strong>Mr On Tai Jim</strong><strong>&nbsp;</strong><strong><a href="mailto:on_tai_jim@moe.edu.sg" target="">Email</a><br></strong>Class 3D</p>
+<p><strong>Ms Sharon Loh</strong><strong>&nbsp;</strong><strong><a href="mailto:loh_sing_sharon_a@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Fu Siqiang</strong><strong>&nbsp;</strong><strong><a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a><br></strong>Class 3D</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Arvie Guaring</strong><strong>&nbsp;</strong><strong><a href="mailto:guaring_arvie_jean_balon@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Zhang Luyao</strong><strong>&nbsp;</strong><strong><a href="mailto:zhang_luyao@moe.edu.sg" target="">Email</a><br></strong>Class 3E</p>
+<p><strong>Ms Chiu Kit Ying</strong><strong>&nbsp;</strong><strong><a href="mailto:chiu_kit_ying@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Teh Jing Hurng</strong><strong>&nbsp;</strong><strong><a href="mailto:teh_jing_hurng@moe.edu.sg" target="">Email</a><br></strong>Class 3E</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Cecilia Lee</strong><strong>&nbsp;</strong><strong><a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Geetha Rajendran</strong><strong>&nbsp;</strong><strong><a href="mailto:geetha_rajendran@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;3F</p>

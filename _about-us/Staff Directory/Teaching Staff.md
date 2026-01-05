@@ -28,7 +28,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mr Kenneth Ong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_kai_min_kenneth@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Angeline Lim-Chow Lye Ngor</strong><strong>&nbsp;</strong><strong><a href="mailto:chow_lye_ngor@moe.edu.sg" target="">Email</a><br></strong>Class 1E</p>
+<p><strong>Mr Kenneth Ong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_kai_min_kenneth@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Angeline Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:chow_lye_ngor@moe.edu.sg" target="">Email</a><br></strong>Class 1E</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Tan Hwee Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:koh_hwee_chin@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chua Huiman</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br></strong>Class 1F</p>
@@ -36,8 +36,8 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mr Abdul Hadi Bakar</strong><strong>&nbsp;</strong><strong><a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">Email</a><br></strong>
-<strong>Mrs Angie Chng</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_wui_min_angie@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
+<p><strong>Mrs Michelle Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:ng_sook_ling@moe.edu.sg" target="">Email</a><br></strong>
+<strong>Mr Daniel Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:Chan_Weng_Kin_Daniel@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Tiffany Ong</strong>&nbsp;<strong><a href="mailto:ong_bee_hoon@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>

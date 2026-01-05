@@ -20,10 +20,10 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Serena Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Cheryl Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">Email</a><br></strong>Class 1C</p>
+<p><strong>Ms Tan Yee Won</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_yee_won@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Jacquelin Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_su_hwee_jacquelin@moe.edu.sg" target="">Email</a><br></strong>Class 1C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Chan Hwee Binn</strong><strong>&nbsp;</strong><strong><a href="mailto:seah_hwee_binn@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Melissa Timmer</strong><strong>&nbsp;</strong><strong><a href="mailto:" target="">Email</a><br></strong>Class 1D</p>
+<p><strong>Ms Nurul Amilia</strong><strong>&nbsp;</strong><strong><a href="mailto:nurul_amilia_roshamil@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Yaw Siok Ching</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_siok_ching@moe.edu.sg" target="">Email</a><br></strong>Class 1D</p>
 </td>
 </tr>
 <tr>

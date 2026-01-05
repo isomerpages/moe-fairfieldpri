@@ -208,7 +208,7 @@ variant: markdown
 <p><strong>Ms Melissa Yeo</strong><strong>&nbsp;</strong><strong><a href="mailto:yeo_hui_kiang_melissa@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Kenneth Kueh</strong><strong>&nbsp;</strong><strong><a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a><br></strong>Class 5G</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Joy Malik</strong><strong>&nbsp;</strong><strong><a href="mailto:joy_amisha_keshyap@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Regina Tay</strong><strong>&nbsp;</strong><strong><a href="mailto:tay_chin-na_regina@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;5H</p>
+<p><strong>Ms Wang Mengfei</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_mengfei@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Michelle Yap</strong><strong>&nbsp;</strong><strong><a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a><br></strong>Class 5H</p>
 </td>
 </tr>
 </tbody>

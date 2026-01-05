@@ -12,10 +12,10 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Sing-Ling Ping</strong><strong>&nbsp;</strong><strong><a href="mailto:ling_ping@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Shanie Wu</strong><strong>&nbsp;</strong><strong><a href="mailto:wu_lin_ying@moe.edu.sg" target="">Email</a><br></strong>Class 1A</p>
+<p><strong>Mr John Chew</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Iris Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:tay_wan_peng_iris@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chow Wei Yi</strong><strong>&nbsp;</strong><strong><a href="mailto:chow_wei_yi@moe.edu.sg" target="">Email</a><br></strong>Class 1A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Jenny Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:jenny_ang@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Ng Kah Mun</strong><strong>&nbsp;</strong><strong><a href="mailto:ng_kah_mun@moe.edu.sg" target="">Email</a><br></strong>Class 1B</p>
+<p><strong>Ms Chen Li Chuan</strong><strong>&nbsp;</strong><strong><a href="mailto:chen_li_chuan@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Liu Lijia</strong><strong>&nbsp;</strong><strong><a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a><br></strong>Class 1B</p>
 </td>
 </tr>
 <tr>

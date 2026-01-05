@@ -129,7 +129,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mr Kenneth Kueh</strong><strong>&nbsp;</strong><strong><a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Esther Thon</strong><strong>&nbsp;</strong><strong><a href="mailto:thon_sian_fei@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;3G</p>
+<p><strong>Mrs Dorcas Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:koh_kah_fong_dorcas@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Esther Thon</strong><strong>&nbsp;</strong><strong><a href="mailto:koh_kah_fong_dorcas@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;3G</p>
 </td>
 <td style="width: 50%;">&nbsp;</td>
 </tr>

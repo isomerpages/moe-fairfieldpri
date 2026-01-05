@@ -197,7 +197,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mr Joel Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:joel_lim_en-rui@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chen Li Chuan</strong><strong>&nbsp;</strong><strong><a href="mailto:chen_li_chuan@moe.edu.sg" target="">Email</a><br></strong>Class 5E</p>
+<p><strong>Ms Wang Yaling</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_yaling@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Jacelyn Kwan</strong><strong>&nbsp;</strong><strong><a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a><br></strong>Class 5E</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Ms Natalie Kee</strong><strong>&nbsp;<a href="mailto:natalie_kee_hui_yi@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Wang Shuai</strong><strong>&nbsp;<a href="mailto:wang_shuai@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;5F</p>

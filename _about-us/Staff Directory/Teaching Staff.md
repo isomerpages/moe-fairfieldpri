@@ -31,7 +31,7 @@ variant: markdown
 <p><strong>Mr Kenneth Ong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_kai_min_kenneth@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Angeline Lim-Chow Lye Ngor</strong><strong>&nbsp;</strong><strong><a href="mailto:chow_lye_ngor@moe.edu.sg" target="">Email</a><br></strong>Class 1E</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Lim Wei Wei</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Wong Yek Yue</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_yek_yue@moe.edu.sg" target="">Email</a><br></strong>Class 1F</p>
+<p><strong>Mrs Tan Hwee Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:koh_hwee_chin@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chua Huiman</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_huiman@moe.edu.sg" target="">Email</a><br></strong>Class 1F</p>
 </td>
 </tr>
 <tr>

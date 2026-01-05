@@ -224,7 +224,7 @@ variant: markdown
 <p><strong>Mrs Jessica Loh</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Amy Soh</strong><strong>&nbsp;</strong><strong><a href="mailto:tang_hung_may@moe.edu.sg" target="">Email</a><br></strong>Class 6A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Tay Shu Yi</strong><strong>&nbsp;</strong><strong><a href="mailto:wee_shu_yi@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Chan Ta Hoong</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_ta_hoong@moe.edu.sg" target="">Email</a><br></strong>Class 6B</p>
+<p><strong>Ms Pang Xin</strong><strong>&nbsp;</strong><strong><a href="mailto:pang_xin@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Amelia Goh</strong><strong>&nbsp;</strong><strong><a href="mailto:goh_tyen_hui_amelia@moe.edu.sg" target="">Email</a><br></strong>Class 6B</p>
 </td>
 </tr>
 <tr>

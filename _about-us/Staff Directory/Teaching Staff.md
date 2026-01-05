@@ -40,7 +40,7 @@ variant: markdown
 <strong>Mr Daniel Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:Chan_Weng_Kin_Daniel@moe.edu.sg" target="">Email</a><br></strong>Class 1G</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Tan Wee Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_wee_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Tiffany Ong</strong>&nbsp;<strong><a href="mailto:ong_bee_hoon@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
+<p><strong>Mdm Chan Man Pui</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_man_pui@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Morna Wee</strong>&nbsp;<strong><a href="mailto:morna_tan_wang_lin@moe.edu.sg" target="">Email</a><br></strong>Class 1H</p>
 </td>
 </tr>
 <tr>

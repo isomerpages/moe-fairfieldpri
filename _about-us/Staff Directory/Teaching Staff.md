@@ -200,8 +200,8 @@ variant: markdown
 <p><strong>Ms Wang Yaling</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_yaling@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Jacelyn Kwan</strong><strong>&nbsp;</strong><strong><a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a><br></strong>Class 5E</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Natalie Kee</strong><strong>&nbsp;<a href="mailto:natalie_kee_hui_yi@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Wang Shuai</strong><strong>&nbsp;<a href="mailto:wang_shuai@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;5F</p>
-</td>
+<p><strong>Ms Nor Fazylla Md Sanusi</strong><strong>&nbsp;<a href="mailto:nor_fazylla_mohamed_sanusi@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Angeline Chua</strong><strong>&nbsp;<a href="mailto:chua_lay_peng_angeline_a@moe.edu.sg" target="">Email</a><br><strong>Mrs Abbie Tan</strong><strong>&nbsp;<a href="mailto:tan_mui_lan_abbie_a@moe.edu.sg" target="">Email</a><br></strong>Class 5F</strong></p><strong>
+</strong></td>
 </tr>
 <tr>
 <td style="width: 50%;">

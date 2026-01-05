@@ -124,7 +124,7 @@ variant: markdown
 <p><strong>Ms Chiu Kit Ying</strong><strong>&nbsp;</strong><strong><a href="mailto:chiu_kit_ying@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Teh Jing Hurng</strong><strong>&nbsp;</strong><strong><a href="mailto:teh_jing_hurng@moe.edu.sg" target="">Email</a><br></strong>Class 3E</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Cecilia Lee</strong><strong>&nbsp;</strong><strong><a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Geetha Rajendran</strong><strong>&nbsp;</strong><strong><a href="mailto:geetha_rajendran@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;3F</p>
+<p><strong>Mr Soh Wee Lik</strong><strong>&nbsp;</strong><strong><a href="mailto:soh_wee_lik_derrick@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Sandra Hou</strong><strong>&nbsp;</strong><strong><a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a><br></strong>Class 3F</p>
 </td>
 </tr>
 <tr>

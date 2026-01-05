@@ -49,6 +49,5 @@ variant: markdown
 | Department | Name | Email |
 | -------- | -------- | -------- |
 | Mother Tongue Language (Malay &amp; Tamil)    | Mr Zamree Bin Mustapha     | <a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a>     |
-| Information Communications Technology     | Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a>     |
+| EdTech and Knowledge Management     | Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a>     |
 | Innovation     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>    |
-| Student Leadership     | Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a>     |

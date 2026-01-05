@@ -105,7 +105,7 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mr Zamree Mustapha</strong><strong>&nbsp;</strong><strong><a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Grace Wee</strong><strong>&nbsp;</strong><strong><a href="mailto:tay_pei_lyn_grace@moe.edu.sg" target="">Email</a><br></strong>Class 3A</p>
+<p><strong>Mr Raymond Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_kangshun_raymond@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Lee Siu Marn</strong><strong>&nbsp;</strong><strong><a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a><br></strong>Class 3A</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mr Sooraj Prabhodachandran</strong><strong>&nbsp;</strong><strong><a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Ang Bee Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:ang_bee_chin@moe.edu.sg" target="">Email</a><br></strong>Class 3B</p>

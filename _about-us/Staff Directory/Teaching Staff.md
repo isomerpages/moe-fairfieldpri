@@ -192,7 +192,7 @@ variant: markdown
 <p><strong>Ms Claire Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:claire_ling_peck_yan@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Francesca Wah</strong><strong>&nbsp;</strong><strong><a href="mailto:francesca_wah@moe.edu.sg" target="">Email</a><br></strong>Class 5C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Shana Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_li_shan@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Rachel Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:tee_foong_chew@moe.edu.sg" target="">Email</a><br></strong>Class 5D</p>
+<p><strong>Ms Amanda Choo</strong><strong>&nbsp;</strong><strong><a href="mailto:amanda_choo_xuan_yi@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Natasha S. Pannirsilvam</strong><strong>&nbsp;</strong><strong><a href="mailto:natasha_shamine_pannirsilvam@moe.edu.sg" target="">Email</a><br></strong>Class 5D</p>
 </td>
 </tr>
 <tr>

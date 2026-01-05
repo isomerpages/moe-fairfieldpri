@@ -18,7 +18,6 @@ variant: markdown
 | Character &amp; Citizenship Education     | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>    |
 | Student Management (Covering)    | Mr Liu Lijia   | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>    |
 | School Staff Developer     | Ms Chen Siyun     | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>    |
-| Special Educational Needs     | Mrs Julie Yuan     | <a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a>     |
 
 #### YEAR HEADS
 
@@ -42,7 +41,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | English Language    | Mrs Joy Malik     | <a href="mailto:joy_amisha_keshyap@moe.edu.sg" target="">Email</a>     |
 | Mathematics    | Ms Shana Lim Li Shan     | <a href="mailto:lim_li_shan@moe.edu.sg" target="">Email</a>     |
-| Science     | Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">Email</a>     |
+| Science     | Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">Email</a>     |
 | Chinese Language     | Mrs Chan Hwee Binn     | <a href="mailto:seah_hwee_binn@schools.gov.sg" target="">Email</a>     |
 
 #### SUBJECT HEADS

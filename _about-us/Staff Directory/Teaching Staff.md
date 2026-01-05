@@ -245,7 +245,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Kaylan Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:kaylan_huang@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Julia Sa</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a><br></strong>Class 6G</p>
+<p><strong>Mrs Julia Sa</strong><strong>&nbsp;</strong><strong><a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Kaylan Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:kaylan_huang@moe.edu.sg" target="">Email</a><br></strong>Class 6G</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Joy Malik</strong><strong>&nbsp;</strong><strong><a href="mailto:joy_amisha_keshyap@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Regina Tay</strong><strong>&nbsp;</strong><strong><a href="mailto:tay_chin-na_regina@moe.edu.sg" target="">Email</a><br></strong>Class 6H</p>

@@ -154,15 +154,15 @@ variant: markdown
 <p><strong>Ms Chen Siyun</strong><strong>&nbsp;</strong><strong><a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Tan Hue</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_hue_a@moe.edu.sg" target="">Email</a><br></strong>Class 4C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Jacquelin Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_su_hwee_jacquelin@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Claire Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:claire_ling_peck_yan@moe.edu.sg" target="">Email</a><br></strong>Class 4D</p>
+<p><strong>Mr On Tai Jim</strong><strong>&nbsp;</strong><strong><a href="mailto:on_tai_jim@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Mallika Habeeb</strong><strong>&nbsp;</strong><strong><a href="mailto:mallika_begum@moe.edu.sg" target="">Email</a><br></strong>Class 4D</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Ann Tham</strong><strong>&nbsp;<a href="mailto:ann_tan_geok_lin@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Ng Wui Joo</strong><strong>&nbsp;</strong><strong><a href="mailto:chua_wui_joo@moe.edu.sg" target="">Email</a><br></strong>Class 4E</p>
+<p><strong>Mdm Zhang Luyao</strong><strong>&nbsp;<a href="mailto:zhang_luyao@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Cecilia Lee</strong><strong>&nbsp;</strong><strong><a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a><br></strong>Class 4E</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Michelle Yap</strong><strong>&nbsp;</strong><strong><a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Mallika Habeeb</strong><strong>&nbsp;</strong><strong><a href="mailto:mallika_begum@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;4F</p>
+<p><strong>Ms Geetha Rajendran</strong><strong>&nbsp;</strong><strong><a href="mailto:geetha_rajendran@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Mavis Yeo</strong><strong>&nbsp;</strong><strong><a href="mailto:yeo_bee_koon_mavis@moe.edu.sg" target="">Email</a><br></strong>Class 4F</p>
 </td>
 </tr>
 <tr>

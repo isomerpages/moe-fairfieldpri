@@ -70,12 +70,12 @@ variant: markdown
 <p><strong>Ms Cheryl Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Serena Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">Email</a><br></strong>Class 2C</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Ms Chan Sew Yoon</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Kenneth Ong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_kai_min_kenneth@moe.edu.sg" target="">Email</a><br></strong>Class 2D</p>
+<p><strong>Mrs Claire Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:lew_li_chin@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Chan Hwee Binn</strong><strong>&nbsp;</strong><strong><a href="mailto:seah_hwee_binn@moe.edu.sg" target="">Email</a><br></strong>Class 2D</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Yaw Siok Ching</strong><strong>&nbsp;<a href="mailto:tan_siok_ching@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Wang Mengfei</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_mengfei@moe.edu.sg" target="">Email</a><br></strong>Class 2E</p>
+<p><strong>Mr William Ang</strong><strong>&nbsp;<a href="mailto:ang_kia_wei_william@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Rena Tham</strong><strong>&nbsp;</strong><strong><a href="mailto:ho_tze_kim_rena@moe.edu.sg" target="">Email</a><br></strong>Class 2E</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Ms Tay Yee Won</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_yee_won@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Ching Yuk Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:ching_yuk_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Tan Hwee Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:koh_hwee_chin@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;2F</p>

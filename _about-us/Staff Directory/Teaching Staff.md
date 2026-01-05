@@ -45,7 +45,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Sun Xue</strong><strong>&nbsp;</strong><strong><a href="mailto:sun_xue@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Sieow Je Yun</strong><strong>&nbsp;</strong><strong><a href="mailto:sieow_je_yun@moe.edu.sg" target="">Email</a><br></strong>Class 1J</p>
+<p><strong>Mrs Kavitha Deen</strong><strong>&nbsp;</strong><strong><a href="mailto:kavitha_selvam@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Chan Sew Yoon</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a><br></strong>Class 1J</p>
 </td>
 <td style="width: 50%;">&nbsp;</td>
 </tr>

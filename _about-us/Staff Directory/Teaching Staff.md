@@ -108,7 +108,7 @@ variant: markdown
 <p><strong>Mr Raymond Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_kangshun_raymond@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Lee Siu Marn</strong><strong>&nbsp;</strong><strong><a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a><br></strong>Class 3A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mr Sooraj Prabhodachandran</strong><strong>&nbsp;</strong><strong><a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Ang Bee Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:ang_bee_chin@moe.edu.sg" target="">Email</a><br></strong>Class 3B</p>
+<p><strong>Mdm Ching Yuk Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:ching_yuk_ling@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Teo Hui Fang</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a><br></strong>Class 3B</p>
 </td>
 </tr>
 <tr>

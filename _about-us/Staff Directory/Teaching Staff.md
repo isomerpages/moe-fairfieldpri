@@ -240,7 +240,7 @@ variant: markdown
 <p><strong>Mr Joel Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:joel_lim_en-rui@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Liew Yi Shing</strong><strong>&nbsp;</strong><strong><a href="mailto:liew_yi_shing@moe.edu.sg" target="">Email</a><br></strong>Class 6E</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mrs Morna Wee</strong><strong>&nbsp;</strong><strong><a href="mailto:morna_tan_wang_lin@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Raymond Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_kangshun_raymond@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;6F</p>
+<p><strong>Ms Natalie Kee </strong><strong>&nbsp;</strong><strong><a href="mailto:natalie_kee_hui_yi@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Wang Shuai</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_shuai@moe.edu.sg" target="">Email</a><br></strong>Class 6F</p>
 </td>
 </tr>
 <tr>

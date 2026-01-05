@@ -24,7 +24,6 @@ variant: markdown
 | Department | Name | Email |
 | -------- | -------- | -------- |
 | Lower Primary     | Mrs Lim Wei Wei     | <a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a>     |
-| Middle Primary     | Mrs Cecilia Peralta-Lee    | <a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a>     |
 | Upper Primary    | Mrs Jacelyn Kwan     | <a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a>     |
 
 #### ASSISTANT YEAR HEADS
@@ -33,6 +32,7 @@ variant: markdown
 | -------- | -------- | -------- |
 | Lower Primary     | Ms Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a>     |
 | Middle Primary     | Mrs Lee Siu Marn    | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a>     |
+| Middle Primary     | Mrs Cecilia Peralta-Lee    | <a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a>     |
 | Upper Primary     | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a>     |
 
 #### LEVEL HEADS

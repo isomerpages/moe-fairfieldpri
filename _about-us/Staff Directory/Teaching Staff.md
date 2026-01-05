@@ -62,12 +62,12 @@ variant: markdown
 <p><strong>Mdm Shanie Wu</strong><strong>&nbsp;</strong><strong><a href="mailto:wu_lin_ying@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Sing-Ling Ping</strong><strong>&nbsp;</strong><strong><a href="mailto:ling_ping@moe.edu.sg" target="">Email</a><br></strong>Class 2A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mr Daniel Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:Chan_Weng_Kin_Daniel@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Liew Yi Shing</strong>&nbsp;<strong><a href="mailto:liew_yi_shing@moe.edu.sg" target="">Email</a><br></strong>Class 2B</p>
+<p><strong>Ms Jenny Ang</strong><strong>&nbsp;</strong><strong><a href="mailto:jenny_ang@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Ng Kah Mun</strong>&nbsp;<strong><a href="mailto:ng_kah_mun@moe.edu.sg" target="">Email</a><br></strong>Class 2B</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Teo Hui Fang</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_hui_fang@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Natasha S. Pannirsilvam</strong><strong>&nbsp;</strong><strong><a href="mailto:natasha_shamine_pannirsilvam@moe.edu.sg" target="">Email</a><br></strong>Class 2C</p>
+<p><strong>Ms Cheryl Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Serena Chan</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">Email</a><br></strong>Class 2C</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Ms Chan Sew Yoon</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Kenneth Ong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_kai_min_kenneth@moe.edu.sg" target="">Email</a><br></strong>Class 2D</p>

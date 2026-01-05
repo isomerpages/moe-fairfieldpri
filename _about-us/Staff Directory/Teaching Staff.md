@@ -143,15 +143,15 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Julie Yuan</strong><strong>&nbsp;</strong><strong><a href="mailto:julie_phoebe_low@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Harshini Ganapathy</strong><strong>&nbsp;</strong><strong><a href="mailto:harshini_ganapathy@moe.edu.sg" target="">Email</a><br></strong>Class 4A</p>
+<p><strong>Mr Zamree Mustapha</strong><strong>&nbsp;</strong><strong><a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Grace Wee</strong><strong>&nbsp;</strong><strong><a href="mailto:tay_pei_lyn_grace@moe.edu.sg" target="">Email</a><br></strong>Class 4A</p>
 </td>
 <td style="width: 50%;">
-<p><strong>Mr John Chew</strong><strong>&nbsp;</strong><strong><a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Angeline Lim</strong><strong>&nbsp;</strong><strong><a href="mailto:chow_lye_ngor@moe.edu.sg" target="">Email</a><br></strong>Class 4B</p>
+<p><strong>Mr Sooraj Prabhodachandran</strong><strong>&nbsp;</strong><strong><a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Ang Bee Chin</strong><strong>&nbsp;</strong><strong><a href="mailto:ang_bee_chin@moe.edu.sg" target="">Email</a><br></strong>Class 4B</p>
 </td>
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Lee Siu Marn</strong><strong>&nbsp;</strong><strong><a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Sun Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:Sun_Ling@moe.edu.sg" target="">Email</a><br></strong>Class 4C</p>
+<p><strong>Ms Chen Siyun</strong><strong>&nbsp;</strong><strong><a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Tan Hue</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_hue_a@moe.edu.sg" target="">Email</a><br></strong>Class 4C</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Jacquelin Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:ong_su_hwee_jacquelin@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Claire Ling</strong><strong>&nbsp;</strong><strong><a href="mailto:claire_ling_peck_yan@moe.edu.sg" target="">Email</a><br></strong>Class 4D</p>

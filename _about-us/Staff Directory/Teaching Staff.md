@@ -229,7 +229,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Nor Fazylla Md Sanusi</strong><strong>&nbsp;</strong><strong><a href="mailto:nor_fazylla_mohamed_sanusi@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Mavis Yeo</strong><strong>&nbsp;</strong><strong><a href="mailto:yeo_bee_koon_mavis@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Wang Yaling</strong><strong>&nbsp;</strong><strong><a href="mailto:wang_yaling@moe.edu.sg" target="">Email</a><br></strong>Class 6C</p>
+<p><strong>Mr Han Zhijin</strong><strong>&nbsp;</strong><strong><a href="mailto:han_zhijin@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Goh Wan Peng</strong><strong>&nbsp;</strong><strong><a href="mailto:ng_wan_peng@moe.edu.sg" target="">Email</a><br></strong>Class 6C</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mrs Lee Li Tang</strong><strong>&nbsp;</strong><strong><a href="mailto:tang_li_tang@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Amanda Choo</strong><strong>&nbsp;</strong><strong><a href="mailto:amanda_choo_xuan_yi@moe.edu.sg" target="">Email</a><br></strong>Class 6D</p>

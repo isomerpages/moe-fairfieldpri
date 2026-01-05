@@ -167,7 +167,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mdm Chan Man Pui</strong><strong>&nbsp;</strong><strong><a href="mailto:chan_man_pui@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Soh Wee Lik</strong><strong>&nbsp;</strong><strong><a href="mailto:soh_wee_lik_derrick@moe.edu.sg" target="">Email</a><br></strong>Class&nbsp;4G</p>
+<p><strong>Mdm Cheah Yoke Yin</strong><strong>&nbsp;</strong><strong><a href="mailto:cheah_yoke_yin@moe.edu.sg" target="">Email</a><br></strong><strong>Mdm Esther Thon</strong><strong>&nbsp;</strong><strong><a href="mailto:thon_sian_fei@moe.edu.sg" target="">Email</a><br></strong>Class 4G</p>
 </td>
 <td style="width: 50%;">&nbsp;</td>
 </tr>

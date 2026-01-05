@@ -181,10 +181,10 @@ variant: markdown
 <tbody>
 <tr>
 <td style="width: 50%;">
-<p><strong>Mrs Jessica Loh</strong><strong>&nbsp;</strong><strong><a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Amy Soh</strong><strong>&nbsp;</strong><strong><a href="mailto:tang_hung_may@moe.edu.sg" target="">Email</a><br></strong>Class 5A</p>
-</td>
+<p><strong>Mr Peter Chutatape</strong><strong>&nbsp;</strong><strong><a href="mailto:peter_chutatape@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Joy Au</strong><strong>&nbsp;</strong><strong><a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a><br><strong>Ms Mandy Wong</strong><strong>&nbsp;</strong><strong><a href="mailto:wong_jia_wen_mandy_a@moe.edu.sg" target="">Email</a><br></strong>Class 5A</strong></p><strong>
+</strong></td>
 <td style="width: 50%;">
-<p><strong>Ms Pang Xin</strong><strong>&nbsp;<a href="mailto:pang_xin@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Amelia Goh</strong><strong>&nbsp;</strong><strong><a href="mailto:goh_tyen_hui_amelia@moe.edu.sg" target="">Email</a><br></strong>Class 5B</p>
+<p><strong>Mdm Kamariah Abdul Rahim</strong><strong>&nbsp;<a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Lee Li Tang</strong><strong>&nbsp;</strong><strong><a href="mailto:tang_li_tang@moe.edu.sg" target="">Email</a><br></strong>Class 5B</p>
 </td>
 </tr>
 <tr>

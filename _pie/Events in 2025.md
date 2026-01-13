@@ -76,7 +76,12 @@ foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem114.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem114a.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem114b.jpg">
+</div>
 <p><strong>P3 Swim Carnival (28th &amp; 29th April 2025)</strong>
 </p>
 <div class="isomer-image-wrapper">

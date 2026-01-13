@@ -76,7 +76,12 @@ foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem114.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem114a.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem114b.jpg">
+</div>
 <p><strong>P3 Swim Carnival (28th &amp; 29th April 2025)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -113,3 +118,52 @@ foyer with festive cheer.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem120.jpg">
 </div>
 <p></p>
+<p><strong>P2 Digital Literacy (1st July 2025 to 5th September 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem21.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem22.jpg">
+</div>
+<p><strong>Education and Career talk by Parents and Alumni 2025 (2nd July 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem23.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem24.jpg">
+</div>
+<p></p>
+<p><strong>Choir Make Up (24 July 2025 &amp; 29 August 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem25.jpg">
+</div>
+<p>
+<br><strong>Racial Harmony Day (24th July 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem26.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem27.jpg">
+</div>
+<p></p>
+<p><strong>P4 Outdoor Navigation (6th, 12th, 19th &amp; 20th August 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem28.jpg">
+</div>
+<p></p>
+<p><strong>Teacher’s Day Celebration (3rd September 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem29.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem210.jpg">
+</div>
+<p>
+<br>
+</p>

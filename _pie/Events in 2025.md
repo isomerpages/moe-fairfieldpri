@@ -164,8 +164,8 @@ foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem210.jpg">
 </div>
+<p></p>
 <p><strong>P3 Length, Mass, Volume (18th, 19th &amp; 23rd September 2025)</strong>
-<br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem211.jpg">
@@ -173,6 +173,7 @@ foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem212.jpg">
 </div>
+<p></p>
 <p><strong>P1 Games Day (22nd September 2025)</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -196,5 +197,63 @@ foyer with festive cheer.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem218.jpg">
 </div>
 <p>
-<br>
+<br><strong>Post PSLE (10th &amp; 17th October 2025)</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem219.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem220.jpg">
+</div>
+<p>
+<br><strong>Celebrating and Embracing Diversity (31st October, 3rd &amp; 4th November 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem221.jpg">
+</div>
+<p>
+<br><strong>P1 Orientation (7th November 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem222.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem223.jpg">
+</div>
+<p>
+<br><strong>S2 SDT Cluster ECG Fair (14th November 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem224.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem225.jpg">
+</div>
+<p></p>
+<p><strong>P6 Grad-Tea-Tude (20th November 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem226.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem227.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem228.jpg">
+</div>
+<p>
+<br><strong>Positive Star Crochet Blessing Project for P6 (October 2024 to August 2025)</strong>
+<br>This is the first year our parents have come together to crochet Positive
+Stars for our P6 students, as a way to bless them and show our support
+during their PSLE year. Each star is made with care, encouragement, and
+well wishes for the journey ahead.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem229.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem230.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem231.jpg">
+</div>
+<p></p>

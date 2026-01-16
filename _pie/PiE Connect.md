@@ -14,15 +14,8 @@ ideas come to life!&nbsp;</p>
 <p>Email us at&nbsp;<a href="mailto:FMSP.pie@gmail.com" rel="noopener noreferrer nofollow" target="_blank">FMSP.pie@gmail.com</a>
 </p>
 <h4><strong>Past Activities</strong></h4>
-<p><strong>Engagement Walk (23 Febuary 2024)</strong>
+<p><strong>Engagement Walk (21st February 2025)</strong>
 </p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Engagement Walk (23 Ferbuary 2024)" src="/images/2025/Pie/Pieconnect20251.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Engagement Walk (23 February 2024)" src="/images/2025/Pie/Pieconnect20252.jpg">
-</div>
 <p><strong>Engagement Walk (29 April 2024)&nbsp;</strong>
 </p>
 <div class="isomer-image-wrapper">

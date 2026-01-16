@@ -3,6 +3,7 @@ title: CCE
 permalink: /about-us/departments/cce/
 description: ""
 third_nav_title: CCE
+variant: tiptap
 ---
 <h4><strong>Character and Citizenship Education (CCE)
 </strong></h4>
@@ -14,31 +15,31 @@ CCE is an integral element as part of our school’s holistic development of our
 
 **1\. Form Teacher Guidance Periods (FTGP) and CCE Lessons (Mother Tongue)**
 
-Students undertake these lessons weekly where they are taught values and social emotional skills explicitly e.g. understanding emotions and how to regulate them, learning how to manage relationships, developing a sense of purpose in life. 
+Students undertake these lessons weekly where they are taught values and social emotional skills explicitly e.g. understanding emotions and how to regulate them, learning how to manage relationships, developing a sense of purpose in life.&nbsp;
 
   
 
 **2\. National Education (NE)**
 
-Students participate in a range of school efforts for them to experience and explore our national identity as Singaporeans, understand realities and challenges unique to our nation, and foster a sense of hope and belonging to Singapore. 
+Students participate in a range of school efforts for them to experience and explore our national identity as Singaporeans, understand realities and challenges unique to our nation, and foster a sense of hope and belonging to Singapore.&nbsp;
 
   
 
 **3\. Values In Action (VIA)**
 
-Students participate in a range of VIA activities which enables them to apply values, knowledge and skills. Students will reflect on their experiences and explore how they can continue to contribute meaningfully as individuals. 
+Students participate in a range of VIA activities which enables them to apply values, knowledge and skills. Students will reflect on their experiences and explore how they can continue to contribute meaningfully as individuals.&nbsp;
 
   
 
 **4\. Education and Career Guidance**
 
-ECG equips students with knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work. 
+ECG equips students with knowledge, skills and values to make informed decisions at each key education stage for successful transition from school to further education or work.&nbsp;
 
   
 
 **5\. Cyberwellness (CW)**
 
-CW focuses on the well-being of our students as they navigate cyberspace, equipping them with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace, and be safe and responsible uses of ICT. 
+CW focuses on the well-being of our students as they navigate cyberspace, equipping them with the knowledge and skills to harness the power of ICT for positive purposes, maintain a positive presence in cyberspace, and be safe and responsible uses of ICT.&nbsp;
 
   
 
@@ -54,7 +55,7 @@ SEd enables students to understand the physiological, social and emotional chang
 
   
 
-**8\. Rewards and Recognition (R & R)**
+**8\. Rewards and Recognition (R &amp; R)**
 
 Students who demonstrate consistent, exemplary behaviour are affirmed and recognised through various platforms such as Conduct Grade, Praise Cards, Model Student Award and Edusave Character Award.
 

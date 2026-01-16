@@ -14,24 +14,28 @@ ideas come to life!&nbsp;</p>
 <p>Email us at&nbsp;<a href="mailto:FMSP.pie@gmail.com" rel="noopener noreferrer nofollow" target="_blank">FMSP.pie@gmail.com</a>
 </p>
 <h4><strong>Past Activities</strong></h4>
-<p><strong>Engagement Walk (23 Febuary 2024)</strong>
-</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Engagement Walk (23 Ferbuary 2024)" src="/images/2025/Pie/Pieconnect20251.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Engagement Walk (23 February 2024)" src="/images/2025/Pie/Pieconnect20252.jpg">
-</div>
-<p><strong>Engagement Walk (29 April 2024)&nbsp;</strong>
+<p><strong>Engagement Walk (21st February 2025)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Engagement Walk (29 April 2024)" src="/images/2025/Pie/Pieconnect20253.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem232.jpg">
 </div>
-<p><strong>Movie with Fairfield Family (7 November 2024)</strong>
+<p><strong>Engagement Pickle Ball (19th May 2025)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Movie with Fairfield Family (7 November 2024)" src="/images/2025/Pie/Pieconnect20254.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem233.jpg">
 </div>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem234.jpg">
+</div>
+<p><strong>Engagement Scentopia (13th November 2025)</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem235.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem236.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem237.jpg">
+</div>
 <p></p>

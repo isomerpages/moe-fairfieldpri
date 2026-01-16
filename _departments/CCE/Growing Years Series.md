@@ -21,7 +21,7 @@ variant: markdown
 <li>Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.</li>
 </ol>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" target=""><strong>here</strong></a>&nbsp;for more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of FAIRFIELD METHODIST SCHOOL (PRIMARY)’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of FAIRFIELD METHODIST SCHOOL (PRIMARY)’s Sexuality Education Programme for 2026</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school curriculum.&nbsp;The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;<a href="https://go.gov.sg/moe-sexuality-education-scope" target=""><strong>here</strong></a>&nbsp;for more information on the scope of Sexuality Education in the school curriculum.</p>
 <p>5. The subjects that incorporate topics on sexuality include:</p>
 <ol style="list-style-type: lower-alpha;">
@@ -31,7 +31,7 @@ variant: markdown
 <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
 <p>6. The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require close guidance so that they can respond with discernment to the sexual messages in the media and other sources.</p>
 <p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.</p>
-<p><strong>At FAIRFIELD METHODIST SCHOOL (PRIMARY), the following&nbsp;</strong><strong>Sexuality Education lessons will be taught in&nbsp;<u>2025:</u></strong></p>
+<p><strong>At FAIRFIELD METHODIST SCHOOL (PRIMARY), the following&nbsp;</strong><strong>Sexuality Education lessons will be taught in&nbsp;<u>2026:</u></strong></p>
 <p><strong>Primary 5</strong></p>
 <table>
 <thead>
@@ -116,5 +116,5 @@ variant: markdown
 </tbody></table>
 <h4><strong>Information for Parents</strong></h4><p>8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.</p><p>9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form.</p>
 This form is downloadable [here](/files/2025/2025_SeD_Annex_A.pdf)
-<p>The completed opt-out form is to be submitted by&nbsp;<strong><u>21/02/2025.</u></strong></p>
+<p>The completed opt-out form is to be submitted by&nbsp;<strong><u>22/02/2026.</u></strong></p>
 <p>10. Parents can contact the school at 67788431 or&nbsp;<a href="mailto:fmsp@moe.edu.sg">fmsp@moe.edu.sg</a> for discussion or to seek clarification about the school’s Sexuality Education programme.&nbsp;</p>

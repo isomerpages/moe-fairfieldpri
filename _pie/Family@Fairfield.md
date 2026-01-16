@@ -9,6 +9,7 @@ variant: markdown
 <p><strong>Dads@Fairfield<br></strong>As part of the Dads for Life Fathers @ School movement, Dads@Fairfield aims to get fathers in Fairfield to inspire and be involved in their children’s lives through father-child focused programs and activities.&nbsp;</p>
 <p><strong>Dads@Fairfield Mega Adventure (15 Nov 2025)</strong></p>
 Dads@Fairfield is back again with another bang! Under the Dads for Life umbrella are initiatives such as Dads@School, Back to School with Dad, Eat With Your Family Day and Celebrating Fathers, to encourage fathers to spend time with their families and promote active fathering. Our Fairfield daddies and their children enjoyed a thrilling morning at Mega Adventure Sentosa, tackling climbing challenges and cheering each other on! Through teamwork, courage and perseverance, dads and kids conquered obstacles, strengthened bonds, and created memories.
+
 ![](/images/2025/Pie/pie2025sem238.jpg)
 ![](/images/2025/Pie/pie2025sem239.jpg)
 ![](/images/2025/Pie/pie2025sem240.jpg)

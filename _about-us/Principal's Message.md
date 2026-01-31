@@ -49,7 +49,7 @@ to our school community. We say goodbye to some wonderful teachers who
 have served our school well:</p>
 <p>Mrs Julie Yuan (Head of Department/Special Educational Needs)
 <br>Mrs Goh Xinyi (Senior Teacher/Science)
-<br>Miss Sofia Parkash (Head of Department/English Languafe)
+<br>Miss Sofia Parkash (Head of Department/English Language)
 <br>Mrs Tay Shu Yi (Head of Department/Science)
 <br>Ms Arvie Guaring (Teacher)
 <br>Mr Chan Ta Hoong (Teacher)</p>

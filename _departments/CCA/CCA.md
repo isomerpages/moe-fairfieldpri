@@ -5,8 +5,8 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-<p>FMS(P) CCA programme provides students with a platform to discover their interests and talents, as well as learn core values, social and emotional competencies and emerging 21st Century Competencies. CCA also aims to emphasise social interaction by providing a common space for friendships and social integration amongst students of diverse backgrounds.&nbsp;</p>
-<p>FMS(P) offers 4 broad categories to cater to the needs and interests of our students:</p>
+<p>The FMS(P) CCA programme offers students a valuable platform to explore their interests and talents while nurturing core values, social-emotional competencies and key 21st Century Competencies. Beyond skill development, CCAs at FMS(P) also foster social interaction by creating shared spaces that encourage friendships and promote integration among students from diverse backgrounds.</p>
+<p>To cater to the varied needs and interests of our students, FMS(P) offers CCAs across four broad categories:</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

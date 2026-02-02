@@ -17,11 +17,11 @@ We partner with a multitude of stakeholders to be first for Boys. Join us to bui
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr Raymond Chan (IC)     | <a href="mailto:chan_kangshun_raymond@moe.edu.sg" target="">chan_kangshun_raymond@moe.edu.sg</a>     |
-| Miss Chua Huiman (IC)     | <a href="mailto:chua_huiman@moe.edu.sg" target="">chua_huiman@moe.edu.sg</a>     |
-| Ms Arvie Guaring     | <a href="mailto:guaring_arvie_jean_balon@moe.edu.sg" target="">guaring_arvie_jean_balon@moe.edu.sg</a>     |
-| Ms Mavis Yeo     | <a href="mailto:yeo_bee_koon_mavis@moe.edu.sg" target="">yeo_bee_koon_mavis@moe.edu.sg</a>    |
-| Mr Teh Jing Hurng     | <a href="mailto:teh_jing_hurng@moe.edu.sg" target="">teh_jing_hurng@moe.edu.sg</a>     |
+| Mr Teh Jing Hurng (IC)     | <a href="mailto:teh_jing_hurng@moe.edu.sg" target="">teh_jing_hurng@moe.edu.sg</a>     |
+| Mr Tan Hue (IC)     | <a href="mailto:tan_hue_a@moe.edu.sg" target="">tan_hue_a@moe.edu.sg</a>     |
+| Miss Cheryl Wong     | <a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">wong_cheng_yi_cheryl@moe.edu.sg</a>     |
+| Mrs Amy Soh     | <a href="mailto:tang_hung_may@moe.edu.sg" target="">tang_hung_may@moe.edu.sg</a>    |
+| Mrs Cecilia Lee     | <a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">cecilia_peralta_lee@moe.edu.sg </a>     |
 
 
 

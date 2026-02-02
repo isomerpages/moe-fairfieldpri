@@ -65,10 +65,10 @@ Through participation in the National School Games, the students have the opport
 | Teachers-in-Charge | Email |
 | -------- | -------- |
 | Ms Natasha (IC)     | <a href="mailto:natasha_shamine_pannirsilvam@moe.edu.sg" target="">natasha_shamine_pannirsilvam@moe.edu.sg</a>     |
-| Mrs Goh Wan Peng (IC)     | <a href="mailto:ng_wan_peng@moe.edu.sg" target="">ng_wan_peng@moe.edu.sg</a>     |
-| Ms Jenny Ang     | <a href="mailto:jenny_ang@moe.edu.sg" target="">jenny_ang@moe.edu.sg</a>     |
-| Ms Wang Yaling     | <a href="mailto:wang_yaling@moe.edu.sg" target="">wang_yaling@moe.edu.sg</a>     |
+| Ms Wang Yaling (IC)     | <a href="mailto:wang_yaling@moe.edu.sg" target="">wang_yaling@moe.edu.sg</a>     |
+| Mrs Goh Wan Peng     | <a href="mailto:ng_wan_peng@moe.edu.sg" target="">ng_wan_peng@moe.edu.sg</a>     |
 | Mrs Ng Wui Joo     | <a href="mailto:chua_wui_joo@moe.edu.sg" target="">chua_wui_joo@moe.edu.sg</a>     |
+| Mrs Jacquelin Wong     | <a href="mailto:ong_su_hwee_jacquelin@moe.edu.sg" target="">ong_su_hwee_jacquelin@moe.edu.sg</a>     |
 | Ms Amelia Goh     | <a href="mailto:goh_tyen_hui_amelia@moe.edu.sg" target="">goh_tyen_hui_amelia@moe.edu.sg</a>     |
-| Mrs Melissa Timmer     | <a href="mailto:melissa_timmer@moe.edu.sg" target="">melissa_timmer@moe.edu.sg</a>     |
 | Mrs Sing-Ling Ping     | <a href="mailto:ling_ping@moe.edu.sg" target="">ling_ping@moe.edu.sg</a>     |
+| Ms Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">chan_sew_yoon@moe.edu.sg</a>     |

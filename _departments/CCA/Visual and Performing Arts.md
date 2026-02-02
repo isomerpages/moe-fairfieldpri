@@ -1,6 +1,6 @@
 ---
-title: Aesthetics
-permalink: /about-us/departments/cca-new/school-teams/aesthetics/
+title: Visual and Performing Arts
+permalink: /about-us/departments/cca-new/school-teams/vpa/
 description: ""
 third_nav_title: CCA
 variant: markdown
@@ -15,10 +15,10 @@ Beyond the studio, our passionate instructors offer opportunities for dancers to
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mdm Shanie Wu (IC)    | <a href="mailto:wu_lin_ying@moe.edu.sg" target="">wu_lin_ying@moe.edu.sg</a>     |
 | Ms Chiu Kit Ying (IC)     | <a href="mailto:chiu_kit_ying@moe.edu.sg" target="">chiu_kit_ying@moe.edu.sg</a>     |
-| Ms Pang Xin     | <a href="mailto:pang_xin@moe.edu.sg" target="">pang_xin@moe.edu.sg</a>     |
+| Mdm Shanie Wu (IC)    | <a href="mailto:wu_lin_ying@moe.edu.sg" target="">wu_lin_ying@moe.edu.sg</a>     |
 | Mdm Chan Man Pui     | <a href="mailto:chan_man_pui@moe.edu.sg" target="">chan_man_pui@moe.edu.sg</a>     |
+| Ms Pang Xin     | <a href="mailto:pang_xin@moe.edu.sg" target="">pang_xin@moe.edu.sg</a>     |
 
 
 <h4><strong>Choir</strong></h4>
@@ -31,10 +31,9 @@ Through the choir practices, students learn to apply musical skills to create an
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr On Tai Jim (IC)    | <a href="mailto:on_tai_jim@moe.edu.sg" target="">on_tai_jim@moe.edu.sg</a>     |
 | Mrs Yaw Siok Ching (IC)    | <a href="mailto:tan_siok_ching@moe.edu.sg" target="">tan_siok_ching@moe.edu.sg</a>     |
+| Mr On Tai Jim (IC)    | <a href="mailto:on_tai_jim@moe.edu.sg" target="">on_tai_jim@moe.edu.sg</a>     |
 | Ms Tan Yee Won     | <a href="mailto:tan_yee_won@moe.edu.sg" target="">tan_yee_won@moe.edu.sg</a>     |
-| Ms Chen Li Chuan     | <a href="mailto:chen_li_chuan@moe.edu.sg" target="">chen_li_chuan@moe.edu.sg</a>     |
 
 
 <h4><strong>Concert Band</strong></h4>
@@ -52,11 +51,11 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mrs Serena Chan (IC)    | <a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">chew_mei_jun_serena@moe.edu.sg</a>     |
 | Ms Geetha (IC)    | <a href="mailto:geetha_rajendran@moe.edu.sg" target="">geetha_rajendran@moe.edu.sg</a>     |
+| Mrs Serena Chan (IC)    | <a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">chew_mei_jun_serena@moe.edu.sg</a>     |
 | Mr Sooraj     | <a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">sooraj_prabhodachandran@moe.edu.sg</a>     |
 | Mdm Zhang Luyao     | <a href="mailto:zhang_luyao@moe.edu.sg" target="">zhang_luyao@moe.edu.sg</a>     |
-| Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">tang_li_tang@moe.edu.sg</a>     |
+| Ms Mandy Wong     | <a href="mailto:wong_jia_wen_mandy_a@moe.edu.sg" target="">wong_jia_wen_mandy_a@moe.edu.sg</a>     |
 | Mrs Lee Siu Marn     | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">leong_siu_marn@moe.edu.sg</a>     |
 | Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">kenneth_kueh@moe.edu.sg</a>     |
 | Mrs Chan Hwee Binn     | <a href="mailto:seah_hwee_bin@moe.edu.sg" target="">seah_hwee_bin@moe.edu.sg</a>     |

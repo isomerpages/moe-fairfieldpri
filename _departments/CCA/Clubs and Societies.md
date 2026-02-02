@@ -15,15 +15,15 @@ Besides technical skills, STEM education builds and encourages problem solving s
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
+| Mr Raymond Chan     | <a href="mailto:chan_kangshun_raymond@moe.edu.sg" target="">chan_kangshun_raymond@moe.edu.sg</a>     |
 | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">tham_kar_yee@moe.edu.sg</a>      |
-| Mrs Goh Xin Yi     | <a href="mailto:soh_xinyi@moe.edu.sg" target="">soh_xinyi@moe.edu.sg</a>     |
-| Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">teo_yiying_jessica@moe.edu.sg</a>     |
+
 
 <p></p><section id="christian-fellowship"><p></p>
-<h4><strong>Christian Fellowship
+<h4><strong>Vine Kids
 </strong></h4>
 
-<p>Christian Fellowship aims to provide a nurturing and inspiring environment, where God’s Word is taught in creative, stimulating and relevant ways. We do this through stories from the Bible, testimonies of missionaries and illustrations from everyday life. Through stories we hope to reflect and learn important truths from God’s Word and through application grow in godly character. There will also be a time of praise and worship, interactive games, discussion, and creative activities to do.</p></section>
+<p>Vine Kids aims to provide a nurturing and inspiring environment, where God’s Word is taught in creative, stimulating and relevant ways. We do this through stories from the Bible, testimonies of missionaries and illustrations from everyday life. Through stories we hope to reflect and learn important truths from God’s Word and through application grow in godly character. There will also be a time of praise and worship, interactive games, discussion, and creative activities to do.</p></section>
 
 <p>Through our learning together, our students will grow in knowing the love and goodness of God, grow in confidence as children of God, learn to serve and care for one another.</p>
 
@@ -31,5 +31,4 @@ Besides technical skills, STEM education builds and encourages problem solving s
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mrs Joyce Seet     | <a href="mailto:joyceseet@hotmail.com" target="">joyceseet@hotmail.com</a>     |
-| Mdm Lim Yen Peng     | <a href="mailto:yenpeng47@yahoo.com.sg" target="">yenpeng47@yahoo.com.sg</a>     |
+| Mrs Clydia Ruth Poh     | <a href="mailto:mak_si_en_clydia@moe.edu.sg" target="">mak_si_en_clydia@moe.edu.sg</a>     |

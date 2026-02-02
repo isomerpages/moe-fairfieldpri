@@ -17,11 +17,11 @@ We partner with a multitude of stakeholders to be first for Boys. Join us to bui
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr Raymond Chan (IC)     | <a href="mailto:chan_kangshun_raymond@moe.edu.sg" target="">chan_kangshun_raymond@moe.edu.sg</a>     |
-| Miss Chua Huiman (IC)     | <a href="mailto:chua_huiman@moe.edu.sg" target="">chua_huiman@moe.edu.sg</a>     |
-| Ms Arvie Guaring     | <a href="mailto:guaring_arvie_jean_balon@moe.edu.sg" target="">guaring_arvie_jean_balon@moe.edu.sg</a>     |
-| Ms Mavis Yeo     | <a href="mailto:yeo_bee_koon_mavis@moe.edu.sg" target="">yeo_bee_koon_mavis@moe.edu.sg</a>    |
-| Mr Teh Jing Hurng     | <a href="mailto:teh_jing_hurng@moe.edu.sg" target="">teh_jing_hurng@moe.edu.sg</a>     |
+| Mr Teh Jing Hurng (IC)     | <a href="mailto:teh_jing_hurng@moe.edu.sg" target="">teh_jing_hurng@moe.edu.sg</a>     |
+| Mr Tan Hue (IC)     | <a href="mailto:tan_hue_a@moe.edu.sg" target="">tan_hue_a@moe.edu.sg</a>     |
+| Miss Cheryl Wong     | <a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">wong_cheng_yi_cheryl@moe.edu.sg</a>     |
+| Mrs Amy Soh     | <a href="mailto:tang_hung_may@moe.edu.sg" target="">tang_hung_may@moe.edu.sg</a>    |
+| Mrs Cecilia Lee     | <a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">cecilia_peralta_lee@moe.edu.sg </a>     |
 
 
 
@@ -33,9 +33,8 @@ We partner with a multitude of stakeholders to be first for Boys. Join us to bui
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Miss Cheryl Wong (IC)     | <a href="mailto:wong_cheng_yi_cheryl@moe.edu.sg" target="">wong_cheng_yi_cheryl@moe.edu.sg</a>     |
 | Ms Claire Ling (IC)     | <a href="mailto:claire_ling_peck_yan@moe.edu.sg" target="">claire_ling_peck_yan@moe.edu.sg</a>     |
+| Ms Sieow Je Yun (IC)     | <a href="mailto:sieow_je_yun@moe.edu.sg" target="">sieow_je_yun@moe.edu.sg</a>     |
 | Mrs Angeline Lim     | <a href="mailto:chow_lye_ngor@moe.edu.sg" target="">chow_lye_ngor@moe.edu.sg</a>     |
-| Ms Sieow Je Yun     | <a href="mailto:sieow_je_yun@moe.edu.sg" target="">sieow_je_yun@moe.edu.sg</a>     |
-| Ms Amanda Choo     | <a href="mailto:amanda_choo_xuan_yi@moe.edu.sg" target="">amanda_choo_xuan_yi@moe.edu.sg</a>     |
+| Mrs Ann Tham     | <a href="mailto:ann_tan_geok_lin@moe.edu.sg" target="">ann_tan_geok_lin@moe.edu.sg</a>     |
 | Mrs Michelle Tan     | <a href="mailto:ng_sook_ling@moe.edu.sg" target="">ng_sook_ling@moe.edu.sg</a>     |

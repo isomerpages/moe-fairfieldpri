@@ -14,11 +14,11 @@ By participating in diverse modules across these domains, students are developed
 | Teachers-in-Charge | Email |
 | -------- | -------- |
 | Mr Hadi (IC)     | <a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">abdul_hadi_bakar@moe.edu.sg</a>     |
-| Mdm Esther Thon (IC)     | <a href="mailto:thon_sian_fei@moe.edu.sg" target="">thon_sian_fei@moe.edu.sg</a>     |
-| Mrs Iris Tan     | <a href="mailto:tay_wan_peng_iris@moe.edu.sg" target="">tay_wan_peng_iris@moe.edu.sg</a>     |
+| Mrs Iris Tan (IC)     | <a href="mailto:tay_wan_peng_iris@moe.edu.sg" target="">tay_wan_peng_iris@moe.edu.sg</a>     |
+| Mdm Esther Thon     | <a href="mailto:thon_sian_fei@moe.edu.sg" target="">thon_sian_fei@moe.edu.sg</a>     |
 | Mrs Deen     | <a href="mailto:kavitha_selvam@moe.edu.sg" target="">kavitha_selvam@moe.edu.sg</a>     |
-| Mdm Kamariah     | <a href="mailto:kamariah_abd_rahim@moe.edu.sg" target="">kamariah_abd_rahim@moe.edu.sg</a>     |
+| Ms Sun Xue     | <a href="mailto:sun_xue@moe.edu.sg" target="">sun_xue@moe.edu.sg</a>     |
 | Ms Wang Mengfei     | <a href="mailto:wang_mengfei@moe.edu.sg" target="">wang_mengfei@moe.edu.sg</a>     |
-| Mrs Rachel Ang     | <a href="mailto:tee_foong_chew@moe.edu.sg" target="">tee_foong_chew@moe.edu.sg</a>     |
-| Mr Han Zhijin     | <a href="mailto:han_zhijin@moe.edu.sg" target="">han_zhijin@moe.edu.sg</a>     |
-| Ms Sun Xue      | <a href="mailto:sun_xue@moe.edu.sg" target="">sun_xue@moe.edu.sg</a>     |
+| Ms Wang Shuai     | <a href="mailto:wang_shuai@moe.edu.sg" target="">wang_shuai@moe.edu.sgg</a>     |
+| Ms Shana Lim     | <a href="mailto:lim_li_shan@moe.edu.sg" target="">lim_li_shan@moe.edu.sg </a>     |
+| Mrs Jessica Loh      | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">teo_yiying_jessica@moe.edu.sg</a>     |

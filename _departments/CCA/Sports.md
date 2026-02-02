@@ -12,14 +12,16 @@ Students will learn values such as Respect, Integrity, Excellence and Sportsmans
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr Chan Ta Hoong (IC)     | <a href="mailto:chan_ta_hoong@moe.edu.sg" target="">chan_ta_hoong@moe.edu.sg</a>     |
 | Mr Ng Kah Mun (IC)     | <a href="mailto:ng_kah_mun@moe.edu.sg" target="">ng_kah_mun@moe.edu.sg</a>     |
-| Ms Melissa Yeo     | <a href="mailto:yeo_hui_kiang_melissa@moe.edu.sg" target="">yeo_hui_kiang_melissa@moe.edu.sg</a>     |
+| Mrs Angie Chng (IC)     | <a href="mailto:lim_wui_min_angie@moe.edu.sg" target="">lim_wui_min_angie@moe.edu.sg</a>     |
+| Mrs Rachel Ang     | <a href="mailto:tee_foong_chew@moe.edu.sg" target="">tee_foong_chew@moe.edu.sg</a>     |
 | Ms Harshini Ganapathy     | <a href="mailto:harshini_ganapathy@moe.edu.sg" target="">harshini_ganapathy@moe.edu.sg</a>     |
-| Mr Tan Hue     | <a href="mailto:tan_hue_a@moe.edu.sg" target="">tan_hue_a@moe.edu.sg</a>     |
-| Mrs Angie Chng     | <a href="mailto:lim_wui_min_angie@moe.edu.sg" target="">lim_wui_min_angie@moe.edu.sg</a>     |
+| Mrs Kaylan Chin     | <a href="mailto:kaylan_huang@moe.edu.sg" target="">kaylan_huang@moe.edu.sg</a>     |
+| Ms Chua Huiman     | <a href="mailto:chua_huiman@moe.edu.sg" target="">chua_huiman@moe.edu.sg</a>     |
+| Ms Chen Li Chuan     | <a href="mailto:chen_li_chuan@moe.edu.sg" target="">chen_li_chuan@moe.edu.sg</a>     |
+| Mr Han Zhijin     | <a href="mailto:han_zhijin@moe.edu.sgg" target="">han_zhijin@moe.edu.sg</a>     |
 | Ms Nor Fazylla    | <a href="mailto:nor_fazylla_mohamed_sanusi@moe.edu.sg" target="">nor_fazylla_mohamed_sanusi@moe.edu.sg</a>    |
-| Ms Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">chan_sew_yoon@moe.edu.sg</a>     |
+
 
 <p></p><section id="basketball"><p></p>
 <h4><strong>Basketball</strong></h4>

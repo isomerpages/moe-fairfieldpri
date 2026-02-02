@@ -32,11 +32,11 @@ Students will learn values such as Respect, Integrity, Excellence and Sportsmans
 | Teachers-in-Charge | Email |
 | -------- | -------- |
 | Mr John Chew (IC)     | <a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">chew_yang_cheng_john@moe.edu.sg</a>     |
-| Ms Tan Wee Ling (IC)     | <a href="mailto:tan_wee_ling@moe.edu.sg" target="">tan_wee_ling@moe.edu.sg</a>    |
-| Miss Natalie Kee     | <a href="mailto:natalie_kee_hui_yi@moe.edu.sg" target="">natalie_kee_hui_yi@moe.edu.sg</a>     |
+| Miss Natalie Kee (IC)     | <a href="mailto:natalie_kee_hui_yi@moe.edu.sg" target="">natalie_kee_hui_yi@moe.edu.sg</a>     |
+| Mdm Cheah Yoke Yin     | <a href="mailto:cheah_yoke_yin@moe.edu.sg" target="">cheah_yoke_yin@moe.edu.sg</a>    |
 | Ms Chan Leng Leng     | <a href="mailto:Lee_Leng_Leng@moe.edu.sg" target="">Lee_Leng_Leng@moe.edu.sg</a>    |
-| Ms Shana Lim     | <a href="mailto:lim_li_shan@moe.edu.sg" target="">lim_li_shan@moe.edu.sg</a>    |
-| Mrs Joy Malik    | <a href="mailto:joy_amisha_keshyap@moe.edu.sg" target="">joy_amisha_keshyap@moe.edu.sg</a>     |
+| Mrs Doris Lim     | <a href="mailto:joy_amisha_keshyap@moe.edu.sg" target="">joy_amisha_keshyap@moe.edu.sg</a>     |
+| Mrs Joy Malik     | <a href="mailto:joy_amisha_keshyap@moe.edu.sg" target="">joy_amisha_keshyap@moe.edu.sg</a>     |
 | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">lim_mei_chia_julia@moe.edu.sg</a>    |
 
 <p></p><section id="football"><p></p>

@@ -33,8 +33,9 @@ variant: markdown
   <tr>
     <td class="tg-zsoz"><span style="color:#222">Visual &amp; Performing Arts</span></td>
     <td class="tg-zsoz"><span style="color:#222">Sports</span></td>
-    <td class="tg-eii6"><span style="color:#222">Sports</span></td> 
-    <td class="tg-zstn"><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/cca-modules/"><span style="text-decoration:underline;color:#414CA0">Modules created under the domains of:</span></a><br></td>
+    <td class="tg-zsoz"><span style="color:#222">Uniformed Groups</span></td> 
+    <td class="tg-zstn"><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/cca-modules/"><span style="text-decoration:underline;color:#414CA0">CCA Modules:
+Modules created under the domains of:</span></a><br></td>
     <td class="tg-eii6"></td>
   </tr>
   <tr>

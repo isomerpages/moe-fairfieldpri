@@ -55,7 +55,7 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 | Mrs Serena Chan (IC)    | <a href="mailto:chew_mei_jun_serena@moe.edu.sg" target="">chew_mei_jun_serena@moe.edu.sg</a>     |
 | Mr Sooraj     | <a href="mailto:sooraj_prabhodachandran@moe.edu.sg" target="">sooraj_prabhodachandran@moe.edu.sg</a>     |
 | Mdm Zhang Luyao     | <a href="mailto:zhang_luyao@moe.edu.sg" target="">zhang_luyao@moe.edu.sg</a>     |
-| Mrs Lee Li Tang     | <a href="mailto:tang_li_tang@moe.edu.sg" target="">tang_li_tang@moe.edu.sg</a>     |
+| Ms Mandy Wong     | <a href="mailto:wong_jia_wen_mandy_a@moe.edu.sg" target="">wong_jia_wen_mandy_a@moe.edu.sg</a>     |
 | Mrs Lee Siu Marn     | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">leong_siu_marn@moe.edu.sg</a>     |
 | Mr Kenneth Kueh     | <a href="mailto:kenneth_kueh@moe.edu.sg" target="">kenneth_kueh@moe.edu.sg</a>     |
 | Mrs Chan Hwee Binn     | <a href="mailto:seah_hwee_bin@moe.edu.sg" target="">seah_hwee_bin@moe.edu.sg</a>     |

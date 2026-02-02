@@ -35,7 +35,8 @@ Students will learn values such as Respect, Integrity, Excellence and Sportsmans
 | Miss Natalie Kee (IC)     | <a href="mailto:natalie_kee_hui_yi@moe.edu.sg" target="">natalie_kee_hui_yi@moe.edu.sg</a>     |
 | Mdm Cheah Yoke Yin     | <a href="mailto:cheah_yoke_yin@moe.edu.sg" target="">cheah_yoke_yin@moe.edu.sg</a>    |
 | Ms Chan Leng Leng     | <a href="mailto:Lee_Leng_Leng@moe.edu.sg" target="">Lee_Leng_Leng@moe.edu.sg</a>    |
-| Mrs Doris Lim     | <a href="mailto:joy_amisha_keshyap@moe.edu.sg" target="">joy_amisha_keshyap@moe.edu.sg</a>     |
+| Mrs Doris Lim     | <a href="mailto:chng_kim_leng_doris@moe.edu.sg" target="">chng_kim_leng_doris@moe.edu.sg</a>     |
+| Ms Leela     | <a href="mailto:leelavathy_balakrishnan@moe.edu.sg" target="">leelavathy_balakrishnan@moe.edu.sg</a>     |
 | Mrs Joy Malik     | <a href="mailto:joy_amisha_keshyap@moe.edu.sg" target="">joy_amisha_keshyap@moe.edu.sg</a>     |
 | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">lim_mei_chia_julia@moe.edu.sg</a>    |
 

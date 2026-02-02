@@ -36,7 +36,7 @@ variant: markdown
     <td class="tg-zsoz"><span style="color:#222">Uniformed Groups</span></td> 
     <td class="tg-zstn"><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/cca-modules/"><span style="text-decoration:underline;color:#414CA0">CCA Modules:
 Modules created under the domains of:</span></a><br></td>
-    <td class="tg-eii6"></td>
+    <td class="tg-zsoz"><span style="color:#222">Clubs</span></td>
   </tr>
   <tr>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/"><span style="text-decoration:underline;color:#414CA0">Choir</span></a></td>

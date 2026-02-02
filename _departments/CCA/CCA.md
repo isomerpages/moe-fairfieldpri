@@ -23,17 +23,17 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-kvjb" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00">School Teams </span></th>
-    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00">Uniformed Groups</span></th>
-    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00">CCA Modules</span></th>
-    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00">Clubs &amp; Societies</span><br></th>
+    <th class="tg-kvjb" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
+    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
+    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
+    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-zsoz"><span style="color:#222">Visual &amp; Performing Arts</span></td>
     <td class="tg-zsoz"><span style="color:#222">Sports</span></td>
-    <td class="tg-eii6"></td>
+    <td class="tg-eii6"><span style="color:#222">Sports</span></td> 
     <td class="tg-zstn"><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/cca-modules/"><span style="text-decoration:underline;color:#414CA0">Modules created under the domains of:</span></a><br></td>
     <td class="tg-eii6"></td>
   </tr>
@@ -89,3 +89,10 @@ Your child is encouraged to stay in the CCA for the year. Please note that all r
 The link ([https://form.gov.sg/6886b876e128ecb4668d9abf](https://form.gov.sg/6886b876e128ecb4668d9abf)) to submit the request for the change of CCA will only open in Term 4.&nbsp;
 
 Any new CCA trials for the requested change is conducted in Term 4 between week 8 and 10. CCA transfer will take effect in January the following year.
+
+
+
+| Sports | Visual and Performing Arts | Uniformed Groups |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
+

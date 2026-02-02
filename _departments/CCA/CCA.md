@@ -79,7 +79,7 @@ variant: markdown
 
 
 
-[Click here for the Training Schedule for Semester 1](/files/2025/CCA_Schedule_Website.pdf)
+[Click here for the Training Schedule for Semester 1](/files/2026/CCA_Schedule_for_Sem_1_2026.pdf)
 
 
 ![](/images/CCA%20Dept.jpeg)

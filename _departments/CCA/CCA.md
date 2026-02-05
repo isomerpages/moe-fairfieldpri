@@ -23,10 +23,9 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-kvjb" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
-    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
-    <th class="tg-3jkp" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00">Clubs and Societies</span></th>
-    
+<th class="tg-kvjb" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
+<th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
+<th class="tg-3jkp" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00;text-align:center">Clubs and Societies</span></th>
   </tr>
 </thead>
 <tbody>

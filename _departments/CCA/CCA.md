@@ -25,8 +25,8 @@ variant: markdown
   <tr>
     <th class="tg-kvjb" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
     <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
-    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00">Clubs</span></th>
-    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00">and Societies</span><br></th>
+    <th class="tg-3jkp" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00">Clubs and Societies</span></th>
+    
   </tr>
 </thead>
 <tbody>

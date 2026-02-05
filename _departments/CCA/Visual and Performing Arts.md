@@ -59,6 +59,8 @@ Beyond the studio, our passionate instructors offer opportunities for dancers to
 | Mdm Shanie Wu (IC)    | <a href="mailto:wu_lin_ying@moe.edu.sg" target="">wu_lin_ying@moe.edu.sg</a>     |
 | Mdm Chan Man Pui     | <a href="mailto:chan_man_pui@moe.edu.sg" target="">chan_man_pui@moe.edu.sg</a>     |
 | Ms Pang Xin     | <a href="mailto:pang_xin@moe.edu.sg" target="">pang_xin@moe.edu.sg</a>     |
+
+
 <h4><strong>Handbell Ensemble</strong></h4>
 
 The FMSP Handbell Ensemble, established in 2009, comprises a vibrant group of passionate ringers from Primary Three to Six. Through engaging practice sessions, our students explore music from various cultures, build musical sensitivity, and develop the technical skills of handbell ringing.

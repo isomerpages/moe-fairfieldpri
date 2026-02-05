@@ -23,10 +23,9 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-kvjb" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
-    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
-    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
-    <th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span><br></th>
+<th class="tg-kvjb" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
+<th class="tg-3jkp"><span style="font-weight:bold;color:#000;background-color:#FFEA00"></span></th>
+<th style="text-align:center" class="tg-3jkp" colspan="2"><span style="font-weight:bold;color:#000;background-color:#FFEA00">Clubs and Societies</span></th>
   </tr>
 </thead>
 <tbody>
@@ -40,35 +39,35 @@ variant: markdown
     <td class="tg-zsoz"><span style="color:#222">Clubs</span></td>
   </tr>
   <tr>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/"><span style="text-decoration:underline;color:#414CA0">Choir</span></a></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/vpa/"><span style="text-decoration:underline;color:#414CA0">Choir</span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/sports/"><span style="text-decoration:underline;color:#414CA0">Badminton</span></a><span style="color:#222;background-color:#F2F2F2">  </span></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/uniformed-groups/"><span style="text-decoration:underline;color:#414CA0">Boys' Brigade</span></a></td>
     <td class="tg-zsoz"> L<span style="color:#000;background-color:transparent">eadership</span></td>
     <td class="tg-zstn"><a href="https://fmsp.moe.edu.sg/about-us/departments/cca-new/clubs-and-societies/"><span style="text-decoration:underline;color:#414CA0">STEM Club</span></a></td>
   </tr>
   <tr>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/#choir"><span style="text-decoration:underline;color:#414CA0">Concert Band</span></a></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/vpa/#choir"><span style="text-decoration:underline;color:#414CA0">Concert Band</span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/sports/#basketball"><span style="text-decoration:underline;color:#414CA0">Basketball </span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/uniformed-groups/#girls-brigade"><span style="text-decoration:underline;color:#414CA0">Girls' Brigade</span></a></td>
     <td class="tg-zsoz"> E<span style="color:#000;background-color:transparent">nrichment</span></td>
     <td class="tg-zstn"><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/clubs-and-societies/#christian-fellowship"><span style="text-decoration:underline;color:#414CA0"></span></a></td>
   </tr>
   <tr>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/#concert-band"><span style="text-decoration:underline;color:#414CA0">Dance</span></a></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/vpa/#concert-band"><span style="text-decoration:underline;color:#414CA0">Dance</span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/sports/#football"><span style="text-decoration:underline;color:#414CA0">Football</span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/uniformed-groups/#red-cross"><span style="text-decoration:underline;color:#414CA0"></span></a></td>
     <td class="tg-zsoz"> A<span style="color:#000;background-color:transparent">esthetics</span></td>
     <td class="tg-eii6"></td>
   </tr>
   <tr>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/#handbell-ensemble"><span style="text-decoration:underline;color:#414CA0">Handbell Ensemble</span></a></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/vpa/#handbell-ensemble"><span style="text-decoration:underline;color:#414CA0">Handbell Ensemble</span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/sports/#volleyball"><span style="text-decoration:underline;color:#414CA0">Volleyball</span></a></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
     <td class="tg-zsoz"> P<span style="color:#000;background-color:transparent">hysical</span></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
   </tr>
   <tr>
-    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/aesthetics/#visual-arts-club"><span style="text-decoration:underline;color:#414CA0">Visual Arts Club</span></a><span style="color:#222;background-color:#F2F2F2"> </span></td>
+    <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span><a href="https://www.fmsp.moe.edu.sg/about-us/departments/cca-new/school-teams/vpa/#visual-arts-club"><span style="text-decoration:underline;color:#414CA0">Visual Arts Club</span></a><span style="color:#222;background-color:#F2F2F2"> </span></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
     <td class="tg-unwu"><span style="color:#222;background-color:#F2F2F2"> </span></td>
     <td class="tg-zsoz"><span style="color:#222;background-color:#F2F2F2"> </span>S<span style="color:#000;background-color:transparent">ervice Learning</span></td>

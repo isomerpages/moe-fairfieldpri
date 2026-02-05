@@ -15,7 +15,7 @@ Besides technical skills, STEM education builds and encourages problem solving s
 
 | Teachers-in-Charge | Email |
 | -------- | -------- |
-| Mr Raymond Chan     | <a href="mailto:chan_kangshun_raymond@moe.edu.sg" target="">chan_kangshun_raymond@moe.edu.sg</a>     |
+| Mr Raymond Chan (IC)     | <a href="mailto:chan_kangshun_raymond@moe.edu.sg" target="">chan_kangshun_raymond@moe.edu.sg</a>     |
 | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">tham_kar_yee@moe.edu.sg</a>      |
 
 

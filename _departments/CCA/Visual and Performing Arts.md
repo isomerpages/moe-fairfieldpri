@@ -5,22 +5,6 @@ description: ""
 third_nav_title: CCA
 variant: markdown
 ---
-<h4><strong>Fairfield Dance</strong></h4>
-
-At Fairfield Dance, we embrace diversity and welcome students with a wide range of interests and backgrounds. Our programme encourages dancers to explore and celebrate an exciting variety of genres — from contemporary and modern to cultural and fusion styles. Through this rich exposure, we aim to spark creativity, promote inclusiveness, and nurture a deeper appreciation for the art of movement.
-
-Weekly training sessions focus on building strong technique and flexibility, guided by a structured and supportive dance curriculum.
-
-Beyond the studio, our passionate instructors offer opportunities for dancers to perform on a range of platforms. These performances are more than just showcases — they’re powerful learning experiences that help students grow as leaders and team players, while developing important values like care, responsibility, and resilience.
-
-| Teachers-in-Charge | Email |
-| -------- | -------- |
-| Ms Chiu Kit Ying (IC)     | <a href="mailto:chiu_kit_ying@moe.edu.sg" target="">chiu_kit_ying@moe.edu.sg</a>     |
-| Mdm Shanie Wu (IC)    | <a href="mailto:wu_lin_ying@moe.edu.sg" target="">wu_lin_ying@moe.edu.sg</a>     |
-| Mdm Chan Man Pui     | <a href="mailto:chan_man_pui@moe.edu.sg" target="">chan_man_pui@moe.edu.sg</a>     |
-| Ms Pang Xin     | <a href="mailto:pang_xin@moe.edu.sg" target="">pang_xin@moe.edu.sg</a>     |
-
-
 <h4><strong>Choir</strong></h4>
 
 Fairfield Methodist School (Primary) Choir is made up of passionate girls and boys who simply delight in singing. With the dedication and commitment of our Choral Instructor, Ms Susanna Pua, and our choir teachers, our senior choir achieved the Certificate of Distinction for SYF since 2014.
@@ -61,6 +45,22 @@ Through rehearsals, performances, and shared dedication, our members learn the v
 | Mrs Chan Hwee Binn     | <a href="mailto:seah_hwee_bin@moe.edu.sg" target="">seah_hwee_bin@moe.edu.sg</a>     |
 
 
+<h4><strong>Fairfield Dance</strong></h4>
+
+At Fairfield Dance, we embrace diversity and welcome students with a wide range of interests and backgrounds. Our programme encourages dancers to explore and celebrate an exciting variety of genres — from contemporary and modern to cultural and fusion styles. Through this rich exposure, we aim to spark creativity, promote inclusiveness, and nurture a deeper appreciation for the art of movement.
+
+Weekly training sessions focus on building strong technique and flexibility, guided by a structured and supportive dance curriculum.
+
+Beyond the studio, our passionate instructors offer opportunities for dancers to perform on a range of platforms. These performances are more than just showcases — they’re powerful learning experiences that help students grow as leaders and team players, while developing important values like care, responsibility, and resilience.
+
+| Teachers-in-Charge | Email |
+| -------- | -------- |
+| Ms Chiu Kit Ying (IC)     | <a href="mailto:chiu_kit_ying@moe.edu.sg" target="">chiu_kit_ying@moe.edu.sg</a>     |
+| Mdm Shanie Wu (IC)    | <a href="mailto:wu_lin_ying@moe.edu.sg" target="">wu_lin_ying@moe.edu.sg</a>     |
+| Mdm Chan Man Pui     | <a href="mailto:chan_man_pui@moe.edu.sg" target="">chan_man_pui@moe.edu.sg</a>     |
+| Ms Pang Xin     | <a href="mailto:pang_xin@moe.edu.sg" target="">pang_xin@moe.edu.sg</a>     |
+
+
 <h4><strong>Handbell Ensemble</strong></h4>
 
 The FMSP Handbell Ensemble, established in 2009, comprises a vibrant group of passionate ringers from Primary Three to Six. Through engaging practice sessions, our students explore music from various cultures, build musical sensitivity, and develop the technical skills of handbell ringing.
@@ -71,7 +71,6 @@ More than just music, the ensemble experience nurtures values such as empathy, r
 | -------- | -------- |
 | Ms Ang Bee Chin (IC)     | <a href="mailto:ang_bee_chin@moe.edu.sg" target="">ang_bee_chin@moe.edu.sg</a>     |
 | Ms Liew Yi Shing (IC)     | <a href="mailto:liew_yi_shing@moe.edu.sg" target="">liew_yi_shing@moe.edu.sg</a>     |
-
 
 
 <h4><strong>Visual Arts Club</strong></h4>

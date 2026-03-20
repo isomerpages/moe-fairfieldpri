@@ -5,72 +5,79 @@ description: ""
 variant: tiptap
 ---
 <p>Dear Parents and Guardians,</p>
-<p><strong>‘Strong and Courageous’ for 2026</strong>
-</p>
-<p>As we welcome the new year, I am delighted to share with you our theme
-for 2026: ‘Strong and Courageous’ drawn from 2 Timothy 1:7 ‘For God gave
-us a spirit not of fear but of power and love and self-control.’ This theme
-builds naturally upon our theme for 2025, ‘Love is in the Sunshine’, which
-focused on God's love and protection, and our students exercising their
-love for parents, siblings, teachers and friends.</p>
-<p><strong>Why ‘Strong and Courageous’ for 2026?</strong>
-</p>
-<p>Building on the foundation of knowing God's love, the theme of ‘Strong
-and Courageous’ now calls our students to step forward with confidence
-and courage. In today's complex world, our students face numerous challenges
-as they navigate their learning journey, build relationships and develop
-their character. However, God has not given us a spirit of fear. Instead,
-He has given us power, love and self-control. This means our students can
-face any challenges with courage.</p>
-<p><strong>What does ‘Strong and Courageous’ look like?</strong>
-</p>
-<p>When our students face a difficult test or struggle to understand a new
-topic, they can be strong and courageous. They do not need to fear because
-they are empowered and can take ownership to keep trying and to overcome
-challenges. With this courage, they can stay hopeful and positive even
-when learning feels hard.</p>
-<p>As our students meet new classmates or teachers, they can be strong and
-courageous in choosing to love others. This means having the courage to
-get to know people who might be different from them. It means being empathetic
-towards them so that they will continue to learn from others' views and
-perspectives. When it is not always easy to be kind and understanding,
-they can still choose to do so. When our students do that, they help build
-a caring and loving school where everyone feels welcome.</p>
-<p>With lessons in school and parents’ loving support at home, our students
-can be strong and courageous to be more discerning in their choice of words
-and actions. God has given them self-control, which means they can exercise
-self-discipline and take charge of their own learning. They can choose
-to work hard, play well and help others. They can be wise about how they
-spend their time and careful about how they treat people.</p>
-<p><strong>Changes in the Fairfield Family</strong>
-</p>
-<p>As we start this new year, we also acknowledge some important changes
-to our school community. We say goodbye to some wonderful teachers who
-have served our school well:</p>
-<p>Mrs Julie Yuan (Head of Department/Special Educational Needs)
-<br>Mrs Goh Xinyi (Senior Teacher/Science)
-<br>Miss Sofia Parkash (Head of Department/English Language)
-<br>Mrs Tay Shu Yi (Head of Department/Science)
-<br>Ms Arvie Guaring (Teacher)
-<br>Mr Chan Ta Hoong (Teacher)</p>
-<p>We thank God for their faithful service and pray for His blessings as
-they begin new chapters in their lives.</p>
-<p>At the same time, we warmly welcome new members to our Fairfield family:</p>
-<p>Mr Boh Hong Jik, as Vice-Principal Administration
-<br>Ms Francesca Wah, as Head of Department/English Language
-<br>Mr Peter Chutatape, Lead Teacher/English Language
-<br>Ms Angeline Chua, Teacher
-<br>Mrs Dorcas Chan, Teacher</p>
-<p><strong>Our Partnership</strong>
-</p>
-<p>As we embark on this exciting year together, we need your continued support
-and partnership to ensure our students enjoy a meaningful learning journey
-in school. Please encourage our students to be strong and courageous even
-at home. Remind them that God loves them and has equipped them with everything
-they need. Together, we can help them grow into young people who enjoy
-learning, have confidence, and are hopeful about the future.</p>
-<p>My colleagues and I would like to wish you Happy New Year and have a blessed
-2026 ahead! We look forward to working with you.</p>
+<p>As we start Term 2, 2026, I thank you for your continued partnership and
+support for our school.</p>
+<p>This year’s school theme is “Strong and Courageous.” Over the past term,
+with your strong support, we have seen many students demonstrate this through
+their willingness to try new things, persevere through challenges, and
+show kindness to others.</p>
+<p>Our Primary 1 students, in particular, have shown courage as they adjust
+to a new environment, make friends and learn new routines. Across all levels,
+students are also learning important habits such as self-discipline, responsibility
+and perseverance — qualities that help them grow in confidence and character.</p>
+<p>We would also like to thank our Partners-in-Education (PiE) for your generous
+support in programmes such as the Primary 1 Touch Typing programme and
+the Primary 4 to 6 Sports Carnival. The Sports Carnival was a wonderful
+way to end Term 1, with students experiencing teamwork, resilience and
+good sportsmanship. The Primary 1 to 3 students can look forward to the
+Lower Primary Games Day which will be held on Children’s Day.</p>
+<p>As we move into Term 2, the academic work will become more challenging
+and conceptual for some levels. Our Primary 6 students will also begin
+to feel the increasing demands as they move closer to the PSLE. During
+this period, one way we can support our students is by helping them develop
+Executive Functioning skills that enable them to manage their learning
+more effectively:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Younger students can learn emotional control, recognising their feelings
+and calming themselves when they feel frustrated with difficult work.</p>
+</li>
+<li>
+<p>Middle primary students can practise using working memory strategies,
+such as breaking information into smaller parts when learning new concepts.</p>
+</li>
+<li>
+<p>Older students can develop self-monitoring, checking their work carefully
+and thinking about how they can improve.</p>
+</li>
+<li>
+<p>For our Primary 6 students, planning and organisation become important,
+such as breaking large tasks into smaller steps and managing their study
+time well.</p>
+</li>
+</ul>
+<p>Let’s work together to encourage our students to build these habits and
+become more confident and independent learners. As our students apply these
+skills, we will work together to encourage them to discover their strengths,
+stay resilient in their learning, and build confidence as they overcome
+challenges.</p>
+<p>I would also like to share with you that behind the scenes, our teachers
+continue to learn and grow professionally. Through Professional Learning
+Teams (PLTs), they collaborate to explore innovative teaching approaches
+and effective use of educational technology to design meaningful learning
+experiences. We are proud to share that four PLT projects in English, Science,
+Physical Education and Music from 2025 have been accepted for presentation
+at the Redesigning Pedagogy International Conference 2026 organised by
+NIE/NTU. This reflects our teachers’ dedication to continually improve
+their practice for the benefit of our students.</p>
+<p>In this edition of Newslink, we have also included a new section on our
+Zero Bullying efforts. This section aims to keep parents informed about
+the steps the school is taking to foster a safe and inclusive environment
+for all students. It will also provide practical strategies to support
+your children in building positive peer relationships, managing conflicts
+respectfully, and showing empathy towards others. We look forward to partnering
+with you in nurturing a community where every child feels safe, respected,
+and valued.</p>
+<p>Thank you once again for your continued support and partnership. Together,
+we will nurture our children to be strong and courageous, ready to learn,
+care for others, and grow with confidence.</p>
+<p>“Have I not commanded you? Be strong and courageous. Do not be afraid;
+do not be discouraged, for the Lord your God will be with you wherever
+you go.” ~ Joshua 1:9</p>
 <p>Serving with you,
 <br><strong>Mrs Soh Mei Foong</strong>
 <br>Principal</p>
+<p><strong><em>"For the Spirit God gave us does not make us timid, but gives us power, love and self-discipline" ~ 2 Timothy 1:7 (NIV)&nbsp;</em></strong>
+</p>
+<p>&nbsp;</p>
+<p></p>

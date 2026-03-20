@@ -7,10 +7,10 @@ variant: tiptap
 <p>Dear Parents and Guardians,</p>
 <p>As we start Term 2, 2026, I thank you for your continued partnership and
 support for our school.</p>
-<p>This year’s school theme is “Strong and Courageous.” Over the past term,
-with your strong support, we have seen many students demonstrate this through
-their willingness to try new things, persevere through challenges, and
-show kindness to others.</p>
+<p>This year’s school theme is <strong>“Strong and Courageous.”</strong> Over
+the past term, with your strong support, we have seen many students demonstrate
+this through their willingness to try new things, persevere through challenges,
+and show kindness to others.</p>
 <p>Our Primary 1 students, in particular, have shown courage as they adjust
 to a new environment, make friends and learn new routines. Across all levels,
 students are also learning important habits such as self-discipline, responsibility

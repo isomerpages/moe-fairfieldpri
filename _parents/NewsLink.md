@@ -11,5 +11,6 @@ key dates, achievements, projects, and the school's vision, fostering transparen
 and engagement with parents. Please click on the links below to read the
 termly NewsLinks.</p>
 <p><strong>2026</strong>
+<br><a href="https://go.gov.sg/newslink2026term2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/newslink2026term2</a>
 <br><a href="https://go.gov.sg/newslink2026term1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/newslink2026term1</a>
 </p>

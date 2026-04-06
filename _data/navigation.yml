@@ -76,5 +76,8 @@ links:
     sublinks:
       - title: Alumni Link
         url: https://fairfieldalumni.org.sg/
-  - title: Speak Up @ Fairfield
+  - title: Useful Links
     url: /permalink
+    sublinks:
+      - title: Speak Up! @ Fairfield
+        url: https://go.gov.sg/fmsp-speakup

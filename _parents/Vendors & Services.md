@@ -78,10 +78,3 @@ Contact Number : <b>9833 0789</b></p>
 <br>Mon – Fri: 9am - 5:30pm
 <br>Sat: 9am - 3:30pm
 <br>Closed on Sunday and Public Holidays.
-<p><strong>Sale of School Uniform &amp; PE Attire</strong> 
-<br>Yangtze Kiang Tailor will be open for operations at our school from 9am – 12pm on the last Saturday of every month <strong>EXCEPT</strong> for the following month:
-June: 22 June 2024
-
-
-
-</p><p>The school uniform is on sale in the school on selected dates.</p>

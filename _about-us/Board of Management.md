@@ -4,7 +4,7 @@ permalink: /about-us/board-of-management/
 description: ""
 variant: markdown
 ---
-![](/images/2024/FMS_BOM__1_.jpg)
+![](/images/2026/BOM2026.jpg)
 
 | Name | Designation | 
 | -------- | -------- | 
@@ -12,7 +12,7 @@ variant: markdown
 | Ms Cho Pei Lin     | Treasurer     | 
 | Mr Richard Seow Hwa Sun     | Assistant Education Secretary     | 
 | Ms Kwok Wan Yee     | Member     | 
-| Rev. Dr. Lynette Sathiasingam     | Member     | 
+| Rev. Benjamin Lee     | Member     | 
 | Mdm Sandra Tan     | Member     | 
 | Mr Kelvin Ong     | Member     | 
 | Mr Peter Ho     | Member     | 

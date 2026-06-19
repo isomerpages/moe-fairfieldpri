@@ -18,7 +18,7 @@ skills and experiences, supporting the school in realising the school vision.</p
 collaborating and networking to benefit and support the school's programmes.</p>
 <h4><strong>The Team</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/PIE_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026/PIE_June_2026.jpg">
 </div>
 <p><strong><u>PiE Committee 2026</u></strong>
 <br><strong>Chair Person</strong> : Felicia Ang
@@ -27,6 +27,7 @@ collaborating and networking to benefit and support the school's programmes.</p>
 <br><strong>Members </strong>:
 <br>Adrienne Tan
 <br>Bak Xiaoying
+<br>Jacqueline Woo
 <br>Liao Peiying
 <br>Priscilla Koh</p>
 <h4><strong>Contact Us</strong></h4>

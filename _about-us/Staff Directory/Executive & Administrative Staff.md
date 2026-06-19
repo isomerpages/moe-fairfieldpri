@@ -22,4 +22,4 @@ variant: markdown
 | Mdm Chiang Phek Geok     | OSO     |
 | Mdm Shanti     | OSO     |
 | Mdm Jamelah     | OSO     |
-| Ms Siti Aziemah     | Librarian     |
+| Ms Celestine Chia     | Librarian     |

@@ -15,7 +15,7 @@ Places, Statutory Declaration, School Vacancies by Phases, Registration
 for Overseas Singaporeans and Frequently Asked Questions through the MOE
 Primary One Registration Exercise webpage at: <a href="http://go.gov.sg/P1reg" rel="noopener noreferrer nofollow" target="">go.gov.sg/P1reg</a>
 </p>
-<p><strong>APPLICATION FOR PARENT VOLUNTEER (PV) PROGRAMME</strong>
+<p><strong>Application For Parent Volunteer (PV) Programme</strong>
 <br>Fairfield Methodist School (Primary) has discontinued the Parent Volunteer
 Scheme for children born in 2020 and beyond. Consequently, the school no
 longer recruits Parent Volunteers for admission under Phase 2B of the Primary

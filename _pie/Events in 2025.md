@@ -6,22 +6,12 @@ description: ""
 ---
 <p><strong>P1 Shepherding / P1 Parents Welcome Tea (3rd, 6th and 7th January 2025)</strong>
 </p>
-<p>PiE parents were all ready to extend a warm welcome to the new P1s and
-their parents into the Fairfield Family. Over the first three days of school,
-PiE parents shepherded the P1s and helped them settle in. This helped allay
-the anxieties of the new pupils and their parents. On the first day, P1
-parents were also initiated into primary school life and the Fairfield
-culture with a Parenting Talk. This was followed by networking among the
-parents by their respective classes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem13.jpg">
 </div>
-<p></p>
-<p><strong>Chinese New Year Decoration &amp; Celebration (17th January 2025)</strong>
+<p>
+<br><strong>Chinese New Year Decoration &amp; Celebration (17th January 2025)</strong>
 </p>
-<p>PiE parents come together every year to decorate the school premises for
-Chinese New Year. This year, they enthusiastically covered canteen and
-foyer with festive cheer.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem14.jpg">
 </div>
@@ -243,10 +233,7 @@ foyer with festive cheer.</p>
 </div>
 <p>
 <br><strong>Positive Star Crochet Blessing Project for P6 (October 2024 to August 2025)</strong>
-<br>This is the first year our parents have come together to crochet Positive
-Stars for our P6 students, as a way to bless them and show our support
-during their PSLE year. Each star is made with care, encouragement, and
-well wishes for the journey ahead.</p>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025/Pie/pie2025sem229.jpg">
 </div>

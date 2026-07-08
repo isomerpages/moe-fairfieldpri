@@ -9,7 +9,7 @@ third_nav_title: Staff Directory
 
 | Department | Name | Email |
 | -------- | -------- | -------- |
-| English       | Mr Mr Peter Chutatape     | <a href="mailto:peter_chutatape@moe.edu.sg" target="">Email</a>     |
+| English       | Mr Peter Chutatape     | <a href="mailto:peter_chutatape@moe.edu.sg" target="">Email</a>     |
 | Mathematics       | Mr Joel Lim     | <a href="mailto:joel_lim_en-rui@moe.edu.sg" target="">Email</a>     |
 | Physical Education     | Mrs Morna Wee     | <a href="mailto:morna_tan_wang_lin@moe.edu.sg" target="">Email</a>     |
 

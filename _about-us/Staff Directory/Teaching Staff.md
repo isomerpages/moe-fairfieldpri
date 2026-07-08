@@ -151,7 +151,7 @@ variant: markdown
 </tr>
 <tr>
 <td style="width: 50%;">
-<p><strong>Ms Chen Siyun</strong><strong>&nbsp;</strong><strong><a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a><br></strong><strong>Mr Tan Hue</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_hue_a@moe.edu.sg" target="">Email</a><br></strong>Class 4C</p>
+<p><strong>Ms Chen Siyun</strong><strong>&nbsp;</strong><strong><a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a><br></strong><strong>Ms Angelina Tan</strong><strong>&nbsp;</strong><strong><a href="mailto:tan_lay_geok_c@moe.edu.sg" target="">Email</a><br></strong>Class 4C</p>
 </td>
 <td style="width: 50%;">
 <p><strong>Mr On Tai Jim</strong><strong>&nbsp;</strong><strong><a href="mailto:on_tai_jim@moe.edu.sg" target="">Email</a><br></strong><strong>Mrs Mallika Habeeb</strong><strong>&nbsp;</strong><strong><a href="mailto:mallika_begum@moe.edu.sg" target="">Email</a><br></strong>Class 4D</p>

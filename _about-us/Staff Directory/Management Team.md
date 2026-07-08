@@ -52,5 +52,5 @@ variant: markdown
 | EdTech and Knowledge Management     | Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a>     |
 | Innovation     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>    |
 | Student Wellbeing (Covering)      | Mr John Chew     | <a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">Email</a>    |
-| Character &amp; Citizenship Education     | Ms Melissa Yeo     | <a href="mailto:yeo_hui_kiang_melissa@moe.edu.sg" target="">Email</a>    |
-| Innovation     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>    |
+| Character &amp; Citizenship Education     | Mr Abdul Hadi Bin Bakar     | <a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">Email</a>    |
+| Physical Education &amp; Co-Curricular Activities     | Ms Melissa Yeo     | <a href="mailto:yeo_hui_kiang_melissa@moe.edu.sg" target="">Email</a>    |

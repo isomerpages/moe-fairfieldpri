@@ -16,7 +16,7 @@ variant: markdown
 | PAM and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a>    |
 | EdTech and Innovation    | Ms Michelle Yap     | <a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a>    | 
 | Character &amp; Citizenship Education     | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>    |
-| Student Management (Covering)    | Mr Liu Lijia   | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>    |
+| Student Management     | Mr Liu Lijia   | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>    |
 | School Staff Developer     | Ms Chen Siyun     | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>    |
 
 #### YEAR HEADS
@@ -34,7 +34,6 @@ variant: markdown
 | Lower Primary     | Ms Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a>     |
 | Middle Primary     | Mrs Lee Siu Marn    | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a>     |
 | Middle Primary     | Mrs Cecilia Peralta-Lee    | <a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a>     |
-| Upper Primary     | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a>     |
 
 #### LEVEL HEADS
 

@@ -16,15 +16,16 @@ variant: markdown
 | PAM and Co-Curricular Activities     | Mr Fu Siqiang    | <a href="mailto:fu_siqiang@moe.edu.sg" target="">Email</a>    |
 | EdTech and Innovation    | Ms Michelle Yap     | <a href="mailto:yap_hui_ching_michelle@moe.edu.sg" target="">Email</a>    | 
 | Character &amp; Citizenship Education     | Mdm Sandra Hou     | <a href="mailto:hou_may_wah_sandra@moe.edu.sg" target="">Email</a>    |
-| Student Management (Covering)    | Mr Liu Lijia   | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>    |
+| Student Management     | Mr Liu Lijia   | <a href="mailto:liu_lijia@moe.edu.sg" target="">Email</a>    |
 | School Staff Developer     | Ms Chen Siyun     | <a href="mailto:chen_siyun@moe.edu.sg" target="">Email</a>    |
 
 #### YEAR HEADS
 
-| Department | Name | Email |
+| Level | Name | Email |
 | -------- | -------- | -------- |
-| Lower Primary     | Mrs Lim Wei Wei     | <a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a>     |
-| Upper Primary    | Mrs Jacelyn Kwan     | <a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a>     |
+| Primary 1 and 6     | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a>     |
+| Primary 2 and 4    | Mrs Lim Wei Wei     | <a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a>     |
+| Primary 3 and 5     | Mrs Jacelyn Kwan     | <a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a>     |
 
 #### ASSISTANT YEAR HEADS
 
@@ -33,7 +34,6 @@ variant: markdown
 | Lower Primary     | Ms Chan Sew Yoon     | <a href="mailto:chan_sew_yoon@moe.edu.sg" target="">Email</a>     |
 | Middle Primary     | Mrs Lee Siu Marn    | <a href="mailto:leong_siu_marn@moe.edu.sg" target="">Email</a>     |
 | Middle Primary     | Mrs Cecilia Peralta-Lee    | <a href="mailto:cecilia_peralta_lee@moe.edu.sg" target="">Email</a>     |
-| Upper Primary     | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a>     |
 
 #### LEVEL HEADS
 
@@ -51,3 +51,6 @@ variant: markdown
 | Mother Tongue Language (Malay &amp; Tamil)    | Mr Zamree Bin Mustapha     | <a href="mailto:zamree_mustapha@moe.edu.sg" target="">Email</a>     |
 | EdTech and Knowledge Management     | Mrs Jessica Loh     | <a href="mailto:teo_yiying_jessica@moe.edu.sg" target="">Email</a>     |
 | Innovation     | Mrs Joy Au     | <a href="mailto:tham_kar_yee@moe.edu.sg" target="">Email</a>    |
+| Student Wellbeing (Covering)      | Mr John Chew     | <a href="mailto:chew_yang_cheng_john@moe.edu.sg" target="">Email</a>    |
+| Character &amp; Citizenship Education     | Mr Abdul Hadi Bin Bakar     | <a href="mailto:abdul_hadi_bakar@moe.edu.sg" target="">Email</a>    |
+| Physical Education &amp; Co-Curricular Activities     | Ms Melissa Yeo     | <a href="mailto:yeo_hui_kiang_melissa@moe.edu.sg" target="">Email</a>    |

@@ -21,10 +21,11 @@ variant: markdown
 
 #### YEAR HEADS
 
-| Department | Name | Email |
+| Level | Name | Email |
 | -------- | -------- | -------- |
-| Lower Primary     | Mrs Lim Wei Wei     | <a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a>     |
-| Upper Primary    | Mrs Jacelyn Kwan     | <a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a>     |
+| Primary 1 and 6     | Mrs Julia Sa     | <a href="mailto:lim_mei_chia_julia@moe.edu.sg" target="">Email</a>     |
+| Primary 2 and 4    | Mrs Lim Wei Wei     | <a href="mailto:chua_wei_wei@moe.edu.sg" target="">Email</a>     |
+| Primary 3 and 5     | Mrs Jacelyn Kwan     | <a href="mailto:chia_pin_jhin@moe.edu.sg" target="">Email</a>     |
 
 #### ASSISTANT YEAR HEADS
 

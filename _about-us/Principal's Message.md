@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>Dear Parents and Guardians,</p>
 <p>Term 2 has been a season of remarkable achievement, joyful discovery,
-and courageous endeavour at Fairfield. Our 2025 theme "Strong and Courageous"
+and courageous endeavour at Fairfield. Our 2026 theme "Strong and Courageous"
 has truly come alive as we witnessed our students rise to meet challenges
 with determination, embrace new experiences with boldness, and celebrate
 one another's successes with genuine community spirit.</p>

@@ -10,5 +10,3 @@ variant: markdown
 <p>Should you wish to provide feedback or have queries, please email&nbsp;<a href="mailto:fmsp@moe.edu.sg" target="">fmsp@moe.edu.sg</a>&nbsp;and cc our SCC School Liaison, Mrs Lim Wei Wei at&nbsp;<a href="mailto:chua_wei_wei@moe.edu.sg" target="">chua_wei_wei@moe.edu.sg</a></p>
 
 2027_SCC_FMS_P__Application_Letter.pdf
-
-

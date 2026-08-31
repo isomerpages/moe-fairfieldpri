@@ -13,5 +13,5 @@ termly NewsLinks.</p>
 <p><strong>2026</strong>
 <br><a href="https://go.gov.sg/newslink2026term3" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/newslink2026term3</a>
 <br><a href="https://go.gov.sg/newslink2026term2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/newslink2026term2</a>
-<br><a href="https://go.gov.sg/newslink2026term1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/newslink2026term1</a>
+<br><a href="https://go.gov.sg/newslink2026term1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/newslink2026term</a>
 </p>

@@ -76,9 +76,7 @@ variant: markdown
 </tbody>
 </table>
 
-
-
-[Click here for the Training Schedule for Semester 2](/files/2026/CCA_Schedule_for_Sem_1_2026.pdf)
+[Click here for the Training Schedule for Semester 2](/files/2026/CCA_Schedule__Sem_2_2026__Updated.pdf)
 
 
 ![](/images/CCA%20Dept.jpeg)

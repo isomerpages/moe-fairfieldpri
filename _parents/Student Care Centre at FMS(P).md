@@ -8,5 +8,3 @@ variant: markdown
 <p>Applications for SCC places for Year 2027 will open from 1 to 11 September 2026. Please refer to the notification letter for more details:<br><a href="/files/2026/2027_SCC_FMS_P__Application_Letter.pdf" target="">2027 SCC@FMS(P) Application Letter</a></p>
 <p>To find out more about the SCC, please refer to the following document:<br><a href="/files/2026/2027_Student_Care_Centre_FMS_P__FAQs__22_09_2026_.pdf" target="">2027 Student Care Centre@FMS(P) FAQs (UPDATED)</a></p>
 <p>Should you wish to provide feedback or have queries, please email&nbsp;<a href="mailto:fmsp@moe.edu.sg" target="">fmsp@moe.edu.sg</a>&nbsp;and cc our SCC School Liaison, Mrs Lim Wei Wei at&nbsp;<a href="mailto:chua_wei_wei@moe.edu.sg" target="">chua_wei_wei@moe.edu.sg</a></p>
-
-[](/files/2026/2027_Student_Care_Centre_FMS_P__FAQs__22_09_2026_.pdf)2027 Student Care Centre@FMS(P) FAQs
